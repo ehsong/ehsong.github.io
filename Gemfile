@@ -15,6 +15,7 @@ gem "github-pages", group: :jekyll_plugins
 # To upgrade, run `bundle update`.
 
 gem "jekyll"
+gem 'commonmarker', '0.17.13'
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 gem 'ffi', '1.9.17'

@@ -247,6 +247,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  commonmarker (= 0.17.13)
   ffi (= 1.9.17)
   github-pages
   hawkins
