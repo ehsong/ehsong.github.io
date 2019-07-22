@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : ehsong
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
@@ -310,6 +310,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-
-github: [metadata]
