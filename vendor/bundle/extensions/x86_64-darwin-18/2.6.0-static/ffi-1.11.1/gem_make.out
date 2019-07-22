@@ -1,0 +1,23 @@
+current directory: /Users/eunhousong/Modules/Script/gitpage/ehsong.github.io/vendor/bundle/gems/ffi-1.11.1/ext/ffi_c
+/Users/eunhousong/.rbenv/versions/2.6.2/bin/ruby -I /Users/eunhousong/.rbenv/versions/2.6.2/lib/ruby/site_ruby/2.6.0 -r ./siteconf20190721-44709-1qfibuq.rb extconf.rb
+checking for ffi.h... no
+checking for ffi.h in /usr/local/include,/usr/include/ffi... no
+checking for shlwapi.h... no
+checking for rb_thread_call_without_gvl()... yes
+checking for ruby_native_thread_p()... yes
+checking for ruby_thread_has_gvl_p()... yes
+creating extconf.h
+creating Makefile
+
+current directory: /Users/eunhousong/Modules/Script/gitpage/ehsong.github.io/vendor/bundle/gems/ffi-1.11.1/ext/ffi_c
+make "DESTDIR=" clean
+
+current directory: /Users/eunhousong/Modules/Script/gitpage/ehsong.github.io/vendor/bundle/gems/ffi-1.11.1/ext/ffi_c
+make "DESTDIR="
+Configuring libffi
+configure: error: in `/Users/eunhousong/Modules/Script/gitpage/ehsong.github.io/vendor/bundle/gems/ffi-1.11.1/ext/ffi_c/libffi-x86_64-darwin18':
+configure: error: C++ preprocessor "/lib/cpp" fails sanity check
+See `config.log' for more details
+make: *** ["/Users/eunhousong/Modules/Script/gitpage/ehsong.github.io/vendor/bundle/gems/ffi-1.11.1/ext/ffi_c/libffi-x86_64-darwin18"/.libs/libffi_convenience.a] Error 1
+
+make failed, exit code 2

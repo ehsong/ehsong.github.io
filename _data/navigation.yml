@@ -1,0 +1,13 @@
+# main links links
+main:
+  - title: "Dissertation"
+    url: /dissertation/
+
+  - title: "Research"
+    url: /research/
+
+  - title: "CV"
+    url: /cv/
+
+  - title: "Contact"
+    url: /contact/
