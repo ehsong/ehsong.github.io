@@ -96,7 +96,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
+<<<<<<< HEAD
   github           :
+=======
+  github           : 
+>>>>>>> 086caef98b85e1478c1965ed51f0c8bfb6a582cd
   google_plus      :
   keybase          :
   instagram        :
@@ -310,5 +314,9 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+<<<<<<< HEAD
 
+=======
+ 
+>>>>>>> 086caef98b85e1478c1965ed51f0c8bfb6a582cd
 github: [metadata]
