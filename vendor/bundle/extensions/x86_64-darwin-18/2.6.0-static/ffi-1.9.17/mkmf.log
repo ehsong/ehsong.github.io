@@ -95,7 +95,7 @@ checked program was:
 "clang -o conftest -I/Users/eunhousong/.rbenv/versions/2.6.2/include/ruby-2.6.0/x86_64-darwin18 -I/Users/eunhousong/.rbenv/versions/2.6.2/include/ruby-2.6.0/ruby/backward -I/Users/eunhousong/.rbenv/versions/2.6.2/include/ruby-2.6.0 -I. -I/Users/eunhousong/.rbenv/versions/2.6.2/include  -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -O3 -ggdb3 -Wall -Wextra -Wdeclaration-after-statement -Wdeprecated-declarations -Wdivision-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wmissing-noreturn -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wextra-tokens  -pipe conftest.c  -L. -L/Users/eunhousong/.rbenv/versions/2.6.2/lib -L. -L/Users/eunhousong/.rbenv/versions/2.6.2/lib  -fstack-protector-strong -L/usr/local/lib     -lruby.2.6-static -framework Security -framework Foundation -lpthread -ldl -lobjc   "
 Undefined symbols for architecture x86_64:
   "_rb_thread_blocking_region", referenced from:
-      _t in conftest-823ba4.o
+      _t in conftest-a2c06f.o
 ld: symbol(s) not found for architecture x86_64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:
@@ -241,7 +241,7 @@ checked program was:
 "clang -o conftest -I/Users/eunhousong/.rbenv/versions/2.6.2/include/ruby-2.6.0/x86_64-darwin18 -I/Users/eunhousong/.rbenv/versions/2.6.2/include/ruby-2.6.0/ruby/backward -I/Users/eunhousong/.rbenv/versions/2.6.2/include/ruby-2.6.0 -I. -I/Users/eunhousong/.rbenv/versions/2.6.2/include  -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -O3 -ggdb3 -Wall -Wextra -Wdeclaration-after-statement -Wdeprecated-declarations -Wdivision-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wmissing-noreturn -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wextra-tokens  -pipe conftest.c  -L. -L/Users/eunhousong/.rbenv/versions/2.6.2/lib -L. -L/Users/eunhousong/.rbenv/versions/2.6.2/lib  -fstack-protector-strong -L/usr/local/lib     -lruby.2.6-static -framework Security -framework Foundation -lpthread -ldl -lobjc   "
 Undefined symbols for architecture x86_64:
   "_ffi_prep_cif_var", referenced from:
-      _t in conftest-d1a884.o
+      _t in conftest-895e38.o
 ld: symbol(s) not found for architecture x86_64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:

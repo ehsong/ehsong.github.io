@@ -13,7 +13,7 @@ name                     : &name "Eunhou Esther Song"
 description              : &description "Ph.D. Candidate at Department of Political Science, Stanford University"
 url                      : https://ehsong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ehsong/ehsong.github.io"
+repository               : "ehsong.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,11 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-<<<<<<< HEAD
-  github           :
-=======
-  github           : 
->>>>>>> 086caef98b85e1478c1965ed51f0c8bfb6a582cd
+  github           : "ehsong"
   google_plus      :
   keybase          :
   instagram        :
@@ -314,9 +310,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-<<<<<<< HEAD
-
-=======
- 
->>>>>>> 086caef98b85e1478c1965ed51f0c8bfb6a582cd
-github: [metadata]
