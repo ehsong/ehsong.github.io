@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am a Ph.D. Candidate at Department of Political Science, Stanford University. I have interests in research with regional focus on China and East Asia (South and North Korea), with particular focus on topics of comparative politics - non-state service provision, political violence, and political institutions in authoritarian states. I am currently finishing my dissertation project "NGOs, the State, and Services in Reform China", which is composed of essays on the causes and consequences of China's promotion of non-governmental organizations for provision of public and social services. For more information on my dissertation project, please see [here](/dissertation/). My research was funded by Freeman Spogli Institute for International Studies at Stanford and Center for Philanthropy and Civil Society at Stanford.
+Welcome to my website! I am a Ph.D. Candidate at Department of Political Science, Stanford University. I am currently finishing my dissertation project *NGOs, the State, and Services in Reform China*, which consists of essays on China's state-led initiatives to use civil society and NGOs to provide social services at the grassroots and resolve social discontent. My research was funded by Freeman Spogli Institute for International Studies at Stanford and Center for Philanthropy and Civil Society at Stanford. In 2018-9 period, I was as predoctoral fellow at School of Social Development and Public Policy at Fudan University.
 
-Before coming to Stanford, I obtained B.A. in Political Science and Economics at Korea University in Seoul, South Korea. I was born in South Korea and grew up in between Busan, South Korea and Cambridge, Massachusetts.
+For more information on my dissertation project, please see [here](/dissertation/).
+
+Besides the dissertation project, I have research interests in non-state service provision, political violence, and political institutions in authoritarian states with regional focus on China and East Asia (South and North Korea).

@@ -6,8 +6,20 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "Field Work"
+    url: /fieldwork/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Software"
+    url: /software/
+
   - title: "CV"
     url: /cv/
+
+  - title: "Personal"
+    url: /personal/
 
   - title: "Contact"
     url: /contact/
