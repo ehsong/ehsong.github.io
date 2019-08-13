@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am a Ph.D. Candidate at Department of Political Science, Stanford University. I am currently finishing my dissertation project *NGOs, the State, and Services in Reform China*, which consists of essays on China's state-led initiatives to use civil society and NGOs to provide social services at the grassroots and resolve social discontent. My research was funded by Freeman Spogli Institute for International Studies at Stanford and Center for Philanthropy and Civil Society at Stanford. In 2018-9 period, I was as predoctoral fellow at School of Social Development and Public Policy at Fudan University.
+Welcome to my website! I am a Ph.D. Candidate at Department of Political Science, Stanford University. I am currently finishing my dissertation project *NGOs, the State, and Services in Contemporary China*, which consists of essays on China's state-led initiatives to use civil society and NGOs to provide social services at the grassroots and resolve social discontent. My research was funded by Freeman Spogli Institute for International Studies at Stanford and Center for Philanthropy and Civil Society at Stanford. In 2018-9 period, I was as predoctoral fellow at School of Social Development and Public Policy at Fudan University.
 
 For more information on my dissertation project, please see [here](/dissertation/).
 
