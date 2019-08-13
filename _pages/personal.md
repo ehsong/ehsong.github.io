@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Before coming to Stanford, I obtained B.A. in Political Science and Economics at Korea University in Seoul, South Korea. I was born in South Korea and grew up in between Busan, South Korea and Cambridge, Massachusetts.
+Before coming to Stanford, I received B.A. in Political Science and Economics (double degree) from Korea University in Seoul, South Korea. I also finished a one-year exchange program at School of Oriental Studies, University of London. I was born in South Korea and grew up in between Busan, South Korea and Cambridge, Massachusetts.
 
 ![](/images/seoul.jpg)
-*View from Inwang Mountain, Seoul*
+*View from top of Inwang mountain, Seoul*
