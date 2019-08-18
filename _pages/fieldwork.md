@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<center>![A community-based group implementing an elderly care program, Shanghai (December 16, 2016)](/images/fw1.jpg)</center>
+![A community-based group implementing an elderly care program, Shanghai (December 16, 2016)](/images/fw1.jpg#center)
 
 Beijing (Fall 2015)
 - Conducted in-depth interviews with civilian-established NGOs across various domains regarding government contracting & registration (environment, women's rights, LGBT, HIV prevention, etc.)

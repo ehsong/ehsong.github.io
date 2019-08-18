@@ -11,5 +11,5 @@ Before coming to Stanford, I received B.A. in Political Science and Economics (d
 
 I was born in South Korea and grew up in between Busan, South Korea and Cambridge, Massachusetts.
 
-<center>![](/images/seoul.jpg)</center>
+![](/images/seoul.jpg#center)
 *View from top of Inwang mountain, Seoul*
