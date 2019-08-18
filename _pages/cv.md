@@ -8,4 +8,4 @@ redirect_from:
 ---
 {% include base_path %}
 
-You can access my CV [here](/files/SONG_CV201903.pdf).
+You can access my CV [here](/files/SONG_CV.pdf).
