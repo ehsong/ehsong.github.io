@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-![](/images/fw1.jpg#center)
+![](/images/fw0.jpg)
 *A community-based group implementing an elderly care program, Shanghai (December 16, 2016)*
 
 Beijing (Fall 2015)
