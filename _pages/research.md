@@ -22,6 +22,7 @@ What are the long-term effects of authoritarian repression on political trust af
 
 **Works in Progress**
 
-Political Elites in North Korea (with Jacob Reidhead)
+Personnel Management in a Single Party Authoritarian State: Findings from North Korea, 1994-
+2014 (with Jacob Reidhead)
 
-Media Framing, Pollution, and Foreign Policy Attitudes
+Media Framing, Pollution, and Support for Foreign Policy
