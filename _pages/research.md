@@ -22,8 +22,7 @@ What are the long-term effects of authoritarian repression on political trust af
 
 **Works in Progress**
 
-Personnel Management in a Single Party Authoritarian State: Findings from North Korea, 1994-
-2014 (with Jacob Reidhead)
+Personnel Management in a Single Party Authoritarian State: Findings from North Korea, 1994-2014 (with Jacob Reidhead)
 
 Media Framing, Pollution, and Support for Foreign Policy
 [[2019 APSA iPoster]](https://apsa2019-apsa.ipostersessions.com/default.aspx?s=DF-1D-34-3D-64-33-21-12-B0-42-57-A1-87-AC-68-E1)
