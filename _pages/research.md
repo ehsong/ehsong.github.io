@@ -26,3 +26,5 @@ Personnel Management in a Single Party Authoritarian State: Findings from North 
 2014 (with Jacob Reidhead)
 
 Media Framing, Pollution, and Support for Foreign Policy
+[[2019 APSA iPoster]](https://apsa2019-apsa.ipostersessions.com/default.aspx?s=DF-1D-34-3D-64-33-21-12-B0-42-57-A1-87-AC-68-E1)
+[[code-snippets]](/files/apsa_poster_analysis.html)
