@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-*NGOs, the State, and Services in Contemporary China*
+## **NGOs, the State, and Services in Contemporary China**
 
 One of the most puzzling phenomena in China is the explosive growth of NGOs in recent decades. According to some sources, the number of registered NGOs has increased from less than 50 in 1990 to 0.6 million in 2016.[^1]
 
