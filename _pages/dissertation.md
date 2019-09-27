@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+*NGOs, the State, and Services in Contemporary China*
+
 One of the most puzzling phenomena in China is the explosive growth of NGOs in recent decades. According to some sources, the number of registered NGOs has increased from less than 50 in 1990 to 0.6 million in 2016.[^1]
 
 My dissertation addresses three interrelated questions regarding the proliferation of NGOs in China during the recent decades. (1) Why has the party-state created political space for NGOs? (2) what explains the variation in the success of bureaucratic streamlining that used NGOs to downsize the bureaucracy in the early 2000s? (3) how is the party-state promoting the growth of service-oriented NGOs in the post-2011 period, and what is the effect of these services on citizens' perception of the state?
