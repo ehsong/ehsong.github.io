@@ -12,6 +12,6 @@ Welcome to my website! I am a Ph.D. Candidate at Department of Political Science
 
 For more information on my dissertation project, please see [here](/dissertation/).
 
-Besides the dissertation project, I have research interests in non-state service provision, political violence, and political institutions in authoritarian states with regional focus on China and East Asia (South and North Korea).
+Besides the dissertation project, I have research interests in non-state service provision, political violence, government trust, and political institutions in authoritarian states with regional focus on China and East Asia (South and North Korea).
 
 I am also an avid learner of computational tools, and was accepted as a fellow at 2020 Insight Data Science Fellows Program in San Francisco.
