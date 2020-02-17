@@ -14,4 +14,4 @@ For more information on my dissertation project, please see [here](/dissertation
 
 Besides the dissertation project, I have research interests in non-state service provision, political violence, political trust, and political institutions in authoritarian states with regional focus on China and East Asia (South and North Korea).
 
-I am also passionate about creating impact through data analysis, and is currently a data science fellow at [Insight](https://www.insightdatascience.com).
+I am also passionate about creating impact through data analysis, and currently a data science fellow at [Insight](https://www.insightdatascience.com).
