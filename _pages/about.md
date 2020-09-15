@@ -14,4 +14,4 @@ For more information on my dissertation project, please see [here](/dissertation
 
 Besides the dissertation project, I have research interests in non-state service provision, political violence, political trust, and political institutions in authoritarian states with regional focus on China and East Asia (South and North Korea).
 
-I am also passionate about finding actionable insights through data analysis, and have several experience in data consulting for tech startups. For more details, please see my linkedin bio [here](https://www.linkedin.com/in/eunhou-esther-song/).
+I am also passionate about finding actionable insights through data analysis, and have experience working as a data consultant for tech startups. For more details, please see my linkedin bio [here](https://www.linkedin.com/in/eunhou-esther-song/).
