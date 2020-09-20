@@ -13,7 +13,7 @@ author_profile: true
 
 The Chinese Communist Party has recently acknowledged its attempts to bolster good governance   by outsourcing public and social service functions to social organizations – nonprofit organizations, either created by relevant government bureaus, developed through nonprofit incubators, or voluntarily created civil society groups. Do these services gender political trust for the party-state, and if so, why? Two findings stand out. (1) service efficacy – the internal belief that one can affect the content of the services show strong correlation with political trust and the relationship is stronger than that between service quality and political support. (2) There is strong evidence for credit transfer – whilst accountability for these services are attributed to grassroots actors and there is strong correlation between service efficacy and political support, political support increases only for the central government level. The results show how the new programs of social service outsourcing and incorporation of non-governmental organizations in service provision can increase support for the party-state.
 
-[[survey-overview]](/files/link_one.html) [[webscrape-overview]](/files/link_two.html) [[shanghai-shapefile]](https://www.arcgis.com/home/item.html?id=105f92bd1fe54d428bea35eade65691b
+[[survey-overview]](/files/link_one.html) [[webscrape-overview]](/files/link_two.html) [[shanghai-shapefile]](https://www.arcgis.com/home/item.html?id=105f92bd1fe54d428bea35eade65691b)
 
 *Selective Incorporation and Adaptive Authoritarianism: Changes in NGO Policy in China 1978-2019*
 
