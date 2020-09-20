@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am a researcher with background in political science with expertise in Chinese politics and comparative politics. I recently received my Ph.D. in Political Science at Department of Political Science, Stanford University. My dissertation, *NGOs, the State, and Legitimacy in Contemporary China*, consists of essays on China's state-led initiatives to use civil society and NGOs to provide social services at the grassroots and resolve social discontent. My research was funded by Freeman Spogli Institute for International Studies at Stanford and Center for Philanthropy and Civil Society at Stanford. In 2017-8 period, I was a pre-doctoral fellow at School of Social Development and Public Policy at Fudan University.
+Welcome to my website! I am a researcher with background in political science with expertise in Chinese politics and comparative politics. I received my Ph.D. in Political Science at Department of Political Science, Stanford University in June 2020. My dissertation, *NGOs, the State, and Legitimacy in Contemporary China*, consists of essays on China's state-led initiatives to use civil society and NGOs to provide social services at the grassroots and resolve social discontent. My research was funded by Freeman Spogli Institute for International Studies at Stanford and Center for Philanthropy and Civil Society at Stanford. In 2017-8 period, I was a pre-doctoral fellow at School of Social Development and Public Policy at Fudan University.
 
 For more information on my dissertation project, please see [here](/dissertation/).
 
