@@ -13,7 +13,11 @@ author_profile: true
 
 The Chinese Communist Party has recently acknowledged its attempts to bolster good governance   by outsourcing public and social service functions to social organizations – nonprofit organizations, either created by relevant government bureaus, developed through nonprofit incubators, or voluntarily created civil society groups. Do these services gender political trust for the party-state, and if so, why? Two findings stand out. (1) service efficacy – the internal belief that one can affect the content of the services show strong correlation with political trust and the relationship is stronger than that between service quality and political support. (2) There is strong evidence for credit transfer – whilst accountability for these services are attributed to grassroots actors and there is strong correlation between service efficacy and political support, political support increases only for the central government level. The results show how the new programs of social service outsourcing and incorporation of non-governmental organizations in service provision can increase support for the party-state.
 
-[[survey-overview]](/files/link_one.html) [[webscrape-overview]](/files/link_two.html) [[shanghai-shapefile]](https://www.arcgis.com/home/item.html?id=105f92bd1fe54d428bea35eade65691b)
+[[survey-overview]](/files/link_one.html) [[webscrape-overview]](/files/link_two.html) [[shanghai-shapefile]](https://www.arcgis.com/home/item.html?id=105f92bd1fe54d428bea35eade65691b
+
+*Selective Incorporation and Adaptive Authoritarianism: Changes in NGO Policy in China 1978-2019*
+
+What explains the phenomenal growth of number of NGOs in China in the recent decades? Contrary to prior research that focuses on the agency, this paper argues that the growth of the NGO sector in China can be attributed to shifting incentives of the party-state towards the NGO sector during the last four decades. During the early 90s, the incentives of the party lay in cutting corners, which has led to attempts to give new legal status of 'non-governmental organizations (NGO)' to public agencies and adopting practices of outsourcing. However starting in the mid-2000s, faced with the necessity of a new mode of governance to maintain social stability, the party-state has begun to view NGOs a collaborators of governance. This idea has been exemplified in the governance rhetoric of 'social management (**shehuiguanli**)' which was given emphasis in the 12th Five-Year-Plan released in 2011, which specifically empowers the civic sector by assigning the role of resolving social tensions through delivering social services. These shifts illustrate the adaptability of the Chinese Communist Party and its ability to innovate, while maintaining control over the newly emerging sector. When examined comparatively, the economic incentive of the party-state is similar with that of post-communist states after the Soviet disintegration, yet differs that its motives is **political**.
 
 *Long-Term Effects of Authoritarian Repression: Evidence from the Gwangju Massacre in South Korea, 1980* (under review)
 
@@ -22,8 +26,13 @@ What are the long-term effects of authoritarian repression on political trust af
 
 **Works in Progress**
 
-Personnel Management in a Single Party Authoritarian State: Findings from North Korea, 1994-2014 (with Jacob Reidhead)
-
-Media Framing, Pollution, and Support for Foreign Policy
+*Media Framing, Pollution, and Support for Foreign Policy*
 [[2019 APSA iPoster]](https://apsa2019-apsa.ipostersessions.com/default.aspx?s=DF-1D-34-3D-64-33-21-12-B0-42-57-A1-87-AC-68-E1)
 [[code-snippets]](/files/apsa_poster_analysis.html)
+
+What are the effects of media framing on foreign policy? Parting from previous works that have focused on how the media allow elite rhetoric, this project focuses on how non crucial information propagated by the media - information not directly related to the crisis creates media frame and affects attitudes towards foreign policy. I examine THAAD crisis, a foreign policy crisis that unfolded between South Korea and China during July 2016 - 2017 period over establishment of a missile base in Seongju, South Korea. Contrasting word counts of news titles pre and post-crisis period revealed that pollution emerges as a media frame used during the post-crisis period. Proportion of China-blaming articles out of all pollution related reports increased by 10% in the post-crisis period compared to the pre-crisis period. Text mining of twitter feeds shows that blame attribution became more salient during the post-crisis period. Sentiment analysis of tweets about China shows that sentiment towards China also worsened in the post-crisis period. A pilot survey experiment priming respondents with China-blaming revealed that those in the treatment group are more likely to support the domestic missile policy, less likely to be favorable towards China, and are more likely to have a negative perception of China-Korea relations.
+
+
+*Personnel Management in a Single Party Authoritarian State: Findings from North Korea, 1994-2014 (with Jacob Reidhead)*
+
+Despite accumulation of a large corpus of literature on the role of legislatures and parties, it is unclear whether these institutions function as a co-optation mechanism, especially when legislatures do not function as an arena of deliberation. We draw attention to personnel management, which involves management of promotions, demotions and movement of positions of cadres within the party-state. We argue that personnel management is a more concrete measure of access to rents by elites. Personnel management is an institution that dictators use to credibly commit to power sharing but at the same time constrain elites from involving in collective action. We test hypotheses on personnel management using 2631 career trajectory events of 320 cadres in North Korea.
