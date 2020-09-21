@@ -13,10 +13,13 @@ main:
     url: /teaching/
 
   - title: "Software"
-    url: /software/
-
+    url: /software
+    
   - title: "CV"
     url: /cv/
+    
+  - title: "Data Analytics"
+    url: /data_analytics
 
   - title: "Personal"
     url: /personal/
