@@ -15,6 +15,6 @@ Aside from research in political science, I am interested in conducting data ana
 
 *Fellow, Insight Data Science* (San Francisco, 2020 Jan - 2020 May )
 
-The Insight Data Science fellowship program is an intensive training fellowship to bridge the gap between academia and industry through project-based learning.
+The [[Insight Data Science]](https://insightfellows.com/data-science) fellowship program is an intensive training fellowship to bridge the gap between academia and industry through project-based learning.
 
 - Data consultant for [[Elin.Ai]](https://elin.ai/). Used unsupervised method of lexicon-based classification to classify mood from slack conversation data. My medium article on the project is [[here]](https://medium.com/@esther.e.song/mood-metric-detecting-mood-at-workplace-using-lexicon-based-approach-8a2b2bbba74).
