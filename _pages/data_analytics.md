@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Aside from research in political science, I am interested in conducting data analytics to find actionable business insights. This interest has led to me several opportunities to work as a data scientist at tech startups.
+Aside from research in political science, I am interested in conducting data analytics to find actionable business insights. I had several opportunities to work as a data scientist for tech startups.
 
 *Data Scientist, [Kiwi Insurance](https://www.kiwiinsure.co/)* (2020 Jun - 2020 Aug)
 - Built webscrapers that can collect metat data on queried accounts on facebook and twitter. Meta data includes the handle, name, number of followers, number following, etc. The application of this tool is wide - for instance, it can be also used to collect twitter & facebook accounts of assembly members. Please see an example of application to querying twitter accounts of South Korean assembly members [here](https://github.com/ehsong/twitter-scraper).
