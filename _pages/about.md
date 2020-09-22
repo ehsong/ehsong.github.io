@@ -12,6 +12,6 @@ Welcome to my website! I am a researcher with background in political science wi
 
 For more information on my dissertation project, please see [here](/dissertation/).
 
-Aside from my dissertation, my research interests span across topics such as consequences of political violence, media and foreign policy, and authoritarian institutions. My scholarship bridges political phenomenon in East Asia (China and the two Koreas) to the broader comparative politics and international relations literature.
+Aside from my dissertation, my research interests span across topics of consequences of political violence, media and foreign policy, and authoritarian institutions. My scholarship bridges political phenomenon in East Asia (China and the two Koreas) to the broader comparative politics and international relations literature.
 
 I am also passionate about finding actionable insights through data analysis, and have experience working as a data consultant for tech startups. For more details, please see [here](/data_analytics/).
