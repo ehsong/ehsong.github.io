@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-My research spans the following topics:
+My research interests span across the following topics:
 
 - NGO policy and civil society
 - Consequences of political violence
