@@ -7,6 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
+My research spans the following topics:
+
+- NGO policy and civil society
+- Consequences of political violence
+- Media, public opinion, and foreign policy
+- Institutions in authoritarian states
+
+
 **Working Papers**
 
 *Building Legitimacy from the Grassroots: Evidence from Social Service Organizations in Shanghai* (manuscript available upon request) [[survey-overview]](/files/link_one.html) [[webscrape-overview]](/files/link_two.html) [[shanghai-shapefile]](https://www.arcgis.com/home/item.html?id=105f92bd1fe54d428bea35eade65691b)
@@ -15,7 +23,7 @@ The Chinese Communist Party has recently acknowledged its attempts to bolster go
 
 *Selective Incorporation and Adaptive Authoritarianism: Changes in NGO Policy in China 1978-2019*
 
-What explains the phenomenal growth of number of NGOs in China in the recent decades? Contrary to prior research that focuses on the agency, this paper argues that the growth of the NGO sector in China can be attributed to shifting incentives of the party-state towards the NGO sector during the last four decades. During the early 90s, the incentives of the party lay in cutting corners, which has led to state-initiatives of transforming public agencies to NGOs and adopting practices of outsourcing. However starting in the mid-2000s, faced with social pressures challenging state legitimacy, the party-state has begun to view NGOs a collaborators of governance. This idea has been exemplified in the governance rhetoric of 'social management (*shehuiguanli*)' that appeared in the 12th Five-Year-Plan released in 2011, which specifically empowers the civic sector by assigning the role of resolving social tensions through delivering social services. These shifts illustrate the adaptability of the Chinese Communist Party and its ability to innovate, while maintaining control over the newly emerging sector. When examined comparatively, the economic incentive of the Chinese party-state is similar with that of post-communist states after Soviet disintegration, yet differs that its motives is *political*.
+What explains the phenomenal growth of number of NGOs in China in the recent decades? Contrary to prior research that focuses on the agency, this paper argues that the growth of the NGO sector in China can be attributed to shifting incentives of the party-state towards the NGO sector during the last four decades. During the early 90s, the incentives of the party lay in cutting corners, which has led to state-initiatives of transforming public agencies to NGOs and adopting practices of outsourcing. However starting in the mid-2000s, faced with rising social instability that pose threat to regime legitimacy, the party-state has begun to view NGOs a collaborators of governance. This idea has been exemplified in the governance rhetoric of 'social management (*shehuiguanli*)' that appeared in the 12th Five-Year-Plan released in 2011, which specifically empowers the civic sector by assigning the role of resolving social tensions through delivering social services. These shifts illustrate the adaptability of the Chinese Communist Party and its ability to innovate, while maintaining control over the newly emerging sector.
 
 *Long-Term Effects of Authoritarian Repression: Evidence from the Gwangju Massacre in South Korea, 1980* (under revision for resubmission)
 
@@ -32,4 +40,8 @@ What are the effects of media framing on foreign policy? Parting from previous w
 
 *Personnel Management in a Single Party Authoritarian State: Findings from North Korea, 1994-2014* (with Jacob Reidhead)
 
-Despite accumulation of a large corpus of literature on the role of legislatures and parties, it is unclear whether these institutions function as a co-optation mechanism, especially when legislatures do not function as an arena of deliberation. We draw attention to personnel management, which involves management of promotions, demotions and movement of positions of cadres within the party-state. We argue that personnel management is a more concrete measure of access to rents by elites. Personnel management is an institution that dictators use to credibly commit to power sharing but at the same time constrain elites from involving in collective action. We test the implications of the theory using a unique data set we constructed which contains information on 2631 career trajectory events of 320 cadres in North Korea.
+Despite accumulation of a large corpus of literature on the role of legislatures and parties, it is unclear whether these institutions function as a co-optation mechanism, especially when legislatures do not function as an arena of deliberation. We draw attention to personnel management, which involves management of promotions, demotions and movement of positions of cadres within the party-state. We argue that personnel management is a more concrete measure of access to rents by elites. Personnel management is an institution that dictators use to credibly commit to power sharing but at the same time constrain elites from involving in collective action. We test the implications of the theory using a unique data set we constructed which contains information on 2,631 career trajectory events of 320 cadres in North Korea.
+
+*The Origins of NGO Policy in Authoritarian States: Evidence from China and Post-Communist States*
+
+One of the most puzzling phenomenon is the growth of the NGO sector across authoritarian states in the recent decades. Why would authoritarian states craft institutional space for civil society? I argue that fiscal incentives have pushed authoritarian states to mimic NGO policies in western democracies. The idea of outsourcing and the governance rhetoric of new public management that had roots in western democracies have been received yet adapted not to challenge authoritarian rule. The outcome is a *selective incorporation* of civic space that centers on delivering welfare, yet continued repression against movements that challenge the state. I draw evidence from comparative case studies of Kazakhstan, Belarus, Russia, and China. The findings not only suggest a counterintuitive phenomenon of growth of NGO sector in authoritarian states, but also a need for new conceptualization of NGOs that is not confined to the normative aspect of civil society.
