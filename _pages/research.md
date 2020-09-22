@@ -15,7 +15,7 @@ The Chinese Communist Party has recently acknowledged its attempts to bolster go
 
 *Selective Incorporation and Adaptive Authoritarianism: Changes in NGO Policy in China 1978-2019*
 
-What explains the phenomenal growth of number of NGOs in China in the recent decades? Contrary to prior research that focuses on the agency, this paper argues that the growth of the NGO sector in China can be attributed to shifting incentives of the party-state towards the NGO sector during the last four decades. During the early 90s, the incentives of the party lay in cutting corners, which has led to attempts transform public agencies to 'non-governmental organizations' and adopt practices of outsourcing. However starting in the mid-2000s, faced with social pressures challenging state legitimacy, the party-state has begun to view NGOs a collaborators of governance. This idea has been exemplified in the governance rhetoric of 'social management (*shehuiguanli*)' that appeared in the 12th Five-Year-Plan released in 2011, which specifically empowers the civic sector by assigning the role of resolving social tensions through delivering social services. These shifts illustrate the adaptability of the Chinese Communist Party and its ability to innovate, while maintaining control over the newly emerging sector. When examined comparatively, the economic incentive of the Chinese party-state is similar with that of post-communist states after Soviet disintegration, yet differs that its motives is *political*.
+What explains the phenomenal growth of number of NGOs in China in the recent decades? Contrary to prior research that focuses on the agency, this paper argues that the growth of the NGO sector in China can be attributed to shifting incentives of the party-state towards the NGO sector during the last four decades. During the early 90s, the incentives of the party lay in cutting corners, which has led to state-initiatives of transforming public agencies to NGOs and adopting practices of outsourcing. However starting in the mid-2000s, faced with social pressures challenging state legitimacy, the party-state has begun to view NGOs a collaborators of governance. This idea has been exemplified in the governance rhetoric of 'social management (*shehuiguanli*)' that appeared in the 12th Five-Year-Plan released in 2011, which specifically empowers the civic sector by assigning the role of resolving social tensions through delivering social services. These shifts illustrate the adaptability of the Chinese Communist Party and its ability to innovate, while maintaining control over the newly emerging sector. When examined comparatively, the economic incentive of the Chinese party-state is similar with that of post-communist states after Soviet disintegration, yet differs that its motives is *political*.
 
 *Long-Term Effects of Authoritarian Repression: Evidence from the Gwangju Massacre in South Korea, 1980* (under revision for resubmission)
 
@@ -24,7 +24,7 @@ What are the long-term effects of authoritarian repression on political trust af
 
 **Works in Progress**
 
-*Media Framing, Pollution, and Support for Foreign Policy*
+*Media Framing, Pollution, and Support for Foreign Policy: Evidence from THAAD Missile Crisis*
 [[2019 APSA iPoster]](https://apsa2019-apsa.ipostersessions.com/default.aspx?s=DF-1D-34-3D-64-33-21-12-B0-42-57-A1-87-AC-68-E1)
 [[code-snippets]](/files/apsa_poster_analysis.html)
 
