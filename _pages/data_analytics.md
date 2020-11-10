@@ -17,4 +17,4 @@ Aside from research in political science, I am interested in conducting data ana
 
 The [Insight Data Science](https://insightfellows.com/data-science) fellowship program is an intensive training fellowship to bridge the gap between academia and industry through project-based learning.
 
-- Data consultant for [Elin.Ai](https://elin.ai/). Used unsupervised method of lexicon-based classification to classify mood from 30K+ slack conversation data. My medium article on the project is [here](https://medium.com/@esther.e.song/mood-metric-detecting-mood-at-workplace-using-lexicon-based-approach-8a2b2bbba74).
+- Data consultant for [Elin.Ai](https://elin.ai/). Used unsupervised method of lexicon-based classification to classify mood from 30K+ slack conversation data. My article on the project is [here](/files/medium.md).
