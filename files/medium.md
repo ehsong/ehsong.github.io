@@ -11,7 +11,7 @@ However, with several lexicons that exist, I had to decide on which lexicon to u
 Another lexicon I considered was [DepecheMood](https://medium.com/r?url=https%3A%2F%2Fgithub.com%2Fmarcoguerini%2FDepecheMood), which is a lexicon that contains 37K terms over 8 ranges of emotions - afraid, amused, angry, annoyed, don't care, happy, inspired, and sad. This lexicon also included scores for each emotion category, which was derived from crowdsourcing emotion labels for 25.3K news articles and obtaining the word-emotion matrix.
 To compare the performance of the two lexicons, I tested the performance of the two lexicons over the [International Survey On Emotion Antecedents And Reactions (ISEAR)](https://medium.com/r?url=https%3A%2F%2Fwww.unige.ch%2Fcisa%2Fresearch%2Fmaterials-and-online-research%2Fresearch-material%2F) data set which includes 7K self-written sentences across 7 range of emotions - joy, fear, anger, sadness, disgust, shame, and guilt.
 
-![](/images/medium_fig1.png#center)
+![](/images/medium_fig1.png#center)  
 *Averaged F1-scores of NRC and DM on Categories "Anger", "Sadness", and "Joy"*
 
 To compare the overall performance, I averaged the f1-scores obtained for three emotion categories - anger, sadness, and joy. I found that although the performance of the two lexicons is similar, DepecheMood had a slightly better performance. After comparing the overall performance, I concluded that it is plausible to use the DepecheMood lexicon for this project.
@@ -22,7 +22,7 @@ After examining performance, I settled on using the DepecheMood lexicon for the 
 To answer the question, I examined emoji usage over the corpus and also examined emoji usages in sentences where text sentiment and emoji sentiment did not match. The emoji usage was low at 0.01%, reflecting that including them in the corpus would have a negligible effect on classifying emotions. Also, I found that people do use emojis to convey emotions, which implies that emojis should have equal weight as textual expressions.
 More importantly, the mood metric was better at accurately capturing emotions when emojis were included. For example, messages like "trouble in paradise!!😞😞" convey disappointment, but when emojis are left out, the lexicon would capture only "paradise" and "trouble" and assign a higher score for the "inspired" category. However, when including the disappointed emojis, the score decreased.
 
-![](/images/medium_fig2.png#center)
+![](/images/medium_fig2.png#center)  
 *Scores for Inspired With or Without Including Emoji*
 
 ## Building the Mood Metric Using DepecheMood Lexicon
@@ -35,7 +35,7 @@ When applied to the message data I received from the company, the majority of th
 
 I also checked whether some temporal dimensions can be captured through the metric, and found that it does! For instance, the amount of angry and annoyed moods peak during the mid-week but subdues towards the end of the week.
 
-![](/images/medium_fig4.png#center)
+![](/images/medium_fig4.png#center)  
 *% of Angry and Annoyed Messages, 117 Users, 4087 Messages*
 
 ## Tracking Mental Health at the Workplace Through Slack
