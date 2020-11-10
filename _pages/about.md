@@ -12,6 +12,8 @@ Welcome to my website! I am a political scientist with expertise in Chinese poli
 
 For more information on my dissertation project, please see [here](/dissertation/).
 
+In 2021 January, I will be teaching Chinese Politics at [Randolph-Macon College](https://www.rmc.edu/) as an adjunct assistant professor at the department of political science.
+
 Aside from my dissertation, my research interests span across topics of consequences of political violence, media and foreign policy, and authoritarian institutions. My scholarship bridges political phenomenon in East Asia (China and the two Koreas) to the broader comparative politics and international relations literature.
 
-I am also passionate about computational tools and data science, and have experience working as a data consultant for tech startups. For more details, please see [here](/data_analytics/).
+I am also passionate about applying computational tools and data science, and have experience working as a data consultant for tech startups. For more details, please see [here](/data_analytics/).
