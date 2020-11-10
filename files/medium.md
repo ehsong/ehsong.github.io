@@ -30,7 +30,7 @@ More importantly, the mood metric was better at accurately capturing emotions wh
 Now, finally building the mood metric! This required several steps: 1) Text preprocessing, which included removing stop words, punctuations, special characters 2) tokenizing and 3) looping each term in the DepecheMood lexicon through the tokenized message and obtaining emotion scores for eight categories for each token when it is matched with the term in the lexicon, 4) averaging the score in each emotion category and normalizing the scores 5) finding the max score and assigning the message to an emotion class and 6) finding the proportion of messages that were assigned to each class out of total number of messages. For the code snippets, please see my github repo [here](https://github.com/ehsong/mood-metric).
 When applied to the message data I received from the company, the majority of the messages were positive, being in the "inspired" category. The second highest was "amused," and the third was "annoyed."
 
-![](/images/medium_fig3.png#center)
+![](/images/medium_fig3.png#center)  
 *117 Users, 4087 Messages*
 
 I also checked whether some temporal dimensions can be captured through the metric, and found that it does! For instance, the amount of angry and annoyed moods peak during the mid-week but subdues towards the end of the week.
