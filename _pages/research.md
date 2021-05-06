@@ -16,9 +16,11 @@ My research interests span across the following topics:
 
 **Peer-Reviewed Articles**
 
-Song, E. E. Building Legitimacy from the Grassroots: Evidence from Social Service Organizations in Shanghai. Under review.      
-Song, E. E. Understanding the Expansion of the NGO Sector in China: Through the Lense of Adaptive Corporatist Governance. Under review.      
-Song, E. E. The Political Origins of NGO Sector Expansion Under Authoritarianism: Evidence From Case Comparison of Three Post-Communist Countries. Under review.     
+Song, E. E. How Outsourcing Social Services to NGOs Bolser Political Trust: Evidence from Shanghai. Under review.        
+
+Song, E. E. Understanding the Expansion of the NGO Sector in China: Through the Lense of Adaptive Corporatist Governance. Under review.        
+
+Song, E. E. The Political Origins of NGO Sector Expansion Under Authoritarianism: Evidence from Case Comparison of Three Post-Communist Countries. Under review.       
 
 **Working Papers**
 
