@@ -16,17 +16,15 @@ My research interests span across the following topics:
 
 **Peer-Reviewed Articles**
 
-Song, E. E. How Outsourcing Social Services to NGOs Bolster Political Trust: Evidence from Shanghai. Under review.        
+Song, E. E. Understanding the Expansion of the NGO Sector in China: Through the Lense of Adaptive Corporatist Governance. Revise and resubmit.
 
-Song, E. E. Understanding the Expansion of the NGO Sector in China: Through the Lense of Adaptive Corporatist Governance. Under review.        
+Song, E. E. Long-Term Effects of Authoritarian Repression: Evidence from the Gwangju Massacre in South Korea, 1980. Revise and resubmit.
+
+Song, E. E. How Outsourcing Social Services to NGOs Bolster Political Trust: Evidence from Shanghai. Under review. 
 
 Song, E. E. The Political Origins of NGO Sector Expansion Under Authoritarianism: Evidence from Case Comparison of Three Post-Communist Countries. Under review.       
 
 **Working Papers**
-
-*Long-Term Effects of Authoritarian Repression: Evidence from the Gwangju Massacre in South Korea, 1980* (preparing for resubmission)
-
-What are the long-term effects of authoritarian repression on political trust after democratization? Using the Gwangju Massacre in South Korea as a case study, this paper finds that indirect and direct experience of state-perpetrated violence of the critical-period cohort—who were aged 17–25 during the incident—can have long-term negative effects on trust levels towards the government. Difference-in-Differences analysis of national survey data collected in 2008 and 2012 reveals that contrary to recent scholarship, indirect or direct experience with violence has long-term negative consequences on government trust. Results are robust even when including significant covariates of institutional theories of political culture, such as interpersonal trust, evaluation of government performance, as well as satisfaction with the economy. Drawing from memory studies, this paper argues that the effects are due to collective memory formed during the critical period.
 
 *Personnel Management in a Single Party Authoritarian State: Findings from North Korea, 1994-2014* (with Jacob Reidhead)
 
