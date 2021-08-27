@@ -16,6 +16,6 @@ author_profile: true
 
 *Mentoring*  
 
-**[Lumiere Education](https://www.lumiere-education.com/)**
-- Yu, Piper (British School Manila, '23). "Does Acknowledging China's Claim to the South China Sea Open Trade Doors to Economic Advantages for the Philippines?"
-- Yang, Joanne (Cornell University, '25). "China's Values and the International Human Rights Regime"
+**[Lumiere Education](https://www.lumiere-education.com/), Individual Research Program**
+- Yu, Piper. "Does Acknowledging China's Claim to the South China Sea Open Trade Doors to Economic Advantages for the Philippines?"
+- Yang, Joanne. "China's Values and the International Human Rights Regime"
