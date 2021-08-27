@@ -4,7 +4,6 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-**Teaching**   
 
 *Randolph-Macon College*
 - Chinese Politics (2021 January, J-term)
