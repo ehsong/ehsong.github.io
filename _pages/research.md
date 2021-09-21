@@ -20,9 +20,9 @@ Song, E. E. Understanding the Expansion of the NGO Sector in China: Through the 
 
 Song, E. E. Long-Term Effects of Authoritarian Repression: Evidence from the Gwangju Massacre in South Korea, 1980. Revise and resubmit.
 
-Song, E. E. How Outsourcing Social Services to NGOs Bolster Political Trust in China: Evidence from Shanghai. Under review. 
+Song, E. E. How Outsourcing Social Services to NGOs Bolster Political Trust in China: Evidence from Shanghai. Revise and resubmit. 
 
-Song, E. E. The Political Origins of NGO Sector Expansion Under Authoritarianism: Evidence from Case Comparison of Three Post-Communist Countries. Under review.       
+Song, E. E. The Political Origins of NGO Sector Expansion Under Authoritarianism: Evidence from Case Comparison of Three Post-Communist Countries. Submitted.       
 
 **Working Papers**
 
