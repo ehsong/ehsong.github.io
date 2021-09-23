@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Starting January 2022, I am a research fellow at [German Institute of Global and Area Studies (GIGA)](https://www.giga-hamburg.de/en/) in Hamburg, Germany. I am also concurrently a geopolitical risk analyst and consultant at [GeoQuant](https://geoquant.com/), which leverages political science concepts to measure political risk across 100+ countries. Before joining GIGA, I was an adjunct assistant professor at the department of political science at [Randolph-Macon College](https://www.rmc.edu/) in Virgina, United States. 
+Welcome to my website! Starting January 2022, I am a research fellow at [German Institute of Global and Area Studies (GIGA)](https://www.giga-hamburg.de/en/) in Hamburg, Germany. I am also concurrently a geopolitical risk analyst and consultant at [GeoQuant](https://geoquant.com/), which leverages political science concepts to measure political risk across 100+ countries. Before joining GIGA, I was an adjunct assistant professor at the department of political science at [Randolph-Macon College](https://www.rmc.edu/) in Virgina, United States. 
 
 My research interests span across topics of consequences of political violence, media and foreign policy, and authoritarian institutions. My scholarship bridges political phenomenon in East Asia (China and the two Koreas) to the broader comparative politics and international relations literature.
 
