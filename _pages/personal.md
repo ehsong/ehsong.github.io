@@ -7,6 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-I was born in South Korea and spent my childhood and adolescence in both South Korea and the U.S. During college years, I also lived in London, UK where I studied as an exchange student at [School of Oriental and African Studies (SOAS)](https://www.soas.ac.uk/). In my free time, I enjoy exploring the outdoors through hiking.
+I was born in South Korea and spent my childhood and adolescence in both South Korea and the U.S. During college years, I also lived in London, UK where I studied as an exchange student at the [School of Oriental and African Studies (SOAS)](https://www.soas.ac.uk/). In my free time, I enjoy exploring the outdoors through hiking.
 ![](/images/pinnacles.jpg#center)
 *Pinnacles National Park, California (April 24, 2021)*
