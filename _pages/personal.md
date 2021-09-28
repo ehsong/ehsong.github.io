@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I was born in South Korea and spent my childhood and adolescence in both South Korea and the U.S. My exposure to two different cultures at a young age had a great impact on forming my passion in learning and exploring new cultures, societies, and languages. During college years, I also lived in London, UK where I studied as an exchange student at the [School of Oriental and African Studies (SOAS)](https://www.soas.ac.uk/). 
+I was born in South Korea and spent my childhood and adolescence in both South Korea and the U.S. My exposure to two distinct cultures at a young age had a great impact on forming my passion in learning and exploring different societies and cultures. During college years, I also lived in London, UK where I studied as an exchange student at the [School of Oriental and African Studies (SOAS)](https://www.soas.ac.uk/). 
 
 In my free time, I enjoy exploring the outdoors through hiking.
 
