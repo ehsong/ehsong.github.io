@@ -9,7 +9,6 @@ author_profile: true
 
 I was born in South Korea and spent my childhood and adolescence in both South Korea and the U.S. My exposure to two distinct cultures at a young age had a great impact on forming my passion and interest in learning and exploring different societies and cultures. During college years, I lived in London, UK where I studied as an exchange student at the [School of Oriental and African Studies (SOAS)](https://www.soas.ac.uk/). 
 
-In my free time, I enjoy exploring the outdoors by hiking.
+In my free time, I enjoy exploring the outdoors, hiking, and traveling.
 
-![](/images/pinnacles.jpg#center)
-*Pinnacles National Park, California (April 24, 2021)*
+![](https://www.flickr.com/gp/194042153@N07/59Jx3C#center)
