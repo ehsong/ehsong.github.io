@@ -11,4 +11,4 @@ I was born in South Korea and spent my childhood and adolescence in both South K
 
 In my free time, I enjoy exploring the outdoors, hiking, and traveling.
 
-![](https://www.flickr.com/gp/194042153@N07/59Jx3C#center)
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
