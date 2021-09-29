@@ -11,4 +11,4 @@ I was born in South Korea and spent my childhood and adolescence in both South K
 
 In my free time, I enjoy exploring the outdoors, hiking, and traveling.
 
-[![Foo](https://www.flickr.com/gp/194042153@N07/59Jx3C)](https://www.flickr.com/gp/194042153@N07/59Jx3C)
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/194042153@N07/albums/72157719936428092" title="Nature"><img src="https://live.staticflickr.com/65535/51526400967_af5461e48f_b.jpg" width="1024" height="768" alt="Nature"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
