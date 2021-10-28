@@ -8,4 +8,4 @@ redirect_from:
 ---
 {% include base_path %}
 
-You can reach me at ehsong(at)stanford.edu.
+You can reach me at esther.e.song@gmail.com.
