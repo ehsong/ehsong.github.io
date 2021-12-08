@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a political scientist interested in topics of civil society and the state, consequences of political violence, media and foreign policy, and authoritarian institutions that contributes to authoritarian resilience with regional focus on China and the two Koreas. Part of my dissertation piece which examines NGO outsourcing in China is forthcoming in *Chinese Political Science Review*. I hold MA and PhD in Political Science from Stanford University.
+I am a political scientist interested in topics of civil society and the state, consequences of political violence, media and foreign policy, and authoritarian institutions that contributes to authoritarian resilience with regional focus on China and the two Koreas. Part of my dissertation which examines NGO service outsourcing in China is forthcoming in *Chinese Political Science Review*. I hold MA and PhD in Political Science from Stanford University.
 
 Starting January 2022, I am a research fellow at [German Institute of Global and Area Studies (GIGA)](https://www.giga-hamburg.de/en/) in Hamburg, Germany. I will be also affiliated with [GIGA Institute for Asian Studies](https://www.giga-hamburg.de/en/institutes/giga-institute-for-asian-studies/). I am concurrently a geopolitical risk analyst and consultant at [GeoQuant](https://geoquant.com/), which fuses artificial intelligence and political science to measure political risk across 100+ countries. 
 
