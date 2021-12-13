@@ -11,6 +11,4 @@ I am a research fellow at the [Institute for Asian Studies](https://www.giga-ham
 
 I am concurrently a geopolitical risk analyst and consultant at [GeoQuant](https://geoquant.com/), which fuses artificial intelligence and political science to measure political risk across 100+ countries.
 
-In the period after conferring my PhD and before joining GIGA, I worked as a data scientist for few startups in Silicon Valley and New York. I contributed to building social media webscrapers and finding actionable business insights through text mining and predictive modeling using machine learning.
-
-Please see my [CV](https://ehsong.github.io/files/SONG_CV2.pdf), [research](https://ehsong.github.io/research/) page and [linkedin](https://www.linkedin.com/in/eunhou-esther-song/) for more details.
+Please see my [CV](https://ehsong.github.io/files/SONG_CV2.pdf) and [research](https://ehsong.github.io/research/) page for more details.
