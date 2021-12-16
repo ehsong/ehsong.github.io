@@ -15,5 +15,5 @@ author_profile: true
 
 *Mentoring*
 
-Piper Yu, British School Manilla  
-Joanne Yang, Cornell University '20 (Dept. of Political Science and Government)
+- Piper Yu, British School Manilla  
+- Joanne Yang, Cornell University '20 (Dept. of Political Science and Government)
