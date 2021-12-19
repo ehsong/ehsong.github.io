@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Esther Eunhou Song"
+title                    : "Esther E. Song"
 title_separator          : "-"
-name                     : &name "Esther Eunhou Song"
+name                     : &name "Esther E. Song"
 description              : &description ""
 url                      : https://ehsong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Esther Eunhou Song"
   avatar           : "profile.jpg"
-  bio              : "Researcher | Political Scientist"
+  bio              : "Research Fellow"
   location         : 
   employer         :
   pubmed           :
