@@ -20,9 +20,9 @@ Song, E. E. How Outsourcing Social Services to NGOs Bolsters Political Trust in 
 
 **Articles Under Review or Submitted**
 
-Song, E. E. Understanding the Expansion of the NGO Sector in China: Through the Lense of Adaptive Corporatist Governance. Revise and resubmit.
+Song, E. E. Understanding the Expansion of the NGO Sector in China: Through the Lense of Adaptive Corporatist Governance. R&R.
 
-Song, E. E. Long-Term Effects of Authoritarian Repression: Evidence from the Gwangju Massacre in South Korea, 1980. Revise and resubmit.
+Song, E. E. Long-Term Effects of Authoritarian Repression: Evidence from the Gwangju Massacre in South Korea, 1980. R&R.
 
 Song, E. E. The Political Origins of NGO Sector Expansion Under Authoritarianism: Evidence from Case Comparison of Three Post-Communist Countries. Under Review.  
 
@@ -35,7 +35,8 @@ Despite accumulation of a large corpus of literature on the role of legislatures
 *How China Violates International Human Rights Law: Evidence from CIRI Database (1982-2011)* (with Joanne Yang)
 
 Despite China’s growing participation and accession to international human rights treaties, China continues to transgress the physical integrity rights of its citizens. In the question of whether China has been effectively upholding human rights standards outlined in the International Covenant on Civil and
-Political Rights (ICCPR) and the Convention against Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment (CAT), we find that China shows a lack of adherence to both treaties with a recent trend of more public grievances and oppression of ethnic and religious minorities. We also unconver China has a distinct human rights norm that prioritize economic development, national sovereignty, and mutual respect to reconcile cultural and historical differences.
+Political Rights (ICCPR) and the Convention against Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment (CAT), we find that China shows a lack of adherence to both treaties with a recent trend of more public grievances and oppression of ethnic and religious minorities. Drawing from statements given by
+ambassadors and diplomats that have participated in UN meetings, we also unconver China has a distinct human rights norm that prioritize economic development, national sovereignty, and mutual respect to reconcile cultural and historical differences.
 
 **Works in Progress**
 
