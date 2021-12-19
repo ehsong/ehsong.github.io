@@ -10,9 +10,10 @@ author_profile: true
 My research interests span across the following topics:
 
 - NGO policy and civil society
-- Consequences of political violence
+- Consequences of political violence in new democracies
 - Media, public opinion, and foreign policy
-- Institutions in authoritarian states
+- Institutions in authoritarian states and authoritarian resilience
+- Democratic backsliding and autocratization
 
 **Peer-Reviewed Articles**
 
