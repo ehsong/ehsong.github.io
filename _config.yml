@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Esther E. Song"
+title                    : "Esther Song"
 title_separator          : "-"
 name                     : &name "Esther Song"
 description              : &description ""
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Esther E. Song"
+  name             : "Esther Song"
   avatar           : "profile.jpg"
   bio              : "Research Fellow"
   location         : 
