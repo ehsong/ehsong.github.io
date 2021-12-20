@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/mmistakes/minimal-mistakes/issues"
   },
-  "homepage": "www.esthersong.org",
+  "homepage": "https://esthersong.org",
   "engines": {
     "node": ">= 0.10.0"
   },
