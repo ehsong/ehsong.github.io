@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Esther E. Song"
 title_separator          : "-"
-name                     : &name "Esther E. Song"
+name                     : &name "Esther Song"
 description              : &description ""
 url                      : https://ehsong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
