@@ -34,11 +34,7 @@ Song, E. E. The Political Origins of NGO Sector Expansion Under Authoritarianism
 
 Despite accumulation of a large corpus of literature on the role of legislatures and parties, it is unclear whether these institutions function as a co-optation mechanism, especially when legislatures do not function as an arena of deliberation. We draw attention to personnel management, which involves management of promotions, demotions and movement of positions of cadres within the party-state. We argue that personnel management is a more concrete measure of access to rents by elites. Personnel management is an institution that dictators use to credibly commit to power sharing but at the same time constrain elites from involving in collective action. We test the implications of the theory using a unique data set we constructed which contains information on 2,631 career trajectory events of 320 cadres in North Korea.
 
-*How China Violates International Human Rights Law: Evidence from CIRI Database (1982-2011)* (with Joanne Yang)
-
-Despite China’s growing participation and accession to international human rights treaties, China continues to transgress the physical integrity rights of its citizens. In the question of whether China has been effectively upholding human rights standards outlined in the International Covenant on Civil and
-Political Rights (ICCPR) and the Convention against Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment (CAT), we find that China shows a lack of adherence to both treaties with a recent trend of more public grievances and oppression of ethnic and religious minorities. Drawing from statements given by
-ambassadors and diplomats that have participated in UN meetings, we also unconver China has a distinct human rights norm that prioritize economic development, national sovereignty, and mutual respect to reconcile cultural and historical differences.
+*How China Violates International Human Rights Law: Evidence from CIRI and UPR Database (1982-2011)* (with Joanne Yang)
 
 **Works in Progress**
 
