@@ -11,4 +11,4 @@ I am a research fellow at the [Institute for Asian Studies](https://www.giga-ham
 
 I am concurrently a geopolitical risk analyst and consultant at [GeoQuant](https://geoquant.com/), which fuses artificial intelligence and political science to measure political risk across 100+ countries.
 
-Please see my [CV](https://www.dropbox.com/s/e8ymirv9c1fcg2f/Song_CV_December_2021.pdf?dl=0), [research](https://ehsong.github.io/research/) page and my [blog](https://esthersong.blog) for more details.
+Please see my [CV](https://www.dropbox.com/s/e8ymirv9c1fcg2f/Song_CV_December_2021.pdf?dl=0) and [research](https://ehsong.github.io/research/) page for more details.
