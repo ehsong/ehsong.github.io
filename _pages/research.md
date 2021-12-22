@@ -16,7 +16,7 @@ My research interests span across the following topics:
 - Institutions in authoritarian states and authoritarian resilience
 - Democratic backsliding and autocratization
 
-At GIGA, I am part of the project ["COVID-19 and Executive Personalization in Sub-Saharan Africa, Asia, Latin America and the MENA Region"](https://www.giga-hamburg.de/en/projects/covid-19-executive-personalization-saharan-africa-asia-latin-america-mena-region/) which examines executive personalization in 36 countries. This project is funded by the German Research Foundation.
+At GIGA, I am part of the project ["COVID-19 and Executive Personalization in Sub-Saharan Africa, Asia, Latin America and the MENA Region"](https://www.giga-hamburg.de/en/projects/covid-19-executive-personalization-saharan-africa-asia-latin-america-mena-region/) which examines executive personalization in 36 countries. This project is funded by the [German Research Foundation](https://www.dfg.de/en/research_funding/index.html).
 
 **Peer-Reviewed Articles**
 
