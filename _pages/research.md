@@ -18,7 +18,7 @@ My research interests span across the following topics:
 
 **Peer-Reviewed Articles**
 
-Song, E. E. How Outsourcing Social Services to NGOs Bolsters Political Trust in China: Evidence from Shanghai. *Chinese Political Science Review*. Forthcoming.
+Song, E. E. How Outsourcing Social Services to NGOs Bolsters Political Trust in China: Evidence from Shanghai. *Chinese Political Science Review*. Forthcoming. [Pre-print available at SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3991317)
 
 **Articles Under Review/Submitted**
 
