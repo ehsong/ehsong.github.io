@@ -16,6 +16,8 @@ My research interests span across the following topics:
 - Institutions in authoritarian states and authoritarian resilience
 - Democratic backsliding and autocratization
 
+At GIGA, I am part of the project ["COVID-19 and Executive Personalization in Sub-Saharan Africa, Asia, Latin America and the MENA Region"](https://www.giga-hamburg.de/en/projects/covid-19-executive-personalization-saharan-africa-asia-latin-america-mena-region/) which examines executive personalization in 36 countries. This project is funded by the German Research Foundation.
+
 **Peer-Reviewed Articles**
 
 Song, E. E. How Outsourcing Social Services to NGOs Bolsters Political Trust in China: Evidence from Shanghai. *Chinese Political Science Review*. Forthcoming. Available at: [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3991317) 
