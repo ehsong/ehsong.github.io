@@ -20,7 +20,7 @@ At GIGA, I am part of the project ["COVID-19 and Executive Personalization in Su
 
 **Peer-Reviewed Articles**
 
-Song, E. E. How Outsourcing Social Services to NGOs Bolsters Political Trust in China: Evidence from Shanghai. *Chinese Political Science Review*. Forthcoming. Available at: [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3991317) 
+Song, E. E. How Outsourcing Social Services to NGOs Bolsters Political Trust in China: Evidence from Shanghai. *Chinese Political Science Review*. Forthcoming. Available at: [[SSRN]](http://ssrn.com/abstract=3991317) 
 - Paper presented at 2019 MPSA, Washington D.C.; 2019 Bay Area Comparative Urban Politics Workshop, UC Berkeley; 2019 China Social Science Workshop, Stanford University.
 
 **Articles Under Review/Submitted**
