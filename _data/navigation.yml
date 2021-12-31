@@ -18,8 +18,5 @@ main:
   - title: "Personal"
     url: /personal/
     
-  - title: "Blog"
-    url: /bog/
-
   - title: "Contact"
     url: /contact/
