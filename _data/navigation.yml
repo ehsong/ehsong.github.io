@@ -19,7 +19,7 @@ main:
     url: /personal/
     
   - title: "Blog"
-    url: esthersong.blog
+    url: /bog/
 
   - title: "Contact"
     url: /contact/
