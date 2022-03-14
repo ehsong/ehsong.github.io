@@ -10,9 +10,8 @@ author_profile: true
 My research interests span across a number of topics in comparative politics and international relations with a regional focus primarily on China and secondarily on the two Koreas:
 
 - NGO policy and civil society in authoritarian states
-- Repression in authoritarian states
-- Consequences of political violence in new democracies
-- Media, public opinion, and foreign policy
+- Political attitudes (political trust)
+- Foreign policy attitudes
 - Institutions in authoritarian states and authoritarian resilience
 - Democratic backsliding and autocratization
 - Soft power and nationalism
@@ -21,14 +20,12 @@ At GIGA, I am part of the project ["COVID-19 and Executive Personalization in Su
 
 **Peer-Reviewed Articles**
 
-Song, E. E. How Outsourcing Social Services to NGOs Bolsters Political Trust in China: Evidence from Shanghai. *Chinese Political Science Review*. Forthcoming. Available at: [[SSRN]](http://ssrn.com/abstract=3991317)
+Song, E. E. 2022. How Outsourcing Social Services to NGOs Bolsters Political Trust in China: Evidence from Shanghai. *Chinese Political Science Review*. Available at: [[Open Access Link]](https://link.springer.com/article/10.1007/s41111-021-00207-z)
 - Paper presented at 2019 MPSA, Chicago IL; 2019 Bay Area Comparative Urban Politics Workshop, UC Berkeley; 2019 China Social Science Workshop, Stanford University.
 
 **Articles Under Review/Submitted**
 
-Song, E. E. Understanding the Expansion of the NGO Sector in China: Through the Lense of Adaptive Corporatist Governance. R&R.
-
-Song, E. E. Long-Term Effects of Authoritarian Repression: Evidence from the Gwangju Massacre in South Korea, 1980. R&R.
+Song, E. E. Long-Term Effects of Authoritarian Repression: Evidence from the Gwangju Massacre in South Korea, 1980. Under Review.
 
 Song, E. E. The Political Origins of NGO Sector Expansion Under Authoritarianism: Evidence from Case Comparison of Three Post-Communist Countries. Under Review.
 
