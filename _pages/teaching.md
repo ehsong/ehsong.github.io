@@ -15,6 +15,5 @@ author_profile: true
 
 *Mentoring*
 
-- Ines Miral, Kings College London & Renmin University (Dept. of Asian and European Affairs) (Intern at IAS GIGA, 2022 Summer)
 - Piper Yu, British School Manilla (2021 Summer)
 - Joanne Yang, Cornell University '21 (Dept. of Political Science and Government)(2021 Summer)
