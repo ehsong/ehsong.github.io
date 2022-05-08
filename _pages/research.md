@@ -24,9 +24,9 @@ Song, E. E. The Political Origins of NGO Sector Expansion Under Authoritarianism
 
 **Working Papers**
 
-*How Air Pollution Coverage Exacerbates Anti-Chinese Sentiment in South Korea: Evidence from Twitter and Survey*
+*Air Pollution Coverage, Anti-Chinese Sentiment, and Attitudes towards Foreign Policy in South Korea*
 
-- Previous version presented at 2019 APSA, Washington D.C. [[iPoster]](https://apsa2019-apsa.ipostersessions.com/default.aspx?s=DF-1D-34-3D-64-33-21-12-B0-42-57-A1-87-AC-68-E1)
+- Previous version presented at 2019 APSA, Washington D.C. [[iPoster]](https://apsa2019-apsa.ipostersessions.com/default.aspx?s=DF-1D-34-3D-64-33-21-12-B0-42-57-A1-87-AC-68-E1); GIGA Workshop on Foreign Policy 2022
 
 The issue of air pollutants allegedly originating from China has become a hotly debated issue in South Korea in the recent few years. Despite the government's neutral stance, there has been increased backlash from the Korean civil society against China demanding responsibility and accountability. How as the media reported about China regarding air pollutants in South Korea? What is the effect of media reports on air pollution on public perception of China? This work draws evidence from text mining of news headlines, twitter data, and a survey experiment to answer this question. This work aims to contribute to understanding trends in anti-Chinese sentiment in Korea as well as international relations literature on media and foreign policy attitudes.
 
