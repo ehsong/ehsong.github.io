@@ -13,7 +13,8 @@ author_profile: true
 - International Security in the Changing World, (Martha Crenshaw and Amy Zegart, 2013-4 Winter)
 - Democracy and Development (Larry Diamond and Kathryn Stoner, 2013-4 Fall)
 
-*Mentoring*
+*Mentoring and Supervision*
 
+- Ines Miral, Kings College London (Dept. of Asian and European Affairs) (GIGA IAS Intern, 2022 Summer)
 - Piper Yu, British School Manilla (2021 Summer)
-- Joanne Yang, Cornell University '21 (Dept. of Political Science and Government)(2021 Summer)
+- Joanne Yang, Cornell University (Dept. of Political Science and Government)(2021 Summer)
