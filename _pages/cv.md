@@ -8,4 +8,5 @@ redirect_from:
 ---
 {% include base_path %}
 
-You can access my CV [here](https://drive.google.com/file/d/1Ei9S62fru7-iwqs6Ek0jbSJ63ZB95jB1/view?usp=sharing).
+You can access my CV [here](https://drive.google.com/file/d/1ODsDd7WNIOPJS446Zh2X7GkdUJVaZ_cZ/view?usp=sharing).
+Last update: May 2022.
