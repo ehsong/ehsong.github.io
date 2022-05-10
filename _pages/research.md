@@ -22,6 +22,8 @@ Song, E. E. Long-Term Effects of Authoritarian Repression: Evidence from the Gwa
 
 Song, E. E. The Political Origins of NGO Sector Expansion Under Authoritarianism: Evidence from Case Comparison of Three Post-Communist Countries. Under Review.
 
+Song, E. E. Explaining the Expansion of the NGO Sector in China: Through the Lense of Adaptive Corporatist Governance. Under Review.
+
 **Working Papers**
 
 *Air Pollution Coverage, Anti-Chinese Sentiment, and Attitudes towards Foreign Policy in South Korea*
