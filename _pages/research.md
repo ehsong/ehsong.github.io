@@ -18,23 +18,19 @@ Song, E. E. 2022. How Outsourcing Social Services to NGOs Bolsters Political Tru
 
 **Articles Under Review/Submitted**
 
-Song, E. E. Long-Term Effects of Authoritarian Repression: Evidence from the Gwangju Massacre in South Korea, 1980. Under Review.
+Song, E. E. Long-Term Effects of Authoritarian Repression: Evidence from the Gwangju Massacre in South Korea, 1980. Revise and resubmit.
 
 Song, E. E. The Political Origins of NGO Sector Expansion Under Authoritarianism: Evidence from Case Comparison of Three Post-Communist Countries. Under Review.
 
 Song, E. E. Explaining the Expansion of the NGO Sector in China: Through the Lense of Adaptive Corporatist Governance. Under Review.
 
-**Working Papers**
-
-*Air Pollution Coverage, Anti-Chinese Sentiment, and Attitudes towards Foreign Policy in South Korea*
-
+Song, E. E. Air Pollution Coverage, Anti-Chinese Sentiment, and Attitudes towards Foreign Policy in South Korea. Under Review.
 - Previous version presented at 2019 APSA, Washington D.C. [[iPoster]](https://apsa2019-apsa.ipostersessions.com/default.aspx?s=DF-1D-34-3D-64-33-21-12-B0-42-57-A1-87-AC-68-E1); GIGA Workshop on Foreign Policy 2022
 
-The issue of air pollutants allegedly originating from China has become a hotly debated issue in South Korea in the recent few years. Despite the government's neutral stance, there has been increased backlash from the Korean civil society against China demanding responsibility and accountability. How as the media reported about China regarding air pollutants in South Korea? What is the effect of media reports on air pollution on public perception of China? This work draws evidence from text mining of news headlines, twitter data, and a survey experiment to answer this question. This work aims to contribute to understanding trends in anti-Chinese sentiment in Korea as well as international relations literature on media and foreign policy attitudes.
+Song, E. E. and Joanne Yang. How China Violates International Human Rights Law: Evidence from CIRI and UPR Database (1982-2011). Under Review.
 
-*How China Violates International Human Rights Law: Evidence from CIRI and UPR Database (1982-2011)* (with Joanne Yang)
 
-Despite China’s growing participation and accession to international human rights treaties, China continues to transgress the physical integrity rights of its citizens. In the question of whether China is able to effectively uphold human rights standards outlined in international human rights law, we find that China shows a lack of adherence to both treaties with a recent trend of more public grievances and oppression of ethnic and religious minorities. Rather, China maintains a distinct view of human rights norms that prioritizes economic development, national sovereignty, and non-interference. This work aims to contribute to expanding empirical understanding of human rights violations in China over time.
+**Working Papers**
 
 *Personnel Management as a Credible Commitment Mechanism: Evidence from North Korea, 1994-2014* (with Jacob Reidhead)
 
@@ -45,7 +41,3 @@ Despite accumulation of a large corpus of literature on the role of legislatures
 *'Democracy' as a Legitimizing Tool in China*
 
 Albeit being a non-democratic country, the Communist Party of China has not neglected the idea of 'democracy' - the earliest discussion of democracy goes back to 2009 when Yu Keping, advisor to Hu Jintao released an essay "Democracy is a Good Thing". More recently, the idea of democracy has been again mentioned in the white paper released by the CCP before the Democracy Summit headed by President Biden in December 2021. This project aims to examine the history of how democracy has been interpreted in China and how it is being used as a legitmizing tool for the CCP. In addition, this project also aims to examine how "democracy with Chinese characteristics" affects international audience and their interpretation of China's soft power.
-
-*Domestic and International Consequences of Chinese INGO Operations Overseas*
-
-Other than promotion of domestic NGOs, China has been also promoting internationalization of NGOs in the recent decades. According to a recent database, [approximately 130 Chinese INGOs are engaged in 294 development projects](https://leidenasiacentre.nl/launch-of-the-chinese-ngo-internationalization-database/). Drawing from literature on soft power, nationalism, and regime legitimacy in the context of Chinese politics, this project aims to examine the political consequences of China's internationalization of NGOs at both domestic and international levels.
