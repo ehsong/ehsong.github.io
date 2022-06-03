@@ -36,7 +36,7 @@ Song, E. E. and Joanne Yang. How China Violates International Human Rights Law: 
 
 Despite accumulation of a large corpus of literature on the role of legislatures and parties, it is unclear whether these institutions function as a co-optation mechanism, especially when legislatures do not function as an arena of deliberation. We draw attention to personnel management, which involves management of promotions, demotions and movement of positions of cadres within the party-state. We argue that personnel management is a more concrete measure of access to rents by elites. Personnel management is an institution that dictators use to credibly commit to power sharing but at the same time constrain elites from involving in collective action. We test the implications of the theory using a unique data set we constructed which contains information on 2,631 career trajectory events of 320 cadres in North Korea.
 
-- Previous version presented at MPSA, Chicago IL; Stanford Network Forum
+- Previous version presented at MPSA, Chicago IL; Stanford Network Forum, Stanford University
 
 **Projects Under Development**
 
