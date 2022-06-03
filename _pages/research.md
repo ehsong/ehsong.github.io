@@ -32,6 +32,7 @@ Song, E. E. and Joanne Yang. How China Violates International Human Rights Law: 
 
 **Working Papers**
 
+
 *Personnel Management as a Credible Commitment Mechanism: Evidence from North Korea, 1994-2014* (with Jacob Reidhead)
 
 Despite accumulation of a large corpus of literature on the role of legislatures and parties, it is unclear whether these institutions function as a co-optation mechanism, especially when legislatures do not function as an arena of deliberation. We draw attention to personnel management, which involves management of promotions, demotions and movement of positions of cadres within the party-state. We argue that personnel management is a more concrete measure of access to rents by elites. Personnel management is an institution that dictators use to credibly commit to power sharing but at the same time constrain elites from involving in collective action. We test the implications of the theory using a unique data set we constructed which contains information on 2,631 career trajectory events of 320 cadres in North Korea.
@@ -41,3 +42,7 @@ Despite accumulation of a large corpus of literature on the role of legislatures
 *'Democracy' as a Legitimizing Tool in China*
 
 Albeit being a non-democratic country, the Communist Party of China has not neglected the idea of 'democracy' - the earliest discussion of democracy goes back to 2009 when Yu Keping, advisor to Hu Jintao released an essay "Democracy is a Good Thing". More recently, the idea of democracy has been again mentioned in the white paper released by the CCP before the Democracy Summit headed by President Biden in December 2021. This project aims to examine the history of how democracy has been interpreted in China and how it is being used as a legitmizing tool for the CCP. In addition, this project also aims to examine how "democracy with Chinese characteristics" affects international audience and their interpretation of China's soft power.
+
+*COVID, Anti-Chinese Sentiment, and Foreign Policy Attitudes in South Korea*
+
+What explains rising anti-Chinese sentiment related to COVID-19 in South Korea? How does it affect foreign policy attitudes? According to recent public opinion polls, unfavorability towards China is at an all-time high in S.Korea during the recent few years, and “China’s response towards COVID-19’’ is one of the top reasons that determine unfavorability towards China. By drawing from a large amount of news data and social media data, we show how public attitudes have been influenced by media and debates within the congress, rather than official government rhetoric. In addition, through a survey experiment, we show how these discourses affect anti-Chinese sentiment and public attitudes towards Korea’s China-policy. By focusing on media and congressional debates, this work contributes to literature on domestic sources of foreign policy.
