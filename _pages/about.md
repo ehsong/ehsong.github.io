@@ -11,4 +11,4 @@ I am a research fellow at the [Institute for Asian Studies](https://www.giga-ham
 
 My other current on-going projects include anti-Chinese sentiment in South Korea and its effects on foreign policy attitudes; China and the international security regime; domestic and international consequences of Chinese democracy, among others.
 
-Please see my [CV](https://drive.google.com/file/d/1ODsDd7WNIOPJS446Zh2X7GkdUJVaZ_cZ/view?usp=sharing), [research](https://ehsong.github.io/research/), and [GIGA webpage](https://www.giga-hamburg.de/en/the-giga/team/song-esther) for more details.
+Please see my [CV](https://drive.google.com/file/d/1Pq94Pt9oJr5fHz2KTrb2gSu7ptCuZUJa/view?usp=sharing), [research](https://ehsong.github.io/research/), and [GIGA webpage](https://www.giga-hamburg.de/en/the-giga/team/song-esther) for more details.
