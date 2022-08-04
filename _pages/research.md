@@ -25,7 +25,7 @@ Song, E. E. The Political Origins of NGO Sector Expansion Under Authoritarianism
 Song, E. E. Explaining the Expansion of the NGO Sector in China: Through the Lense of Adaptive Corporatist Governance. Under Review.
 
 Song, E. E. Air Pollution Coverage, Anti-Chinese Sentiment, and Attitudes towards Foreign Policy in South Korea. Under Review.
-- Previous version presented at 2019 APSA, Washington D.C. [[iPoster]](https://apsa2019-apsa.ipostersessions.com/default.aspx?s=DF-1D-34-3D-64-33-21-12-B0-42-57-A1-87-AC-68-E1); GIGA Workshop on Foreign Policy 2022
+- Previous version presented at 2019 APSA, Washington D.C. [[iPoster]](https://apsa2019-apsa.ipostersessions.com/default.aspx?s=DF-1D-34-3D-64-33-21-12-B0-42-57-A1-87-AC-68-E1); GIGA Workshop on Foreign Policy 2022; International China Narratives in Politics and Economics since 1945, Bundeskanzler-Helmut-Schmidt-Stiftung (BKHS), Hamburg DE (TBD)
 
 Song, E. E. and Joanne Yang. How China Violates International Human Rights Law: Evidence from CIRI and UPR Database (1982-2011). Under Review.
 
