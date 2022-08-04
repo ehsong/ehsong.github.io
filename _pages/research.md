@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-My research interests span across topics such as civil society and NGO policy, authoritarianism, political attitudes, and international affairs in East Asia with a regional focus primarily on China and secondarily on the two Koreas. My methodological interests lies in survey experiments and text mining.
+My research interests span across topics such as civil society and NGO policy, authoritarianism, political attitudes, and international affairs in East Asia with a regional focus primarily on China and secondarily on the two Koreas. My methodological interests lies in survey experiments, text mining, and case studies.
 
 At GIGA, I am part of the project ["COVID-19 and Executive Personalization in Sub-Saharan Africa, Asia, Latin America and the MENA Region"](https://www.giga-hamburg.de/en/projects/covid-19-executive-personalization-saharan-africa-asia-latin-america-mena-region/) which examines executive personalization in 36 countries. This project is funded by the [German Research Foundation](https://www.dfg.de/en/research_funding/index.html).
 
