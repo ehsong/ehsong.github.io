@@ -10,9 +10,9 @@ author_profile: true
 My research interests span across topics such as civil society and NGO policy, authoritarianism, and international affairs in East Asia with a regional focus primarily on China and secondarily on the two Koreas. My methodological interests lies in survey experiments and text mining.
 
 
-**Authoritarianism**
+## Authoritarianism
 
-NGO Policy in China
+### NGO Policy in China
 
 My dissertation work has centered on answering the question on why China has allowed the growth of the NGO sector despite its potential threat towards regime stability. This work touches not only upon state-society relations in China but authoritarianism as well. My work has culminated in a book-length project and peer-reviewed articles \& articles under review.
 
@@ -23,7 +23,7 @@ My dissertation work has centered on answering the question on why China has all
 
 * Song, E. E. Explaining the Expansion of the NGO Sector in China: Through the Lense of Adaptive Corporatist Governance. Under Review.
 
-*Personalization*
+### Personalization
 
 At GIGA, I am part of the project “COVID-19 and Executive Personalization in Sub-Saharan Africa, Asia, Latin America and the MENA Region” which examines executive personalization in 36 countries. This project is funded by the German Research Foundation. I have several working papers building on the conceptual framework built through the project.
 
@@ -38,7 +38,7 @@ Despite accumulation of a large corpus of literature on the role of legislatures
 
 Despite recent events alluding to increased power of the chief executive after COVID19, there has been no theoretical framework that examines how the pandemic has spurred personalization events. By examining the case of South Korea, we show how the executive power was personalized mainly via personnel management. We also identify attempts of personalization via violence yet administrative court rulings show that courts have played a role in checking excessive restrictions on mass protests. We also extend our analyses to compare personalization trends under the previous Park administration to show how personalization trends differed under two administrations.
 
-**Xenophobia, Nationalism, and Foreign Policy Attitudes**
+## Xenophobia, Nationalism, and Foreign Policy Attitudes
 
 My third research agenda lies in examining determinants of foreign policy attitudes, notably xenophobia and nationalism. With the case of South Korea, I examine determinants of recent increase in Sinophobia and its implications on foreign policy attitudes. With the case China, I examine the interlink between nationalism and hawkish foreign policy attitudes. I draw evidence from qualitative text analyses, survey experiments, and statistical analyses of public opinion data.
 
