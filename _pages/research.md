@@ -31,10 +31,10 @@ At GIGA, I am part of the project “COVID-19 and Executive Personalization in S
 
 Despite accumulation of a large corpus of literature on the role of legislatures and parties, it is unclear whether these institutions function as a co-optation mechanism, especially when legislatures do not function as an arena of deliberation. We draw attention to personnel management, which involves management of promotions, demotions and movement of positions of cadres within the party-state. We argue that personnel management is a more concrete measure of access to rents by elites. Personnel management is an institution that dictators use to credibly commit to power sharing but at the same time constrain elites from involving in collective action. We test the implications of the theory using a unique data set we constructed which contains information on 2,631 career trajectory events of 320 cadres in North Korea.
 
-  * Previous version presented at MPSA, Chicago IL; Stanford Network Forum, Stanford University; Authoritarian Politics System Group Workshop (TBD); GIGA Workshop on Authoritarian Politics (TBD)
-  * Data analyses in progress
+     * Previous version presented at MPSA, Chicago IL; Stanford Network Forum, Stanford University; Authoritarian Politics System Group Workshop (TBD); GIGA Workshop on Authoritarian Politics (TBD)
+     * Data analyses in progress
 
-*Hints of Personalization after COVID19 in South Korea (with Ines Miral)
+* Hints of Personalization after COVID19 in South Korea (with Ines Miral)
 
 Despite recent events alluding to increased power of the chief executive after COVID19, there has been no theoretical framework that examines how the pandemic has spurred personalization events. By examining the case of South Korea, we show how the executive power was personalized mainly via personnel management. We also identify attempts of personalization via violence yet administrative court rulings show that courts have played a role in checking excessive restrictions on mass protests. We also extend our analyses to compare personalization trends under the previous Park administration to show how personalization trends differed under two administrations.
 
