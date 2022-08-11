@@ -17,7 +17,7 @@ NGO Policy in China
 My dissertation work has centered on answering the question on why China has allowed the growth of the NGO sector despite its potential threat towards regime stability. This work touches not only upon state-society relations in China but authoritarianism as well. My work has culminated in a book-length project and peer-reviewed articles \& articles under review.
 
 * Song, E. E. 2022. How Outsourcing Social Services to NGOs Bolsters Political Trust in China: Evidence from Shanghai. *Chinese Political Science Review*. 1-27. [[Open Access Link]](https://link.springer.com/article/10.1007/s41111-021-00207-z)    
-- Paper presented at 2019 MPSA, Chicago IL; 2019 Bay Area Comparative Urban Politics Workshop, UC Berkeley; 2019 China Social Science Workshop, Stanford University.
+    * Paper presented at 2019 MPSA, Chicago IL; 2019 Bay Area Comparative Urban Politics Workshop, UC Berkeley; 2019 China Social Science Workshop, Stanford University.
 
 * Song, E. E. The Political Origins of NGO Sector Expansion Under Authoritarianism: Evidence from Case Comparison of Three Post-Communist Countries. R&R.
 
@@ -31,8 +31,8 @@ At GIGA, I am part of the project “COVID-19 and Executive Personalization in S
 
 Despite accumulation of a large corpus of literature on the role of legislatures and parties, it is unclear whether these institutions function as a co-optation mechanism, especially when legislatures do not function as an arena of deliberation. We draw attention to personnel management, which involves management of promotions, demotions and movement of positions of cadres within the party-state. We argue that personnel management is a more concrete measure of access to rents by elites. Personnel management is an institution that dictators use to credibly commit to power sharing but at the same time constrain elites from involving in collective action. We test the implications of the theory using a unique data set we constructed which contains information on 2,631 career trajectory events of 320 cadres in North Korea.
 
-- Previous version presented at MPSA, Chicago IL; Stanford Network Forum, Stanford University; Authoritarian Politics System Group Workshop (TBD); GIGA Workshop on Authoritarian Politics (TBD)
-- Data set in preparation
+    * Previous version presented at MPSA, Chicago IL; Stanford Network Forum, Stanford University; Authoritarian Politics System Group Workshop (TBD); GIGA Workshop on Authoritarian Politics (TBD)
+    * Data analyses in progress
 
 *Hints of Personalization after COVID19 in South Korea (with Ines Miral)
 
