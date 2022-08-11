@@ -13,7 +13,7 @@ My research interests span across topics such as civil society and NGO policy, a
 
 ### NGO Policy Under Authoritarianism
 
-My dissertation work has centered on answering the question on why China has allowed the growth of the NGO sector despite its potential threat towards regime stability. This work touches not only upon state-society relations in China but authoritarianism as well. My work has culminated in a book project and peer-reviewed articles \& articles under review.
+My dissertation work has centered on answering the question on why China has allowed the growth of the NGO sector despite its potential threat towards regime stability. This work touches not only upon state-society relations in China but authoritarianism as well. My work has culminated in a book project and peer-reviewed articles and articles under review.
 
 * Song, E. E. 2022. How Outsourcing Social Services to NGOs Bolsters Political Trust in China: Evidence from Shanghai. *Chinese Political Science Review*. 1-27. [[Open Access Link]](https://link.springer.com/article/10.1007/s41111-021-00207-z)    
     * Paper presented at 2019 MPSA, Chicago IL; 2019 Bay Area Comparative Urban Politics Workshop, UC Berkeley; 2019 China Social Science Workshop, Stanford University.
