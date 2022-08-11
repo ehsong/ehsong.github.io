@@ -9,12 +9,13 @@ author_profile: true
 
 My research interests span across topics such as civil society and NGO policy, authoritarianism, and international affairs in East Asia with a regional focus primarily on China and secondarily on the two Koreas. My methodological interests lies in survey experiments and text mining.
 
+![](/images/gwanghwamun.jpeg)
 
 ## Authoritarianism
 
 ### NGO Policy Under Authoritarianism
 
-My dissertation work has centered on answering the question on why China has allowed the growth of the NGO sector despite its potential threat towards regime stability. This work touches not only upon state-society relations in China but authoritarianism as well. My work has culminated in a book-length project and peer-reviewed articles \& articles under review.
+My dissertation work has centered on answering the question on why China has allowed the growth of the NGO sector despite its potential threat towards regime stability. This work touches not only upon state-society relations in China but authoritarianism as well. My work has culminated in a book project and peer-reviewed articles \& articles under review.
 
 * Song, E. E. 2022. How Outsourcing Social Services to NGOs Bolsters Political Trust in China: Evidence from Shanghai. *Chinese Political Science Review*. 1-27. [[Open Access Link]](https://link.springer.com/article/10.1007/s41111-021-00207-z)    
     * Paper presented at 2019 MPSA, Chicago IL; 2019 Bay Area Comparative Urban Politics Workshop, UC Berkeley; 2019 China Social Science Workshop, Stanford University.
@@ -25,7 +26,7 @@ My dissertation work has centered on answering the question on why China has all
 
 ### Personalization
 
-At GIGA, I am part of the project “COVID-19 and Executive Personalization in Sub-Saharan Africa, Asia, Latin America and the MENA Region” which examines executive personalization in 36 countries. This project is funded by the German Research Foundation. I have several working papers building on the conceptual framework our team has established during our project.
+At GIGA, I am part of the project [“COVID-19 and Executive Personalization in Sub-Saharan Africa, Asia, Latin America and the MENA Region”](https://www.giga-hamburg.de/en/research-and-transfer/projects/covid-19-executive-personalization-sub-saharan-africa-asia-latin-america-mena-region) which examines executive personalization in 36 countries. This project is funded by the German Research Foundation. I have several working papers building on the conceptual framework our team has established during our project.
 
 * Personnel Management as a Credible Commitment Mechanism: Evidence from North Korea, 1994-2014 (with Jacob Reidhead)
   * Previous version presented at MPSA, Chicago IL; Stanford Network Forum, Stanford University; Authoritarian Politics System Group Workshop (TBD); GIGA Workshop on Authoritarian Politics (TBD)
@@ -45,13 +46,19 @@ My third research agenda lies in examining determinants of foreign policy attitu
 
 * COVID19 and Anti-Chinese Sentiment in South Korea  
 
-After the onset of COVID19 pandemic, the U.S. and China has been strategically crafting COVID19 narratives to influence domestic politics and international relations. However yet we know less about how these narratives are formed. By examinig the case of South Korea, I find that anti-Chinese sentiment was deliberately incited due to domestic political factors: the conservatives used xenophobic narratives to compete with the liberal incumbent party. The deliberate crafting of the narrative was then replicated in news media and was absorbed by the public. The xenophobic narratives targeted at the Chinese has led to increase in anti-Chinese sentiment, even in topics unrelated to COVID19. I show evidence using qualitative text analyses and readings of congressional debates, news titles and op-ed titles, and more than 700K tweets collected between 2019 and 2021.
+COVID19 has led to increased anti-Chinese sentiment around the world, yet we know less about the exact link. By examining the case of South Korea, I find that anti-Chinese sentiment was deliberately incited due to domestic political factors: the conservatives used xenophobic narratives to compete with the liberal incumbent party. The deliberate crafting of the narrative was then replicated in news media and was absorbed by the public. The xenophobic narratives targeted at the Chinese has led to increase in anti-Chinese sentiment, even in topics unrelated to COVID19. I show evidence using qualitative text analyses, natural language processing and readings of congressional debates, news titles and op-ed titles, and 700K tweets collected between 2019 and 2021.
 
-## Other Articles Under Review/Submitted
+## China and the World
 
-* Song, E. E. Long-Term Effects of Authoritarian Repression: Evidence from the Gwangju Massacre in South Korea, 1980. Under Review.
 * Song, E. E. and Joanne Yang. How China Violates International Human Rights Law: Evidence from CIRI and UPR Database (1982-2011). Under Review.
 
+* China's Territorial Dispute and Multilateralism
+
+* China's Soft Power Around the World
+
+## Other Articles Under Review
+
+* Song, E. E. Long-Term Effects of Authoritarian Repression: Evidence from the Gwangju Massacre in South Korea, 1980. Under Review.
 
 ## Projects Under Development
 
