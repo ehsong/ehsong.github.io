@@ -12,7 +12,7 @@ My research interests span across topics such as civil society and NGO policy, a
 
 ## Authoritarianism
 
-### NGO Policy in China
+### NGO Policy Under Authoriatarianism
 
 My dissertation work has centered on answering the question on why China has allowed the growth of the NGO sector despite its potential threat towards regime stability. This work touches not only upon state-society relations in China but authoritarianism as well. My work has culminated in a book-length project and peer-reviewed articles \& articles under review.
 
