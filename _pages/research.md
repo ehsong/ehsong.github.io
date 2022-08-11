@@ -28,11 +28,10 @@ My dissertation work has centered on answering the question on why China has all
 At GIGA, I am part of the project “COVID-19 and Executive Personalization in Sub-Saharan Africa, Asia, Latin America and the MENA Region” which examines executive personalization in 36 countries. This project is funded by the German Research Foundation. I have several working papers building on the conceptual framework built through the project.
 
 * Personnel Management as a Credible Commitment Mechanism: Evidence from North Korea, 1994-2014 (with Jacob Reidhead)
+  * Previous version presented at MPSA, Chicago IL; Stanford Network Forum, Stanford University; Authoritarian Politics System Group Workshop (TBD); GIGA Workshop on Authoritarian Politics (TBD)
+  * Data analyses in progress
 
 Despite accumulation of a large corpus of literature on the role of legislatures and parties, it is unclear whether these institutions function as a co-optation mechanism, especially when legislatures do not function as an arena of deliberation. We draw attention to personnel management, which involves management of promotions, demotions and movement of positions of cadres within the party-state. We argue that personnel management is a more concrete measure of access to rents by elites. Personnel management is an institution that dictators use to credibly commit to power sharing but at the same time constrain elites from involving in collective action. We test the implications of the theory using a unique data set we constructed which contains information on 2,631 career trajectory events of 320 cadres in North Korea.
-
-     * Previous version presented at MPSA, Chicago IL; Stanford Network Forum, Stanford University; Authoritarian Politics System Group Workshop (TBD); GIGA Workshop on Authoritarian Politics (TBD)
-     * Data analyses in progress
 
 * Hints of Personalization after COVID19 in South Korea (with Ines Miral)
 
@@ -43,9 +42,9 @@ Despite recent events alluding to increased power of the chief executive after C
 My third research agenda lies in examining determinants of foreign policy attitudes, notably xenophobia and nationalism. With the case of South Korea, I examine determinants of recent increase in Sinophobia and its implications on foreign policy attitudes. With the case China, I examine the interlink between nationalism and hawkish foreign policy attitudes. I draw evidence from qualitative text analyses, survey experiments, and statistical analyses of public opinion data.
 
 * Song, E. E. Air Pollution Coverage, Anti-Chinese Sentiment, and Attitudes towards Foreign Policy in South Korea. Under Review.    
-- Previous version presented at 2019 APSA, Washington D.C. [[iPoster]](https://apsa2019-apsa.ipostersessions.com/default.aspx?s=DF-1D-34-3D-64-33-21-12-B0-42-57-A1-87-AC-68-E1); GIGA Workshop on Foreign Policy 2022; International China Narratives in Politics and Economics since 1945, Bundeskanzler-Helmut-Schmidt-Stiftung (BKHS), Hamburg DE (TBD)
+  * Previous version presented at 2019 APSA, Washington D.C. [[iPoster]](https://apsa2019-apsa.ipostersessions.com/default.aspx?s=DF-1D-34-3D-64-33-21-12-B0-42-57-A1-87-AC-68-E1); GIGA Workshop on Foreign Policy 2022; International China Narratives in Politics and Economics since 1945, Bundeskanzler-Helmut-Schmidt-Stiftung (BKHS), Hamburg DE (TBD)
 
-*COVID19 and Anti-Chinese Sentiment in South Korea  
+* COVID19 and Anti-Chinese Sentiment in South Korea  
 
 After the onset of COVID19 pandemic, the U.S. and China has been strategically crafting COVID19 narratives to influence domestic politics and international relations. However yet we know less about how these narratives are formed. By examinig the case of South Korea, I find that anti-Chinese sentiment was deliberately incited due to domestic political factors: the conservatives used xenophobic narratives to compete with the liberal incumbent party. The deliberate crafting of the narrative was then replicated in news media and was absorbed by the public. The xenophobic narratives targeted at the Chinese has led to increase in anti-Chinese sentiment, even in topics unrelated to COVID19. I show evidence using qualitative text analyses and readings of congressional debates, news titles and op-ed titles, and more than 700K tweets collected between 2019 and 2021.
 
