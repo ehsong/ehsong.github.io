@@ -47,13 +47,13 @@ My third research agenda lies in examining determinants of foreign policy attitu
 
 After the onset of COVID19 pandemic, the U.S. and China has been strategically crafting COVID19 narratives to influence domestic politics and international relations. However yet we know less about how these narratives are formed. By examinig the case of South Korea, I find that anti-Chinese sentiment was deliberately incited due to domestic political factors: the conservatives used xenophobic narratives to compete with the liberal incumbent party. The deliberate crafting of the narrative was then replicated in news media and was absorbed by the public. The xenophobic narratives targeted at the Chinese has led to increase in anti-Chinese sentiment, even in topics unrelated to COVID19. I show evidence using qualitative text analyses and readings of congressional debates, news titles and op-ed titles, and more than 700K tweets collected between 2019 and 2021.
 
-**Other Articles Under Review/Submitted**
+## Other Articles Under Review/Submitted
 
 * Song, E. E. Long-Term Effects of Authoritarian Repression: Evidence from the Gwangju Massacre in South Korea, 1980. Under Review.
 * Song, E. E. and Joanne Yang. How China Violates International Human Rights Law: Evidence from CIRI and UPR Database (1982-2011). Under Review.
 
 
-**Projects Under Development**
+## Projects Under Development
 
 *'Democracy' as a Legitimizing Tool in China*
 
