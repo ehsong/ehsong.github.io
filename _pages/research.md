@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<img src="/ehsong/ehsong.github.io/blob/master/images/east_asia_resized.jpg?raw=true" width="500" height="333">
+<img src="https://github.com/ehsong/ehsong.github.io/blob/master/images/east_asia_resized.jpg?raw=true" width="500" height="333">
 
 My research interests span across topics such as civil society and NGO policy, authoritarianism, and international affairs in East Asia with a regional focus primarily on China and secondarily on the two Koreas. My research draws evidence mostly from news data, surveys, and survey experiments. My methodological interests lies in survey design, survey experiments, and text analyses.
 
