@@ -39,7 +39,7 @@ Despite recent events alluding to increased power of the chief executive after C
 
 ## Xenophobia, Nationalism, and Foreign Policy Attitudes
 
-My third research agenda lies in examining determinants of foreign policy attitudes, notably xenophobia and nationalism. With the case of South Korea, I examine determinants of recent increase in Sinophobia and its implications on foreign policy attitudes. With the case China, I examine the interlink between nationalism and hawkish foreign policy attitudes. I draw evidence from qualitative text analyses, survey experiments, and statistical analyses of public opinion data.
+My third research agenda lies in examining correlates of foreign policy attitudes, notably xenophobia and nationalism. My recent works have centered on examining the determinants of Sinophobia and its impact on foreign policy attitudes in South Korea. With the case China, I examine the interlink between nationalism and hawkish foreign policy attitudes. I draw evidence from qualitative text analyses, survey experiments, and statistical analyses of public opinion data.
 
 * Song, E. E. Air Pollution Coverage, Anti-Chinese Sentiment, and Attitudes towards Foreign Policy in South Korea. Under Review.    
   * Previous version presented at 2019 APSA, Washington D.C. [[iPoster]](https://apsa2019-apsa.ipostersessions.com/default.aspx?s=DF-1D-34-3D-64-33-21-12-B0-42-57-A1-87-AC-68-E1); GIGA Workshop on Foreign Policy 2022; International China Narratives in Politics and Economics since 1945, Bundeskanzler-Helmut-Schmidt-Stiftung (BKHS), Hamburg DE (TBD)
