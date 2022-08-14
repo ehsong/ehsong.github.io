@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-![](/images/east_asia_getty.jpg)
-
 My research interests span across topics such as civil society and NGO policy, authoritarianism, and international affairs in East Asia with a regional focus primarily on China and secondarily on the two Koreas. My methodological interests lies in survey experiments, text analyses, case studies and process-tracing.
 
 ## Authoritarianism
