@@ -9,13 +9,13 @@ author_profile: true
 
 ![](/images/east_asia_getty.jpg)
 
-My research interests span across topics such as civil society and NGO policy, authoritarianism, and international affairs in East Asia with a regional focus primarily on China and secondarily on the two Koreas. My methodological interests lies in survey experiments and text analyses.
+My research interests span across topics such as civil society and NGO policy, authoritarianism, and international affairs in East Asia with a regional focus primarily on China and secondarily on the two Koreas. My research draws evidence mostly from news data, surveys, and survey experiments. My methodological interests lies in survey design, survey experiments, and text analyses.
 
 ## Authoritarianism
 
 ### NGO Policy Under Authoritarianism
 
-My dissertation work has centered on answering the question on why China has allowed the growth of the NGO sector despite its potential threat towards regime stability. This work touches not only upon state-society relations in China but authoritarianism as well. My work has culminated in a book project, a peer-reviewed article, and articles under review.
+My dissertation work has centered on answering the question on why China has allowed the growth of the NGO sector despite its potential threat towards regime stability. This work touches not only upon state-society relations in China but authoritarianism more broadly. My work has culminated in a book project and peer reviewed articles.
 
 * Song, E. E. 2022. How Outsourcing Social Services to NGOs Bolsters Political Trust in China: Evidence from Shanghai. *Chinese Political Science Review*. 1-27. [[Open Access Link]](https://link.springer.com/article/10.1007/s41111-021-00207-z)    
     * Paper presented at 2019 MPSA, Chicago IL; 2019 Bay Area Comparative Urban Politics Workshop, UC Berkeley; 2019 China Social Science Workshop, Stanford University.
@@ -35,7 +35,7 @@ Despite accumulation of a large corpus of literature on the role of legislatures
 
 * Hints of Personalization after COVID19 in South Korea (with Ines Miral)
 
-Despite recent events alluding to increased power of the chief executive after COVID19, there has been no theoretical framework that examines how the pandemic has spurred personalization events. By examining the case of South Korea, we show how the executive power was personalized mainly via personnel management. We also identify attempts of personalization via violence yet administrative court rulings show that courts have played a role in checking excessive restrictions on mass protests. We also extend our analyses to compare personalization trends under the previous Park administration to show how personalization trends differed under two administrations.
+Despite recent events alluding to increased power of the chief executive after COVID19, there has been no theoretical framework nor an in-depth case study that examines how the pandemic has spurred personalization events. By examining the case of South Korea, we show how the executive power was personalized mainly via personnel management. We also identify attempts of personalization via violence yet administrative court rulings show that courts have played a role in checking excessive restrictions on mass protests. We also extend our analyses to compare personalization trends under the previous Park administration to show how personalization trends differed under two administrations. Our work draws evidence from news data systematically collected using a webscraper that amasses large amounts of news over time borrowing the search algorithm of Naver, the biggest news aggregator in South Korea.
 
 ## Xenophobia, Nationalism, and Foreign Policy Attitudes
 
