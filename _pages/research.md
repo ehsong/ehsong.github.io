@@ -48,13 +48,15 @@ COVID19 has led to increased anti-Chinese sentiment around the world, yet we kno
 
 ## China and the World
 
+My last research agenda lies in understanding how China interacts with multilateralism, notably human rights regime and the security regime. I am also interested in examining correlates of China's soft power, measured by world-wide survey data on global views of China such as the [Sinofon](https://sinofon.cz/surveys/) and social media data.
+
 * Song, E. E. and Joanne Yang. How China Violates International Human Rights Law: Evidence from CIRI and UPR Database (1982-2011). Under Review.
 
 * China's Territorial Dispute and Multilateralism
 
 * China's Soft Power Around the World
 
-## Other Articles Under Review
+## Other Articles Under Review/Working Papers
 
 * Song, E. E. Long-Term Effects of Authoritarian Repression: Evidence from the Gwangju Massacre in South Korea, 1980. Under Review.
 
