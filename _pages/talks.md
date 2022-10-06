@@ -14,7 +14,7 @@ author_profile: true
 - September 2-4, 2022 [China in Europe Research Network Conference (CHERN) Joint Working Group Conference, Paris France](https://china-in-europe.net/chern-joint-working-group-conference-in-september-2022-at-inalco-paris/)   
 Presenter, Working Group 4: Adaptation strategy II: Researchers on doing research on/with China
 
-- November 2-4, 2022 [Sinophone Conference, Olomouc Czech](https://sinofon.cz/surveys/)
+- November 2-4, 2022 [Sinophone Borderlands - Global Views on China Conference, Palacky University, Olomouc Czech](https://sinofon.cz/surveys/)
 
 **2023**
 
