@@ -39,11 +39,11 @@ Despite recent events alluding to increased power of the chief executive after C
 
 My third research agenda lies in examining correlates of foreign policy attitudes, notably xenophobia and nationalism. My recent works have centered on examining the determinants of Sinophobia and its impact on foreign policy attitudes in South Korea. With the case China, I examine the interlink between nationalism and hawkish foreign policy attitudes. I draw evidence from qualitative text analyses, survey experiments, and statistical analyses of public opinion data.
 
-* Song, E. E. Air Pollution Coverage, Anti-Chinese Sentiment, and Attitudes towards Foreign Policy in South Korea. Under Review.    
+* Song, E. E. Air Pollution Coverage, Anti-Chinese Sentiment, and Attitudes towards Foreign Policy in South Korea. Under Review.  
   * Previous version presented at 2019 APSA, Washington D.C. [[iPoster]](https://apsa2019-apsa.ipostersessions.com/default.aspx?s=DF-1D-34-3D-64-33-21-12-B0-42-57-A1-87-AC-68-E1); GIGA Workshop on Foreign Policy 2022; International China Narratives in Politics and Economics since 1945, Bundeskanzler-Helmut-Schmidt-Stiftung (BKHS), Hamburg DE (TBD)
 
-* COVID19 and Anti-Chinese Sentiment in South Korea   
-  * Previous version presented at [Sinophone Borderlands - Global Views on China Conference, Palacky University (https://sinofon.cz/surveys/)  
+* COVID19 and Anti-Chinese Sentiment in South Korea  
+ * Previous version presented at [Sinophone Borderlands - Global Views on China Conference, Palacky University (https://sinofon.cz/surveys/)  
 
 COVID19 has led to increased anti-Chinese sentiment around the world, yet we know less about the exact link. By examining the case of South Korea, I find that anti-Chinese sentiment was deliberately incited due to domestic political factors: the conservatives used xenophobic narratives to compete with the liberal incumbent party. The deliberate crafting of the narrative was then replicated in news media and was absorbed by the public. The xenophobic narratives targeted at the Chinese has led to increase in anti-Chinese sentiment, even in topics unrelated to COVID19. I show evidence using qualitative text analyses, natural language processing and readings of congressional debates, news titles and op-ed titles, and 700K tweets collected between 2019 and 2021.
 
