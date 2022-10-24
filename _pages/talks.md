@@ -15,6 +15,7 @@ author_profile: true
 Presenter, Working Group 4: Adaptation strategy II: Researchers on doing research on/with China
 
 - November 2-4, 2022 [Sinophone Borderlands - Global Views on China Conference, Palacky University, Olomouc Czech](https://sinofon.cz/surveys/)
+Presenter, "COVID19 and Anti-Chinese Sentiment in South Korea: Evidence from Text Mining of Twitter Data"
 
 **2023**
 
