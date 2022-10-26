@@ -23,7 +23,7 @@ author_profile: true
 Organized in partnership with Africa Policy Research Institute (APRI); German Institute for Global and Area Studies (GIGA); Mercator Institute for China Studies (MERICS); and SAIS China Global Research Center at Johns Hopkins University     
    * Presenter, "Changing China Narratives in South Korea"
 
-- March 15-18, 2023 [International Studies Association Conference (IPSA), Montreal Canada](https://www.isanet.org/Conferences/ISA2023)
+- March 15-18, 2023 [International Studies Association Conference (ISA), Montreal Canada](https://www.isanet.org/Conferences/ISA2023)
    * Presenter, "COVID-19 narrative, anti-Chinese sentiment, and foreign policy attitudes in South Korea"
    * Chair & Discussant, Panel: Conducting Foreign Policy in East Asia
 
