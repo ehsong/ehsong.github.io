@@ -23,8 +23,8 @@ Presenter, "COVID19 and Anti-Chinese Sentiment in South Korea: Evidence from Tex
 Organized in partnership with Africa Policy Research Institute (APRI); German Institute for Global and Area Studies (GIGA); Mercator Institute for China Studies (MERICS); and SAIS China Global Research Center at Johns Hopkins University     
 Presenter, "Changing China Narratives in South Korea"
 
-- April, 2023 [European Consortium for Political Research (ECPR) Joint Session Workshop, Toulouse France](https://ecpr.eu/)
-
-- March, 2023 [International Studies Association Conference (IPSA), Montreal Canada](https://www.isanet.org/Conferences/ISA2023)
+- March 15-18, 2023 [International Studies Association Conference (IPSA), Montreal Canada](https://www.isanet.org/Conferences/ISA2023)
+Presenter, "COVID-19 narrative, anti-Chinese sentiment, and foreign policy attitudes in South Korea"
+Chair & Discussant, Panel: Conducting Foreign Policy in East Asia
 
 - June, 2023 [Association for Korean Studies in Europe Conference (AKSE), Copenhagen Denmark](https://www.koreanstudies.eu/conferences/31st-akse-conference-copenhagen-denmark-22nd-25th-june-2023/)
