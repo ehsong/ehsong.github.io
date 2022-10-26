@@ -53,7 +53,7 @@ My last research agenda lies in understanding how China interacts with multilate
 
 * Song, E. E. and Joanne Yang. How China Violates International Human Rights Law: Evidence from CIRI and UPR Database (1982-2011). Under Review.
 
-* China's Territorial Dispute and Multilateralism
+* China's Maritime Disputes and Domestic \& International Signaling
 
 ## Other Articles Under Review/Working Papers
 
