@@ -15,6 +15,6 @@ My other current on-going projects include anti-Chinese sentiment in South Korea
 
 Please see my [CV](https://drive.google.com/file/d/1FwI24XyN1DIWk9z6mI6AKxtD0c_OYP9b/view?usp=sharing), [research](https://ehsong.github.io/research/),  and [GIGA webpage](https://www.giga-hamburg.de/en/the-giga/team/song-esther) for more details.
 
-I am attending conferences in 2023! We can meet at the following venues - ISA Montreal, Canada; APSA Los Angeles, USA; AKSE Copenhagen Denmark. Please see recent [invited talks](https://ehsong.github.io/talks/) for more details.
+I am attending conferences in 2023! We can meet at the following venues - ISA Montreal, Canada; APSA Los Angeles, USA; AKSE Copenhagen, Denmark. Please see recent [invited talks & conferences](https://ehsong.github.io/talks/) for more details.
 
 
