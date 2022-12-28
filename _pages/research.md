@@ -53,11 +53,11 @@ My last research agenda lies in understanding how China interacts with multilate
 
 * Song, E. E. and Joanne Yang. How China Violates International Human Rights Law: Evidence from CIRI and UPR Database (1982-2011). Under Review.
 
-* China's Maritime Disputes and Domestic \& International Signaling
+* China's Maritime Disputes and Domestic & International Signaling
 
-## Other Articles Under Review/Working Papers
+## Other Works
 
-* Song, E. E. Long-Term Effects of Authoritarian Repression: Evidence from the Gwangju Massacre in South Korea, 1980. Under Review.
+* Song, E. E. 2022. Long-Term Effects of Authoritarian Repression: Evidence from the Gwangju Massacre in South Korea, 1980. *Asian Journal of Comparative Politics*. [[Open Access Link]](https://journals.sagepub.com/doi/epub/10.1177/20578911221147994) 
 
 ## Projects Under Development
 
