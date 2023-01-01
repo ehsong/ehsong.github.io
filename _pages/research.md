@@ -49,7 +49,7 @@ My last research agenda lies in understanding how China interacts with the liber
 
 * Song, E. E. and Joanne Yang. How China Violates International Human Rights Law: Evidence from CIRI and UPR Database (1982-2011). revise and resubmit.
 
-* China's Maritime Disputes and Domestic & International Signaling
+* Domestic and International Signalling in China’s Maritime Disputes: Evidence from State Media
 
 ## Personalization of Executive Power
 
@@ -60,7 +60,7 @@ At GIGA, I am part of the project [“COVID-19 and Executive Personalization in 
 
 Despite accumulation of a large corpus of literature on the role of legislatures and parties, it is unclear whether these institutions function as a co-optation mechanism, especially when legislatures do not function as an arena of deliberation. We draw attention to personnel management, which involves management of promotions, demotions and movement of positions of cadres within the party-state. We argue that personnel management is a more concrete measure of access to rents by elites. Personnel management is an institution that dictators use to credibly commit to power sharing but at the same time constrain elites from involving in collective action. We test the implications of the theory using a unique data set we constructed which contains information on 2,631 career trajectory events of 320 cadres in North Korea.
 
-* Hints of Personalization after COVID19 in South Korea (with Ines Miral). under review.
+* Hints of Personalization after COVID-19 in South Korea (with Ines Miral). under review.
 
 Despite recent events alluding to increased power of the chief executive after COVID19, there has been no theoretical framework nor an in-depth case study that examines how the pandemic has spurred personalization events. By examining the case of South Korea, we show how the executive power was personalized mainly via personnel management. We also identify attempts of personalization via violence yet administrative court rulings show that courts have played a role in checking excessive restrictions on mass protests. We also extend our analyses to compare personalization trends under the previous Park administration to show how personalization trends differed under two administrations. Our work draws evidence from news data systematically collected using a webscraper that amasses large amounts of news over time borrowing the search algorithm of Naver, the biggest news aggregator in South Korea.
 
