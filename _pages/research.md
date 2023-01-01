@@ -21,26 +21,11 @@ The Chinese Communist Party has recently acknowledged its attempts to bolster go
 What are the long-term effects of authoritarian repression on political trust in a post-democra- tization context? Using the Gwangju Massacre in South Korea as a case study, this article finds that indirect and direct experience of state-perpetrated violence of the critical-period cohort— who were aged 17–25 during the incident—can have long-term negative effects on trust levels towards the government. Difference-in-difference analysis of national survey data collected in 2008 and 2012 reveals that experience with violence has long-term negative consequences on gov- ernment trust. Results are robust even when including significant covariates of institutional theor- ies and cultural theories, such as interpersonal trust, evaluation of government performance, as well as satisfaction with the economy. Drawing from memory studies, this article argues that the effects are due to collective memory formed during the critical period.
 
 # Rearch Topics
-## Authoritarianism
-
-### NGO Policy Under Authoritarianism
+## NGO Policy Under Authoritarianism
 
 * Song, E. E. The Political Origins of NGO Sector Expansion Under Authoritarianism: Evidence from Case Comparison of Three Post-Communist Countries.
 
 * Song, E. E. Explaining the Expansion of the NGO Sector in China: Through the Lense of Adaptive Corporatist Governance. under review.
-
-### Personalization
-
-At GIGA, I am part of the project [“COVID-19 and Executive Personalization in Sub-Saharan Africa, Asia, Latin America and the MENA Region”](https://www.giga-hamburg.de/en/research-and-transfer/projects/covid-19-executive-personalization-sub-saharan-africa-asia-latin-america-mena-region) which examines executive personalization in 36 countries. This project is funded by the German Research Foundation. I have several working papers building on the conceptual framework our team has established during our project.
-
-* Personnel Management as a Credible Commitment Mechanism: Evidence from North Korea, 1994-2014 (with Jacob Reidhead)
-  * Previous version presented at MPSA, Chicago IL; Stanford Network Forum, Stanford University; Authoritarian Politics System Group Workshop (TBD); GIGA Workshop on Authoritarian Politics (TBD)
-
-Despite accumulation of a large corpus of literature on the role of legislatures and parties, it is unclear whether these institutions function as a co-optation mechanism, especially when legislatures do not function as an arena of deliberation. We draw attention to personnel management, which involves management of promotions, demotions and movement of positions of cadres within the party-state. We argue that personnel management is a more concrete measure of access to rents by elites. Personnel management is an institution that dictators use to credibly commit to power sharing but at the same time constrain elites from involving in collective action. We test the implications of the theory using a unique data set we constructed which contains information on 2,631 career trajectory events of 320 cadres in North Korea.
-
-* Hints of Personalization after COVID19 in South Korea (with Ines Miral). under review.
-
-Despite recent events alluding to increased power of the chief executive after COVID19, there has been no theoretical framework nor an in-depth case study that examines how the pandemic has spurred personalization events. By examining the case of South Korea, we show how the executive power was personalized mainly via personnel management. We also identify attempts of personalization via violence yet administrative court rulings show that courts have played a role in checking excessive restrictions on mass protests. We also extend our analyses to compare personalization trends under the previous Park administration to show how personalization trends differed under two administrations. Our work draws evidence from news data systematically collected using a webscraper that amasses large amounts of news over time borrowing the search algorithm of Naver, the biggest news aggregator in South Korea.
 
 ## Xenophobia, Nationalism, and Foreign Policy Attitudes
 
@@ -54,13 +39,26 @@ My other research agenda lies in examining correlates of foreign policy attitude
 
 Despite the alluded association with COVID19 and increased anti-Chinese sentiment in South Korea, there has not been detailed examination of how COVID19 affected the increase in anti-Chinese sentiment. Using Twitter data that discusses the keyword ‘China’ from period 2019 to 2021, this paper finds several nuanced evidence of association between COVID19 and anti-Chinese sentiment in South Korea. Statistical analyses of sentiment scores and hate scores from text mining shows that anti-Chinese sentiment and anti-Chinese racism increased after the onset of COVID19. Yet, a detailed examination of topic trends show that increased racism is only moderately correlated with COVID19 or with politicization of the narrative surrounding the pandemic onset. Issues not directly related to COVID19, such as Korea-China relations and the debate surrounding hanbok reflected more anti-Chinese racism. The above findings imply that the politicized debate on border controls had at best a moderate association on generating anti-Chinese racism. Empirics are drawn from applying text mining, sentiment analysis, and hate speech detection on approximately 0.8 million tweets on China in Korean text gathered from Twitter.
 
-## China and the World
+## China and the International Order
 
-My last research agenda lies in understanding how China interacts with multilateralism, notably human rights regime and the security regime. I am also interested in examining correlates of China's soft power, measured by world-wide survey data on global views of China such as the [Sinofon](https://sinofon.cz/surveys/) and social media data.
+My last research agenda lies in understanding how China interacts with the liberal international order, notably human rights regime and the security regime. I am also interested in examining correlates of China's soft power, measured by world-wide survey data on global views of China such as the [Sinofon](https://sinofon.cz/surveys/) and social media data.
 
 * Song, E. E. and Joanne Yang. How China Violates International Human Rights Law: Evidence from CIRI and UPR Database (1982-2011). revise and resubmit.
 
 * China's Maritime Disputes and Domestic & International Signaling
+
+## Personalization
+
+At GIGA, I am part of the project [“COVID-19 and Executive Personalization in Sub-Saharan Africa, Asia, Latin America and the MENA Region”](https://www.giga-hamburg.de/en/research-and-transfer/projects/covid-19-executive-personalization-sub-saharan-africa-asia-latin-america-mena-region) which examines executive personalization in 36 countries. This project is funded by the German Research Foundation. I have several working papers building on the conceptual framework our team has established during our project.
+
+* Personnel Management as a Credible Commitment Mechanism: Evidence from North Korea, 1994-2014 (with Jacob Reidhead)
+  * Previous version presented at MPSA, Chicago IL; Stanford Network Forum, Stanford University; Authoritarian Politics System Group Workshop (TBD); GIGA Workshop on Authoritarian Politics (TBD)
+
+Despite accumulation of a large corpus of literature on the role of legislatures and parties, it is unclear whether these institutions function as a co-optation mechanism, especially when legislatures do not function as an arena of deliberation. We draw attention to personnel management, which involves management of promotions, demotions and movement of positions of cadres within the party-state. We argue that personnel management is a more concrete measure of access to rents by elites. Personnel management is an institution that dictators use to credibly commit to power sharing but at the same time constrain elites from involving in collective action. We test the implications of the theory using a unique data set we constructed which contains information on 2,631 career trajectory events of 320 cadres in North Korea.
+
+* Hints of Personalization after COVID19 in South Korea (with Ines Miral). under review.
+
+Despite recent events alluding to increased power of the chief executive after COVID19, there has been no theoretical framework nor an in-depth case study that examines how the pandemic has spurred personalization events. By examining the case of South Korea, we show how the executive power was personalized mainly via personnel management. We also identify attempts of personalization via violence yet administrative court rulings show that courts have played a role in checking excessive restrictions on mass protests. We also extend our analyses to compare personalization trends under the previous Park administration to show how personalization trends differed under two administrations. Our work draws evidence from news data systematically collected using a webscraper that amasses large amounts of news over time borrowing the search algorithm of Naver, the biggest news aggregator in South Korea.
 
 ## Projects Under Development
 
