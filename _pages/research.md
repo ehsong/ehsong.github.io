@@ -22,7 +22,7 @@ What are the long-term effects of authoritarian repression on political trust in
 
 # Media
 
-Turcsanyi, R., and Esther E. Song. [[South Koreans Have the World's Most Negative Views of China. Why?]](https://thediplomat.com/2022/12/south-koreans-have-the-worlds-most-negative-views-of-china-why/) (24, December 2022). *Diplomat*
+Turcsanyi, R., and Esther E. Song. [South Koreans Have the World's Most Negative Views of China. Why?](https://thediplomat.com/2022/12/south-koreans-have-the-worlds-most-negative-views-of-china-why/). (24, December 2022). *Diplomat*
 
 # Rearch Topics
 ## NGO Policy Under Authoritarianism
