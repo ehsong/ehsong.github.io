@@ -60,8 +60,6 @@ Despite accumulation of a large corpus of literature on the role of legislatures
 
 Despite recent events alluding to increased power of the chief executive after COVID19, there has been no theoretical framework nor an in-depth case study that examines how the pandemic has spurred personalization events. By examining the case of South Korea, we show how the executive power was personalized mainly via personnel management. We also identify attempts of personalization via violence yet administrative court rulings show that courts have played a role in checking excessive restrictions on mass protests. We also extend our analyses to compare personalization trends under the previous Park administration to show how personalization trends differed under two administrations. Our work draws evidence from news data systematically collected using a webscraper that amasses large amounts of news over time borrowing the search algorithm of Naver, the biggest news aggregator in South Korea.
 
-## Projects Under Development
-
-*'Democracy' as a Legitimizing Tool in China*
+## China and Democracy
 
 Albeit being a non-democratic country, the Communist Party of China has not neglected the idea of 'democracy' - the earliest discussion of democracy goes back to 2009 when Yu Keping, advisor to Hu Jintao released an essay "Democracy is a Good Thing". More recently, the idea of democracy has been again mentioned in the white paper released by the CCP before the Democracy Summit headed by President Biden in December 2021. This project aims to examine the history of how democracy has been interpreted in China and how it is being used as a legitmizing tool for the CCP. In addition, this project also aims to examine how "democracy with Chinese characteristics" affects international audience and their interpretation of China's soft power.
