@@ -24,7 +24,7 @@ What are the long-term effects of authoritarian repression on political trust in
 
 Turcsanyi, R. and Esther E. Song. [South Koreans Have the World's Most Negative Views of China. Why?](https://thediplomat.com/2022/12/south-koreans-have-the-worlds-most-negative-views-of-china-why/). *Diplomat*, December 2022.
 
-# Rearch Topics
+# On-going Research
 ## NGO Policy Under Authoritarianism
 
 * Song, E. E. The Political Origins of NGO Sector Expansion Under Authoritarianism: Evidence from Case Comparison of Three Post-Communist Countries.
