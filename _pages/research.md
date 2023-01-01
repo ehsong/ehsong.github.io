@@ -12,7 +12,7 @@ My research interests span across topics such as civil society and NGO policy, a
 # Publications
 
 * Song, E. E. 2022. How Outsourcing Social Services to NGOs Bolsters Political Trust in China: Evidence from Shanghai. *Chinese Political Science Review*. 1-27. [[Open Access Link]](https://link.springer.com/article/10.1007/s41111-021-00207-z)    
-    * Paper presented at 2019 MPSA, Chicago IL; 2019 Bay Area Comparative Urban Politics Workshop, UC Berkeley; 2019 China Social Science Workshop, Stanford University.
+    * Previous versions presented at 2019 MPSA, Chicago IL; 2019 Bay Area Comparative Urban Politics Workshop, UC Berkeley; 2019 China Social Science Workshop, Stanford University.
 
 The Chinese Communist Party has recently acknowledged its attempts to bolster good governance by outsourcing public and social service functions to social organi- zations—non-profit organizations, either created by relevant government bureaus, developed through non-profit incubators, or voluntarily created civil society groups. Do these services gender political trust for the party-state? Using matching meth- ods on an original survey data collected in communities in Shanghai, this article reveals two important findings. (1) Service efficacy—the internal belief that one can affect the content of the services show strong correlation with political trust and the relationship is stronger than that between service quality and political support. (2) There is strong evidence for credit transfer—whilst accountability for these services is attributed to grassroots actors and there is strong correlation between service efficacy and political support, political support increases only for the central gov- ernment level. The results show how the new programs of social service outsourc- ing and incorporation of non-governmental organizations in service provision can increase support for the party-state.
 
@@ -33,7 +33,7 @@ My other research agenda lies in examining correlates of foreign policy attitude
 
 * Song, E. E. Air Pollution Coverage, Anti-Chinese Sentiment, and Attitudes towards Foreign Policy in South Korea. under review.   
    * Previous version presented at 2019 APSA, Washington D.C. [[iPoster]](https://apsa2019-apsa.ipostersessions.com/default.aspx?s=DF-1D-34-3D-64-33-21-12-B0-42-57-A1-87-AC-68-E1); GIGA Workshop on Foreign Policy 2022; International China Narratives in Politics and Economics since 1945, Bundeskanzler-Helmut-Schmidt-Stiftung (BKHS), Hamburg DE (TBD)
-
+   
 * COVID-19 and Anti-Chinese Sentiment in South Korea: Evidence from Text Mining of Twitter Data 2019-2021. under review.   
    * First version presented at [Sinophone Borderlands: Global Views on China Conference, Palacky University](https://sinofon.cz/surveys/)
 
