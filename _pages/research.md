@@ -47,7 +47,7 @@ My last research agenda lies in understanding how China interacts with the liber
 
 * China's Maritime Disputes and Domestic & International Signaling
 
-## Personalization
+## Personalization of Executive Power
 
 At GIGA, I am part of the project [“COVID-19 and Executive Personalization in Sub-Saharan Africa, Asia, Latin America and the MENA Region”](https://www.giga-hamburg.de/en/research-and-transfer/projects/covid-19-executive-personalization-sub-saharan-africa-asia-latin-america-mena-region) which examines executive personalization in 36 countries. This project is funded by the German Research Foundation. I have several working papers building on the conceptual framework our team has established during our project.
 
