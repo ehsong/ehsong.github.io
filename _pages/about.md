@@ -13,7 +13,7 @@ Welcome! I am a research fellow at the [Institute for Asian Studies](https://www
 
 My other current on-going projects include anti-Chinese sentiment in South Korea and its effects on foreign policy attitudes; China and the international security regime; domestic and international consequences of Chinese democracy, among others.
 
-Please see my [CV](https://drive.google.com/file/d/1FwI24XyN1DIWk9z6mI6AKxtD0c_OYP9b/view?usp=sharing), [research](https://ehsong.github.io/research/),  and [GIGA webpage](https://www.giga-hamburg.de/en/the-giga/team/song-esther) for more details.
+Please see my [CV](https://drive.google.com/file/d/1vqUiT1oKTXUNqQ2dkH4wXfByTyfpPaoa/view?usp=sharing), [research](https://ehsong.github.io/research/),  and [GIGA webpage](https://www.giga-hamburg.de/en/the-giga/team/song-esther) for more details.
 
 I am attending conferences in 2023! We can meet at the following venues - ISA Montreal, Canada; APSA Los Angeles, USA; AKSE Copenhagen, Denmark. Please see recent [invited talks & conferences](https://ehsong.github.io/talks/) for more details.
 
