@@ -38,7 +38,7 @@ What explains the growth of the NGO sector in China during the recent decades? D
 
 My other research agenda lies in examining correlates of foreign policy attitudes, notably xenophobia and nationalism. My recent works have centered on examining the determinants of Sinophobia and its impact on foreign policy attitudes in South Korea. With the case China, I examine the interlink between nationalism and hawkish foreign policy attitudes. I draw evidence from qualitative text analyses, survey experiments, and statistical analyses of public opinion data.
 
-* Song, E. E. Air Pollution Coverage, Anti-Chinese Sentiment, and Attitudes towards Foreign Policy in South Korea. under review.   
+* Song, E. E. Air Pollution Coverage, Anti-Chinese Sentiment, and Attitudes towards Foreign Policy in South Korea. revise and resubmit.   
    * Previous version presented at 2019 APSA, Washington D.C. [[iPoster]](https://apsa2019-apsa.ipostersessions.com/default.aspx?s=DF-1D-34-3D-64-33-21-12-B0-42-57-A1-87-AC-68-E1); GIGA Workshop on Foreign Policy 2022; International China Narratives in Politics and Economics since 1945, Bundeskanzler-Helmut-Schmidt-Stiftung (BKHS), Hamburg DE (TBD)
    
 * COVID-19 and Anti-Chinese Sentiment in South Korea: Evidence from Text Mining of Twitter Data 2019-2021. under review.   
