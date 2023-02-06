@@ -45,7 +45,7 @@ My other research agenda lies in examining correlates of foreign policy attitude
    * First version presented at [Sinophone Borderlands: Global Views on China Conference, Palacky University](https://sinofon.cz/surveys/)
 
 * COVID-19, Anti-Chinese Sentiment, and Foreign Policy Attitudes in South Korea. under review.
-  * International Studies Association, Montreal Canada 2023
+  * International Studies Association General Conference, Montreal Canada 2023
 
 ## China and the International Order
 
