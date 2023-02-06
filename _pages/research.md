@@ -24,7 +24,7 @@ My research interests span across topics such as civil society and NGO policy, a
 # On-going Research
 ## NGO Policy Under Authoritarianism
 
-*Book Project*
+*Book Project*     
 **NGOs, the State, and Legitimacy in Contemporary China**
 
 What explains the growth of the NGO sector in China during the recent decades? Departing from previous works that focus on the angecy of societal actors, I draw attention to state incentives in promoting the growth of the civic sector. The state initiatives that led to the increase emerge during the two periods: the early 2000s, when NGOs were used as vehicles of bureaucratic streamlining, and the post-2011 period, when NGOs are promoted as service deliverers at the grassroots level with the ultimate goal of minimizing social instability. Three questions addressed in the dissertation are: (1) why has the party-state created institutional space for NGOs? (2) what explains the variation in the success of bureaucratic streamlining that involves the use of NGOs to downsize the bureaucracy in the early 2000s? (3) How is the party-state promoting the growth of service-oriented NGOs in the post-2011 period, and what are the effects of these services on citizens’ perception of the state? Drawing on theories of public sector reform, authoritarian politics, and non-state service provision, and evidence from fieldwork, text analyses, government statistical data and an original survey conducted in the field, my project comprehensively demonstrate how an authoritarian state such as China can counterintuitively utilize non-governmental organizations and civil society to serve its interests.
