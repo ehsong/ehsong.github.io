@@ -19,7 +19,7 @@ author_profile: true
 Organized in partnership with Africa Policy Research Institute (APRI); German Institute for Global and Area Studies (GIGA); Mercator Institute for China Studies (MERICS); and SAIS China Global Research Center at Johns Hopkins University     
    * Presenter, "Changing China Narratives in South Korea"
 
-- June 25-26, Workshop: The Personalization of Executive Power - Conceptual, Theoretical and Empirical Perspectives. German Institute for Global and Area Studies, Hamburg DE
+- June 25-26, 2023 Workshop: The Personalization of Executive Power - Conceptual, Theoretical and Empirical Perspectives. German Institute for Global and Area Studies, Hamburg DE
 
 - August 31-Sept 3, 2023 American Political Science Association Annual Meeting, Los Angeles USA (TBD)
 
