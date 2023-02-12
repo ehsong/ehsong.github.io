@@ -23,6 +23,8 @@ Organized in partnership with Africa Policy Research Institute (APRI); German In
 
 - August 31-Sept 3, 2023 American Political Science Association Annual Meeting, Los Angeles USA (TBD)
 
+- September 4-8, European Consortium for Political Research General Conerence, Prague Czechia (TBD)
+
 **2022**
 
 - September 2-4, 2022 [China in Europe Research Network Conference (CHERN) Joint Working Group Conference, Paris France](https://china-in-europe.net/chern-joint-working-group-conference-in-september-2022-at-inalco-paris/)   
