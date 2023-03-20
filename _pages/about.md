@@ -13,7 +13,7 @@ Welcome! I am a research fellow at the [Institute for Asian Studies](https://www
 
 My other current on-going projects include anti-Chinese sentiment in South Korea and its effects on foreign policy attitudes; China and the international security regime; domestic and international consequences of Chinese democracy, among others. My research has been funded by a number of institutions including [Stanford Center on Philanthropy and Civil Society](https://pacscenter.stanford.edu/); [Freeman Spogli Institute for International Studies at Stanford University](https://fsi.stanford.edu/), and [Fudan University](https://www.fudan.edu.cn/en/). I received my Mandarin Chinese training at [Tsinghua University](https://www.tsinghua.edu.cn/en/) in Beijing, China.
 
-Please see my [CV](https://drive.google.com/file/d/1vqUiT1oKTXUNqQ2dkH4wXfByTyfpPaoa/view?usp=sharing), [research](https://ehsong.github.io/research/),  and [GIGA webpage](https://www.giga-hamburg.de/en/the-giga/team/song-esther) for more details.
+Please see my [CV](https://drive.google.com/file/d/1GQowxB4YahskbgbfspZm_1fb38Iwo6aV/view?usp=share_link), [research](https://ehsong.github.io/research/),  and [GIGA webpage](https://www.giga-hamburg.de/en/the-giga/team/song-esther) for more details.
 
 I am attending conferences in 2023! We can meet at the following venues - ISA Montreal, Canada; APSA Los Angeles, USA (TBD); ECPR Prague, Czechia (TBD). Please see recent [invited talks & conferences](https://ehsong.github.io/talks/) for more details.
 
