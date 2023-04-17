@@ -23,9 +23,9 @@ Organized in partnership with Africa Policy Research Institute (APRI); German In
 
 - August 31-Sept 3, 2023 American Political Science Association Annual Meeting, Los Angeles USA
 
-- September 4-8, European Consortium for Political Research General Conerence, Prague Czechia
- * Chair, Panel: Personalisation and regime legitimacy in autocracies
- * Presenter: "Personnel Management as a Credible Commitment Mechanism: Evidence from North Korea"
+- September 4-8, European Consortium for Political Research General Conerence, Prague Czechia       
+ * Chair, Panel: Personalisation and regime legitimacy in autocracies     
+ * Presenter: "Personnel Management as a Credible Commitment Mechanism: Evidence from North Korea"     
 
 **2022**
 
