@@ -18,6 +18,9 @@ My research interests span across topics such as civil society and NGO policy, a
 
 3\. Song, E. E. 2023. Air Pollution Coverage, Anti-Chinese Sentiment, and Attitudes towards Foreign Policy in South Korea. *Journal of Chinese Political Science*. [[Open Access Link]](https://doi.org/10.1007/s11366-023-09849-z)  
    * Working versions presented at 2019 APSA, Washington D.C. [[iPoster]](https://apsa2019-apsa.ipostersessions.com/default.aspx?s=DF-1D-34-3D-64-33-21-12-B0-42-57-A1-87-AC-68-E1); GIGA Workshop on Foreign Policy 2022
+
+4\. Song, E. E. and Joanne Yang. 2023. China’s Adherence to International Human Rights Treaties: an Empirical Assessment. forthcoming in *International Area Studies Review*.
+
    
 # Media
 
@@ -51,9 +54,7 @@ My other research agenda lies in examining correlates of foreign policy attitude
 
 My last research agenda lies in understanding how China interacts with the liberal international order, notably human rights regime and the security regime. I draw empirical evidence from text analyses and text mining of state media data as well as qualitative examinations of UN reports.
 
-* Song, E. E. and Joanne Yang. How China Violates International Human Rights Law: Evidence from CIRI and UPR Database (1982-2011). revise and resubmit.
-
-* Domestic and International Signaling during Foreign Policy Conflict: Maritime Disputes in China
+* Domestic and International Signaling during Foreign Policy Conflict: Maritime Disputes in China (with Sungeun Kim)
   * American Political Science Association Annual Meeting, LA USA 2023 (TBD)
 
 ## Personalization of Executive Power
