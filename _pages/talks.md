@@ -11,8 +11,8 @@ author_profile: true
 
 **2023**
 
-- March 15-18, 2023 [International Studies Association Conference (ISA), Montreal Canada](https://www.isanet.org/Conferences/ISA2023)
-   * Presenter, "COVID-19 narrative, anti-Chinese sentiment, and foreign policy attitudes in South Korea"
+- March 15-18, 2023 [International Studies Association Conference (ISA), Montreal Canada](https://www.isanet.org/Conferences/ISA2023)     
+   * Presenter: "COVID-19 narrative, anti-Chinese sentiment, and foreign policy attitudes in South Korea"
    * Chair, Panel: Conducting Foreign Policy in East Asia
    
 - March 29-31, 2023 [From the “Workshop of the World” to “Systemic Rival”? International China Narratives in Politics and Economics since 1945, Bundeskanzler-Helmut-Schmidt-Stiftung (BKHS), Hamburg Germany](https://www.helmut-schmidt.de/en/)   
@@ -21,9 +21,11 @@ Organized in partnership with Africa Policy Research Institute (APRI); German In
 
 - June 25-26, 2023 Workshop: The Personalization of Executive Power - Conceptual, Theoretical and Empirical Perspectives. German Institute for Global and Area Studies, Hamburg DE
 
-- August 31-Sept 3, 2023 American Political Science Association Annual Meeting, Los Angeles USA (TBD)
+- August 31-Sept 3, 2023 American Political Science Association Annual Meeting, Los Angeles USA
 
-- September 4-8, European Consortium for Political Research General Conerence, Prague Czechia (TBD)
+- September 4-8, European Consortium for Political Research General Conerence, Prague Czechia
+ * Chair, Panel: Personalisation and regime legitimacy in autocracies
+ * Presenter: "Personnel Management as a Credible Commitment Mechanism: Evidence from North Korea"
 
 **2022**
 
