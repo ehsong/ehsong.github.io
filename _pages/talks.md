@@ -11,21 +11,21 @@ author_profile: true
 
 **2023**
 
-- March 15-18, 2023 [International Studies Association Conference (ISA), Montreal Canada](https://www.isanet.org/Conferences/ISA2023)     
-   * Presenter: "COVID-19 narrative, anti-Chinese sentiment, and foreign policy attitudes in South Korea"
-   * Chair, Panel: Conducting Foreign Policy in East Asia
-   
 - March 29-31, 2023 [From the “Workshop of the World” to “Systemic Rival”? International China Narratives in Politics and Economics since 1945, Bundeskanzler-Helmut-Schmidt-Stiftung (BKHS), Hamburg Germany](https://www.helmut-schmidt.de/en/)   
 Organized in partnership with Africa Policy Research Institute (APRI); German Institute for Global and Area Studies (GIGA); Mercator Institute for China Studies (MERICS); Kissinger Institute on China and the United States     
    * Presenter, "Changing China Narratives in South Korea"
 
 - June 25-26, 2023 Workshop: The Personalization of Executive Power - Conceptual, Theoretical and Empirical Perspectives. German Institute for Global and Area Studies, Hamburg DE
+  + Discussant
 
 - August 31-Sept 3, 2023 American Political Science Association Annual Meeting, Los Angeles USA
-
+  * Presenter, "Domestic and International Signaling during Foreign Policy Conflict: Maritime Disputes in China" (Panel: Audience Costs and Foreign Policy)
+  * "Personnel, institutions, and power: Revisiting the concept of political personalization" (Panel: Regimes and Regime Change - Authoritarianism, Patrimonialism, Backsliding)
+  * "The Effect of Article Length on the Share of Citations of Women in Articles" (Panel: New Methods for Text-as-Data)
+  
 - September 4-8, European Consortium for Political Research General Conerence, Prague Czechia       
    * Chair, Panel: Personalisation and regime legitimacy in autocracies     
-   * Presenter: "Personnel Management as a Credible Commitment Mechanism: Evidence from North Korea"     
+   * Presenter: "Personnel Management as a Credible Commitment Mechanism: Evidence from North Korea"
 
 **2022**
 
