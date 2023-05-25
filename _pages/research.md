@@ -35,7 +35,7 @@ My research interests span across topics such as civil society and NGO policy, a
 
 What explains the growth of the NGO sector in China during the recent decades? Departing from previous works that focus on the angecy of societal actors, I draw attention to state incentives in promoting the growth of the civic sector. The state initiatives that led to the increase emerge during the two periods: the early 2000s, when NGOs were used as vehicles of bureaucratic streamlining, and the post-2011 period, when NGOs are promoted as service deliverers at the grassroots level with the ultimate goal of minimizing social instability. Three questions addressed in my book-length dissertation are: (1) why has the party-state created institutional space for NGOs? (2) what explains the variation in the success of bureaucratic streamlining that involves the use of NGOs to downsize the bureaucracy in the early 2000s? (3) How is the party-state promoting the growth of service-oriented NGOs in the post-2011 period, and what are the effects of these services on citizens’ perception of the state? Drawing on theories of public sector reform, authoritarian politics, and non-state service provision, and evidence from fieldwork, text analyses, government statistical data and an original survey conducted in the field, my project comprehensively demonstrate how an authoritarian state such as China can counterintuitively utilize non-governmental organizations and civil society to serve its interests.
 
-* Song, E. E. The Political Origins of NGO Sector Expansion Under Authoritarianism: Evidence from Case Comparison of Three Post-Communist Countries.
+* Song, E. E. The Political Origins of NGO Sector Expansion Under Authoritarianism: Evidence from Case Comparison of Three Post-Communist Countries. revision in progress.
 
 * Song, E. E. Explaining the Expansion of the NGO Sector in China: Through the Lense of Adaptive Corporatist Governance. under review.
 
@@ -44,30 +44,27 @@ What explains the growth of the NGO sector in China during the recent decades? D
 
 My other research agenda lies in examining correlates of foreign policy attitudes, notably xenophobia and nationalism. My recent works have centered on examining the determinants of Sinophobia and its impact on foreign policy attitudes in South Korea. With the case China, I examine the interlink between nationalism and hawkish foreign policy attitudes. I draw evidence from qualitative text analyses, survey experiments, and statistical analyses of public opinion data.
    
-* COVID-19 and Anti-Chinese Sentiment in South Korea: Evidence from Text Mining of Twitter Data 2019-2021. under review.   
-   * First version presented at [Sinophone Borderlands: Global Views on China Conference, Palacky University](https://sinofon.cz/surveys/)
-
 * COVID-19, Anti-Chinese Sentiment, and Foreign Policy Attitudes in South Korea. under review.
-  * International Studies Association General Conference, Montreal Canada 2023
+  * Previous version presented at [Sinophone Borderlands: Global Views on China Conference, Palacky University](https://sinofon.cz/surveys/); International Studies Association General Conference, Montreal Canada 2023
 
 ## China and the International Order
 
-My last research agenda lies in understanding how China interacts with the liberal international order, notably human rights regime and the security regime. I draw empirical evidence from text analyses and text mining of state media data as well as qualitative examinations of UN reports.
+My last research agenda lies in understanding how China interacts with the liberal international order, notably human rights regime and the maritime regime.
 
 * Domestic and International Signaling during Foreign Policy Conflict: Maritime Disputes in China (with Sungeun Kim)
-  * American Political Science Association Annual Meeting, LA USA 2023 (TBD)
+  * American Political Science Association Annual Meeting, LA USA 2023 (scheduled)
 
 ## Personalization of Executive Power
 
 At GIGA, I am part of the project [“COVID-19 and Executive Personalization in Sub-Saharan Africa, Asia, Latin America and the MENA Region”](https://www.giga-hamburg.de/en/research-and-transfer/projects/covid-19-executive-personalization-sub-saharan-africa-asia-latin-america-mena-region) which examines executive personalization in 36 countries. This project is funded by the German Research Foundation. I have several working papers building on the conceptual framework our team has established during our project.
 
 * Personnel, institutions, and power: Revisiting the concept of political personalization (with Mariana Llanos, Thomas Richter, David Kuehn, and Martin Acheampong)
-  * European Consortium for Political Research General Conference, Prague Czhechia (TBD); American Political Science Association Annual Meeting, LA USA (TBD)
+  * European Consortium for Political Research General Conference, Prague Czhechia (scheduled); American Political Science Association Annual Meeting, LA USA (scheduled)
   
 Evidence points to an increasing personalisation of political power by chief executives (CEs) in recent years. It is often argued that such personalisation contributes to the current trend of autocratisation and the global decline of democracy. Yet, our understanding of the degree and kind remain fractured, not least because there is a plethora of tacit understandings, definitions, and concepts of what political personalisation is. While many argue that personalisation relates to the rising dominance of the CE over other political actors, there is much disagreement over who these actors are. Moreover, while personalisation can occur in both autocracies and democracies, scholarship is still siloed into regime-types. Addressing these gaps, we develop a framework that defines personalisation as a process in which the CE centralises power to make political decisions by weakening the constraining capacities of all relevant actors during stages of the policy process. We propose that CEs can achieve this through three distinct strategies – personnel management, institutional engineering, and power arrogation. We demonstrate the usefulness of our conceptual framework with illustrations from democracies and autocracies of the Global South. 
 
 * Personnel Management as a Credible Commitment Mechanism: Evidence from North Korea, 1994-2014
-  * Previous version presented at MPSA, Chicago IL; Stanford Network Forum, Stanford University; GIGA Workshop on Authoritarian Politics (TBD); European Consortium for Political Research General Conference (TBD)
+  * Previous version presented at MPSA, Chicago IL; Stanford Network Forum, Stanford University; GIGA Workshop on Authoritarian Politics (TBD); European Consortium for Political Research General Conference (scheduled)
 
 Despite accumulation of a large corpus of literature on the role of legislatures and parties, it is unclear whether these institutions function as a co-optation mechanism, especially when legislatures do not function as an arena of deliberation. We draw attention to personnel management, which involves management of promotions, demotions and movement of positions of cadres within the party-state. We argue that personnel management is a more concrete measure of access to rents by elites. Personnel management is an institution that dictators use to credibly commit to power sharing but at the same time constrain elites from involving in collective action. We test the implications of the theory using a unique data set we constructed which contains information on 2,631 career trajectory events of 320 cadres in North Korea.
 
