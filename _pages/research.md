@@ -21,6 +21,8 @@ My research interests span across topics such as civil society and NGO policy, a
 
 4\. Song, E. E. and Joanne Yang. 2023. China’s Adherence to International Human Rights Treaties: an Empirical Assessment. *International Area Studies Review*. [[Open Access Link]](https://journals.sagepub.com/doi/10.1177/22338659231175830)
 
+5\. Song, E. E. 2023. COVID-19, Anti-Chinese Sentiment, and Foreign Policy Attitudes in South Korea. forthcoming in *Asian Survey*.
+  * Previous version presented at [Sinophone Borderlands: Global Views on China Conference, Palacky University](https://sinofon.cz/surveys/); International Studies Association General Conference, Montreal Canada 2023
    
 # Media
 
@@ -38,14 +40,6 @@ What explains the growth of the NGO sector in China during the recent decades? D
 * Song, E. E. The Political Origins of NGO Sector Expansion Under Authoritarianism: Evidence from Case Comparison of Three Post-Communist Countries. revision in progress.
 
 * Song, E. E. Explaining the Expansion of the NGO Sector in China: Through the Lense of Adaptive Corporatist Governance. under review.
-
-
-## Xenophobia, Nationalism, and Foreign Policy Attitudes
-
-My other research agenda lies in examining correlates of foreign policy attitudes, notably xenophobia and nationalism. My recent works have centered on examining the determinants of Sinophobia and its impact on foreign policy attitudes in South Korea. With the case China, I examine the interlink between nationalism and hawkish foreign policy attitudes. I draw evidence from qualitative text analyses, survey experiments, and statistical analyses of public opinion data.
-   
-* COVID-19, Anti-Chinese Sentiment, and Foreign Policy Attitudes in South Korea. under review.
-  * Previous version presented at [Sinophone Borderlands: Global Views on China Conference, Palacky University](https://sinofon.cz/surveys/); International Studies Association General Conference, Montreal Canada 2023
 
 ## China and the International Order
 
