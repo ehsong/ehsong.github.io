@@ -9,6 +9,10 @@ author_profile: true
 
 **Recent Invited Talks & Conferences**
 
+**2024**
+
+- April, 2024 Workshop: Change, Adaptation, and Contention in Formal Institutions in Authoritarian Regimes. All Souls College, Oxford University
+
 **2023**
 
 - March 29-31, 2023 [From the “Workshop of the World” to “Systemic Rival”? International China Narratives in Politics and Economics since 1945, Bundeskanzler-Helmut-Schmidt-Stiftung (BKHS), Hamburg Germany](https://www.helmut-schmidt.de/en/)   
