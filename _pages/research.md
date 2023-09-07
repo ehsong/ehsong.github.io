@@ -51,7 +51,7 @@ What explains the growth of the NGO sector in China during the recent decades? D
 My last research agenda lies in understanding how China interacts with the liberal international order, notably human rights regime and the maritime regime.
 
 * Domestic and International Signaling during Foreign Policy Conflict: Maritime Disputes in China (with Sungeun Kim)
-  * American Political Science Association Annual Meeting, LA USA 2023 (scheduled)
+  * American Political Science Association Annual Meeting, LA USA 2023; GIGA Workshop on Foreign Policy (TBD)
 
 ## Personalization of Executive Power
 
