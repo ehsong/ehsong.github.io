@@ -28,7 +28,7 @@ Organized in partnership with Africa Policy Research Institute (APRI); German In
 - August 31-Sept 3, 2023 American Political Science Association Annual Meeting, Los Angeles USA
   * Presenter
  
-- European Consortium for Political Research General Conference, Prague Czechia
+- September 4-8, 2023 European Consortium for Political Research General Conference, Prague Czechia
    * Presenter, Co-Chair (Panel: "Personalization and regime legitimacy in autocracies”)
 
 **2022**
