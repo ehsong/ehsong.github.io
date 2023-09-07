@@ -62,6 +62,7 @@ At GIGA, I am part of the project [“COVID-19 and Executive Personalization in 
 
 * Personnel Management as a Credible Commitment Mechanism: Evidence from North Korea, 1994-2014 (with Jacob Reidhead)
   * Previous version presented at MPSA, Chicago IL; Stanford Network Forum, Stanford University; GIGA Workshop on Authoritarian Politics (TBD); European Consortium for Political Research General Conference 2023; Oxford University (TBD)
+  * Curating a dataset on career transitions of approximately 444 elites from 1948-2020 (with Jacob Reidhead and Jeongsue Park)
 
 * Hints of Personalization after COVID-19 in South Korea (with Ines Miral). under review.
 
