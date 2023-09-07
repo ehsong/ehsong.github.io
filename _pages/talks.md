@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-**Recent Invited Talks & Conferences**
+**Recent Invited Talks, Rountables, & Conferences**
 
 **2024**
 
@@ -18,6 +18,9 @@ author_profile: true
 - March 29-31, 2023 [From the “Workshop of the World” to “Systemic Rival”? International China Narratives in Politics and Economics since 1945, Bundeskanzler-Helmut-Schmidt-Stiftung (BKHS), Hamburg Germany](https://www.helmut-schmidt.de/en/)   
 Organized in partnership with Africa Policy Research Institute (APRI); German Institute for Global and Area Studies (GIGA); Mercator Institute for China Studies (MERICS); Kissinger Institute on China and the United States     
    * Presenter, "Changing China Narratives in South Korea"
+ 
+- May 2, 2023 "US Allies and Taiwan", European Council on Foreign Relations, Berlin Germany
+   * Participant (Roundtable)
 
 - June 25-26, 2023 Workshop: The Personalization of Executive Power - Conceptual, Theoretical and Empirical Perspectives. German Institute for Global and Area Studies, Hamburg DE
   * Discussant
