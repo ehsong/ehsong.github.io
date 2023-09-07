@@ -66,10 +66,10 @@ My last research agenda lies in understanding how China interacts with the liber
   * Data collection in process.    
 
  * South Korea's Views on Sino-North Korea Relations
-    * Data collection in process.    
+   * Data collection in process.    
 
  * South Korean's Views on Russia-Ukraine War
-    * Data collection in process.   
+   * Data collection in process.   
     
 ## Personalization of Executive Power
 
