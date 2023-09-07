@@ -60,10 +60,16 @@ My last research agenda lies in understanding how China interacts with the liber
 * Domestic and International Signaling during Foreign Policy Conflict: Maritime Disputes in China (with Sungeun Kim)
   * American Political Science Association Annual Meeting, LA USA 2023; GIGA Workshop on Foreign Policy (TBD)
 
-## Domestic Politics and Foreign Policy   
+## Domestic Sources of Foreign Policy   
 
 * South Korean's Views on Cross-Strait Conflict
-  * Data collection in process.
+  * Data collection in process.    
+
+ * South Korea's Views on Sino-North Korea Relations
+    * Data collection in process.    
+
+ * South Korean's Views on Russia-Ukraine War
+    * Data collection in process.   
     
 ## Personalization of Executive Power
 
