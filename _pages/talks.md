@@ -33,7 +33,7 @@ Organized in partnership with Africa Policy Research Institute (APRI); German In
 
 **2022**
 
-- April, 2022 GIGA Workshop on Foreign Policy
+- April, 2022 GIGA Workshop on Foreign Policy, Hamburg Germany
    * Presenter
 
 - September 2-4, 2022 [China in Europe Research Network Conference (CHERN) Joint Working Group Conference, Paris France](https://china-in-europe.net/chern-joint-working-group-conference-in-september-2022-at-inalco-paris/)   
