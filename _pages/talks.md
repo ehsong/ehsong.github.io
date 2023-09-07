@@ -19,7 +19,7 @@ author_profile: true
 Organized in partnership with Africa Policy Research Institute (APRI); German Institute for Global and Area Studies (GIGA); Mercator Institute for China Studies (MERICS); Kissinger Institute on China and the United States     
    * Presenter, "Changing China Narratives in South Korea"
  
-- May 2, 2023 "US Allies and Taiwan", European Council on Foreign Relations, Berlin Germany
+- May 2, 2023 Roundtable: "US Allies and Taiwan", European Council on Foreign Relations, Berlin Germany
    * Participant (Roundtable)
 
 - June 25-26, 2023 Workshop: The Personalization of Executive Power - Conceptual, Theoretical and Empirical Perspectives. German Institute for Global and Area Studies, Hamburg DE
