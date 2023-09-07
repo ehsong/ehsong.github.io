@@ -11,7 +11,7 @@ author_profile: true
 
 **2024**
 
-- April, 2024 Workshop: Change, Adaptation, and Contention in Formal Institutions in Authoritarian Regimes. All Souls College, Oxford University
+- April, 2024 Workshop: Change, Adaptation, and Contention in Formal Institutions in Authoritarian Regimes. All Souls College, Oxford University (scheduled)
 
 **2023**
 
@@ -20,18 +20,18 @@ Organized in partnership with Africa Policy Research Institute (APRI); German In
    * Presenter, "Changing China Narratives in South Korea"
 
 - June 25-26, 2023 Workshop: The Personalization of Executive Power - Conceptual, Theoretical and Empirical Perspectives. German Institute for Global and Area Studies, Hamburg DE
-  + Discussant
+  * Discussant
 
 - August 31-Sept 3, 2023 American Political Science Association Annual Meeting, Los Angeles USA
-  * Presenter, "Domestic and International Signaling during Foreign Policy Conflict: Maritime Disputes in China" (Panel: Audience Costs and Foreign Policy)
-  * "Personnel, institutions, and power: Revisiting the concept of political personalization" (Panel: Regimes and Regime Change - Authoritarianism, Patrimonialism, Backsliding)
-  * "The Effect of Article Length on the Share of Citations of Women in Articles" (Panel: New Methods for Text-as-Data)
-  
-- September 4-8, European Consortium for Political Research General Conerence, Prague Czechia       
-   * Chair, Panel: Personalisation and regime legitimacy in autocracies     
-   * Presenter: "Personnel Management as a Credible Commitment Mechanism: Evidence from North Korea"
+  * Presenter
+ 
+- European Consortium for Political Research General Conference, Prague Czechia
+   * Presenter, Co-Chair (Panel: "Personalization and regime legitimacy in autocracies”)
 
 **2022**
+
+- April, 2022 GIGA Workshop on Foreign Policy
+   * Presenter
 
 - September 2-4, 2022 [China in Europe Research Network Conference (CHERN) Joint Working Group Conference, Paris France](https://china-in-europe.net/chern-joint-working-group-conference-in-september-2022-at-inalco-paris/)   
    * Presenter, Working Group 4: Adaptation strategy II: Researchers on doing research on/with China
