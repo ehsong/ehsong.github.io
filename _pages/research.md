@@ -60,7 +60,7 @@ At GIGA, I am part of the project [“COVID-19 and Executive Personalization in 
 * Personnel, institutions, and power: Revisiting the concept of political personalization (with Mariana Llanos, Thomas Richter, David Kuehn, and Martin Acheampong)
   * European Consortium for Political Research General Conference, Prague Czechia 2023; American Political Science Association Annual Meeting, LA USA 2023
 
-* Personnel Management as a Credible Commitment Mechanism: Evidence from North Korea, 1994-2014
+* Personnel Management as a Credible Commitment Mechanism: Evidence from North Korea, 1994-2014 (with Jacob Reidhead)
   * Previous version presented at MPSA, Chicago IL; Stanford Network Forum, Stanford University; GIGA Workshop on Authoritarian Politics (TBD); European Consortium for Political Research General Conference 2023; Oxford University (TBD)
 
 * Hints of Personalization after COVID-19 in South Korea (with Ines Miral). under review.
