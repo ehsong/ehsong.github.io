@@ -38,7 +38,7 @@ My research interests span across topics such as civil society and NGO policy, a
 ## Civil Society & NGO Policy Under Authoritarianism
 
 * State and Societal Narratives on Civil Society in China (with Runya Qiaoan)
-  * Data collection in process
+  * Data collection in process.
 
 *Book Project*     
 **NGOs, the State, and Legitimacy in Contemporary China**
