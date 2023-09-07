@@ -46,6 +46,10 @@ What explains the growth of the NGO sector in China during the recent decades? D
 
 * Song, E. E. Explaining the Expansion of the NGO Sector in China: Through the Lense of Adaptive Corporatist Governance. under review.
 
+*Book Chapters*
+
+* “Changes in State-Civil Society Relations in China during Hu and Xi.” With Runya Qiaoan. In Czeslaw Tubilewicz (Eds.), Critical Issues in Contemporary China. Routledge. submitted to the editor.     
+
 ## China and the International Order
 
 My last research agenda lies in understanding how China interacts with the liberal international order, notably human rights regime and the maritime regime.
