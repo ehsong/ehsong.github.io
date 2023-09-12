@@ -15,4 +15,4 @@ I conduct research on topics of civil society and NGO policy, authoritarianism, 
 
 Previously, I taught Chinese politics at [Randolph Macon College](https://www.rmc.edu/) in Virginia, USA, and before that was a pre-doctoral fellow at [School of Social Development and Public Policy, Fudan University](https://www.fudan.edu.cn/en/2019/0514/c295a96700/page.htm) in Shanghai, China. I hold MA and PhD in Political Science from [Stanford University](https://stanford.edu).
 
-Please see my [google scholar](https://scholar.google.com/citations?user=0TXDcZUAAAAJ&hl=en), [research](https://ehsong.github.io/research/), [GIGA webpage](https://www.giga-hamburg.de/en/the-giga/team/song-esther), and [CV](https://drive.google.com/file/d/1GQowxB4YahskbgbfspZm_1fb38Iwo6aV/view?usp=drive_link) for more details.
+Please see my [google scholar](https://scholar.google.com/citations?user=0TXDcZUAAAAJ&hl=en), [research](https://ehsong.github.io/research/), [GIGA webpage](https://www.giga-hamburg.de/en/the-giga/team/song-esther) for more details.
