@@ -37,8 +37,6 @@ My research interests span across topics such as civil society and NGO policy, a
 # On-going Research
 ## Civil Society & NGO Policy Under Authoritarianism
 
-* State and Societal Narratives on Civil Society in China (with Runya Qiaoan) (data collection in process)   
-
 *Book Project*     
 **NGOs, the State, and Legitimacy in Contemporary China**
 
@@ -58,14 +56,6 @@ My last research agenda lies in understanding how China interacts with the liber
 
 * Domestic and International Signaling during Foreign Policy Conflict: Maritime Disputes in China (with Sungeun Kim)
   * American Political Science Association Annual Meeting, LA USA 2023; GIGA Workshop on Foreign Policy (TBD)
-
-## Domestic Sources of Foreign Policy   
-
-* South Korean's Views on Cross-Strait Conflict (data collection in process)  
-
- * South Korea's Views on Sino-North Korea Relations (data collection in process)   
-
- * South Korean's Views on Russia-Ukraine War (data collection in process)   
     
 ## Personalization of Executive Power
 
