@@ -245,14 +245,6 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-# _CV
-  - scope:
-      path: ""
-      type: CV
-    values:
-      layout: CV
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
