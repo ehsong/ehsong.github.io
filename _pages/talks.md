@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-**Recent Invited Talks, Rountables & Conferences**
+**Invited Talks, Workshops, Rountables & Conferences**
 
 **2024**
 
