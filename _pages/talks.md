@@ -15,7 +15,7 @@ author_profile: true
 
 **2023**
 
-- Presenter, March 29-31, 2023 [From the “Workshop of the World” to “Systemic Rival”? International China Narratives in Politics and Economics since 1945, Bundeskanzler-Helmut-Schmidt-Stiftung (BKHS)](https://www.helmut-schmidt.de/en/), Hamburg Germany    
+- Speaker, March 29-31, 2023 [From the “Workshop of the World” to “Systemic Rival”? International China Narratives in Politics and Economics since 1945, Bundeskanzler-Helmut-Schmidt-Stiftung (BKHS)](https://www.helmut-schmidt.de/en/), Hamburg Germany    
  
 - Participant, May 2, 2023 Roundtable: "US Allies and Taiwan", [European Council on Foreign Relations](https://ecfr.eu/), Berlin Germany
 
