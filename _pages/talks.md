@@ -17,9 +17,9 @@ author_profile: true
 
 - Presenter, March 29-31, 2023 [From the “Workshop of the World” to “Systemic Rival”? International China Narratives in Politics and Economics since 1945, Bundeskanzler-Helmut-Schmidt-Stiftung (BKHS)](https://www.helmut-schmidt.de/en/), Hamburg Germany    
  
-- Participant, May 2, 2023 Roundtable: "US Allies and Taiwan", European Council on Foreign Relations, Berlin Germany
+- Participant, May 2, 2023 Roundtable: "US Allies and Taiwan", [European Council on Foreign Relations](https://ecfr.eu/), Berlin Germany
 
-- Discussant, June 25-26, 2023 Workshop: The Personalization of Executive Power - Conceptual, Theoretical and Empirical Perspectives. German Institute for Global and Area Studies, Hamburg Germany
+- Discussant, June 25-26, 2023 [Workshop: The Personalization of Executive Power - Conceptual, Theoretical and Empirical Perspectives. German Institute for Global and Area Studies](https://www.giga-hamburg.de/en/events/conferences-and-workshops/personalization-executive-power-conceptual-theoretical-empirical-perspectives), Hamburg Germany
 
 - Presenter, August 31-Sept 3, 2023 American Political Science Association Annual Meeting, Los Angeles USA
  
@@ -29,6 +29,6 @@ author_profile: true
 
 - Presenter, April 2022 GIGA Workshop on Foreign Policy, Hamburg Germany
 
-- Presenter, September 2-4, 2022 [China in Europe Research Network Conference (CHERN) Joint Working Group Conference, Paris France](https://china-in-europe.net/chern-joint-working-group-conference-in-september-2022-at-inalco-paris/) (Working Group 4: Adaptation strategy II: Researchers on doing research on/with China)
+- Presenter, September 2-4, 2022 [China in Europe Research Network Conference (CHERN) Joint Working Group Conference](https://china-in-europe.net/chern-joint-working-group-conference-in-september-2022-at-inalco-paris/), Paris France
 
-- Presenter, November 2-4, 2022 [Sinophone Borderlands - Global Views on China Conference, Palacky University, Olomouc Czechia](https://sinofon.cz/surveys/)  
+- Presenter, November 2-4, 2022 [Sinophone Borderlands - Global Views on China Conference, Palacky University](https://sinofon.cz/surveys/), Olomouc Czechia 
