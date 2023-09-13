@@ -11,7 +11,7 @@ author_profile: true
 
 **2024**
 
-- Presenter, April, 2024 Workshop: Change, Adaptation, and Contention in Formal Institutions in Authoritarian Regimes. All Souls College, Oxford University, Oxford United Kingdom (scheduled)
+- Presenter, April 2024 Workshop: Change, Adaptation, and Contention in Formal Institutions in Authoritarian Regimes. All Souls College, Oxford University, Oxford United Kingdom (scheduled)
 
 **2023**
 
