@@ -25,6 +25,8 @@ author_profile: true
  
 - Presenter & Co-Chair, September 4-8, 2023 European Consortium for Political Research General Conference, Prague Czechia
 
+- Speaker, October 2023 Computational Social Science Workshop, Graduate School of International Studies, [Ewha Womans University](https://www.ewha.ac.kr/ewhaen/index.do) (scheduled)
+
 **2022**
 
 - Presenter, April 2022 GIGA Workshop on Foreign Policy, Hamburg Germany
