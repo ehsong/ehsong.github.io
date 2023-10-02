@@ -9,7 +9,7 @@ redirect_from:
 ---
 <img src="https://github.com/ehsong/ehsong.github.io/blob/master/images/east_asia_resized.jpg?raw=true" width="700" height="466">
 
-Welcome! I am a research fellow at the [Institute for Asian Studies](https://www.giga-hamburg.de/en/institutes/giga-institute-for-asian-studies/) at [German Institute for Global and Area Studies (GIGA)](https://www.giga-hamburg.de/en/). In January 2024, I will join [Department of Government](https://www.uib.no/en/gov) at [University of Bergen](https://www.uib.no/en) as Associate Professor.  
+Welcome! I am an associate at the [Institute for Asian Studies](https://www.giga-hamburg.de/en/institutes/giga-institute-for-asian-studies/) at [German Institute for Global and Area Studies (GIGA)](https://www.giga-hamburg.de/en/). In January 2024, I will join [Department of Government](https://www.uib.no/en/gov) at [University of Bergen](https://www.uib.no/en) as Associate Professor.  
 
 I conduct research on topics of civil society and NGO policy, authoritarianism, and international affairs in East Asia with a regional focus primarily on China and secondarily on the two Koreas. My works have been published or forthcoming in *Journal of Chinese Political Science*, *Chinese Political Science Review*, *Asian Journal of Comparative Politics*, *International Area Studies Review*, *Asian Survey* and *The Diplomat*. My other current on-going projects include origins of civil society policy in autocracies; societal and state narratives on civil society in China; personalization and personalism in democracies and autocracies; foreign policy signaling during maritime disputes in China; public opinion on foreign policy in South Korea, among others.  
 
