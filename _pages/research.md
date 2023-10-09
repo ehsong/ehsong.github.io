@@ -69,7 +69,7 @@ My second research agenda lies in understanding how China interacts with the lib
 At GIGA, I am part of the project [“COVID-19 and Executive Personalization in Sub-Saharan Africa, Asia, Latin America and the MENA Region”](https://www.giga-hamburg.de/en/research-and-transfer/projects/covid-19-executive-personalization-sub-saharan-africa-asia-latin-america-mena-region) which examines executive personalization in 36 countries. This project is funded by the German Research Foundation.  
 
 * Personnel, institutions, and power: Revisiting the concept of political personalization (with Mariana Llanos, Thomas Richter, David Kuehn, Martin Acheampong, and Emilia Arellano)
-  * Workshop on Personalization of Executive Power, GIGA Hamburg Germany; European Consortium for Political Research General Conference, Prague Czechia 2023; American Political Science Association Annual Meeting, LA USA 2023
+  * [Workshop on Personalization of Executive Power, GIGA Hamburg Germany](https://www.giga-hamburg.de/en/events/conferences-and-workshops/personalization-executive-power-conceptual-theoretical-empirical-perspectives); European Consortium for Political Research General Conference, Prague Czechia 2023; American Political Science Association Annual Meeting, LA USA 2023
 
 * Career Transition Data on Elites in North Korea, 1994-2020 (with Jacob Reidhead and Jeongsue Park)
   * Previous version presented at MPSA, Chicago IL; Stanford Network Forum, Stanford University; European Consortium for Political Research General Conference 2023; Oxford University, April 2024 (scheduled)
