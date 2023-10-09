@@ -71,8 +71,8 @@ At GIGA, I am part of the project [“COVID-19 and Executive Personalization in 
 * Personnel, institutions, and power: Revisiting the concept of political personalization (with Mariana Llanos, Thomas Richter, David Kuehn, Martin Acheampong, and Emilia Arellano)
   * Workshop on Personalization of Executive Power, GIGA Hamburg Germany; European Consortium for Political Research General Conference, Prague Czechia 2023; American Political Science Association Annual Meeting, LA USA 2023
 
-* Personnel Management as a Credible Commitment Mechanism: Evidence from North Korea, 1994-2014 (with Jacob Reidhead)
-  * Previous version presented at MPSA, Chicago IL; Stanford Network Forum, Stanford University; GIGA Workshop on Authoritarian Politics (TBD); European Consortium for Political Research General Conference 2023; Oxford University, April 2024 (scheduled)
+* Career Transition Data on Elites in North Korea, 1994-2014 (with Jacob Reidhead and Jeongsue Park)
+  * Previous version presented at MPSA, Chicago IL; Stanford Network Forum, Stanford University; European Consortium for Political Research General Conference 2023; Oxford University, April 2024 (scheduled)
   * Curating a dataset on career transitions of approximately 444 elites from 1948-2020 (with Jacob Reidhead and Jeongsue Park)     
 
 ## China and Democracy
