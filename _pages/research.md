@@ -62,7 +62,7 @@ What explains the growth of the NGO sector in China during the recent decades? D
 My second research agenda lies in understanding how China interacts with the liberal international order, in particular the human rights regime and the maritime regime.
 
 * Domestic and International Signaling during Foreign Policy Conflict: Maritime Disputes in China (with Sungeun Kim)
-  * American Political Science Association Annual Meeting, LA USA 2023; GIGA Workshop on Foreign Policy, Hamburg 2023 (scheduled)
+  * American Political Science Association Annual Meeting, LA USA 2023; GIGA Workshop on Foreign Policy, November 2023 (scheduled)
     
 ## Personalization of Executive Power
 
@@ -72,7 +72,7 @@ At GIGA, I am part of the project [“COVID-19 and Executive Personalization in 
   * Workshop on Personalization of Executive Power, GIGA Hamburg Germany; European Consortium for Political Research General Conference, Prague Czechia 2023; American Political Science Association Annual Meeting, LA USA 2023
 
 * Personnel Management as a Credible Commitment Mechanism: Evidence from North Korea, 1994-2014 (with Jacob Reidhead)
-  * Previous version presented at MPSA, Chicago IL; Stanford Network Forum, Stanford University; GIGA Workshop on Authoritarian Politics (TBD); European Consortium for Political Research General Conference 2023; Oxford University (TBD)
+  * Previous version presented at MPSA, Chicago IL; Stanford Network Forum, Stanford University; GIGA Workshop on Authoritarian Politics (TBD); European Consortium for Political Research General Conference 2023; Oxford University, April 2024 (scheduled)
   * Curating a dataset on career transitions of approximately 444 elites from 1948-2020 (with Jacob Reidhead and Jeongsue Park)     
 
 ## China and Democracy
