@@ -50,9 +50,9 @@ What explains the growth of the NGO sector in China during the recent decades? D
 
 *Working Papers*
 
-* Song, E. E. The Political Origins of NGO Sector Expansion Under Authoritarianism: Evidence from Case Comparison of Three Post-Communist Countries. revision in progress.
+* Song, E. E. The Political Origins of NGO Sector Expansion Under Authoritarianism: Evidence from Case Comparison of Three Post-Communist Countries. in preparation for resubmission.
 
-* Song, E. E. Explaining the Expansion of the NGO Sector in China: Through the Lense of Adaptive Corporatist Governance. under review.
+* Song, E. E. Explaining the Expansion of the NGO Sector in China: Through the Lense of Adaptive Corporatist Governance. R&R.
 
 * Intellectual and Public Discourse on Civil Society in China Under Xi (2013-) (with Runya Qiaoan)     
   * Data collection in progress.
