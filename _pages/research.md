@@ -11,6 +11,8 @@ My research interests span across topics such as civil society and NGO policy, a
 
 # Publications
 
+1\. Song, E. E., and Ines Miral. 2023. Hints of Personalization after COVID-19 in South Korea. acccepted at *Korea Observer*.
+
 1\. Song, E. E. 2023. COVID-19, Anti-Chinese Sentiment, and Foreign Policy Attitudes in South Korea. *Asian Survey*.[[Link]](https://t.co/ulZlIiRwHZ)  
   * Previous version presented at [Sinophone Borderlands: Global Views on China Conference, Palacky University](https://sinofon.cz/surveys/); International Studies Association General Conference, Montreal Canada 2023
 
@@ -66,9 +68,7 @@ At GIGA, I am part of the project [“COVID-19 and Executive Personalization in 
 
 * Personnel Management as a Credible Commitment Mechanism: Evidence from North Korea, 1994-2014 (with Jacob Reidhead)
   * Previous version presented at MPSA, Chicago IL; Stanford Network Forum, Stanford University; GIGA Workshop on Authoritarian Politics (TBD); European Consortium for Political Research General Conference 2023; Oxford University (TBD)
-  * Curating a dataset on career transitions of approximately 444 elites from 1948-2020 (with Jacob Reidhead and Jeongsue Park)
-
-* Hints of Personalization after COVID-19 in South Korea (with Ines Miral). under review.
+  * Curating a dataset on career transitions of approximately 444 elites from 1948-2020 (with Jacob Reidhead and Jeongsue Park)     
 
 ## China and Democracy
 
