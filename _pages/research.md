@@ -73,7 +73,7 @@ At GIGA, I am part of the project [“COVID-19 and Executive Personalization in 
 
 * Career Transition Data on Elites in North Korea, 1994-2014 (with Jacob Reidhead and Jeongsue Park)
   * Previous version presented at MPSA, Chicago IL; Stanford Network Forum, Stanford University; European Consortium for Political Research General Conference 2023; Oxford University, April 2024 (scheduled)
-  * Curating a dataset on career transitions of approximately 444 elites from 1948-2020 (with Jacob Reidhead and Jeongsue Park)     
+  * Curating a dataset on career transitions of approximately 444 elites from 1948-2020       
 
 ## China and Democracy
 
