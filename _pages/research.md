@@ -11,7 +11,7 @@ My research interests span across topics such as civil society and NGO policy, a
 
 # Publications
 
-1\. Song, E. E., and Ines Miral. 2023. Hints of Personalization after COVID-19 in South Korea. acccepted at *Korea Observer*.
+1\. Song, E. E. and Ines Miral. 2023. Hints of Personalization after COVID-19 in South Korea. acccepted at *Korea Observer*.
 
 2\. Song, E. E. 2023. COVID-19, Anti-Chinese Sentiment, and Foreign Policy Attitudes in South Korea. *Asian Survey*.[[Link]](https://t.co/ulZlIiRwHZ)  
   * Previous version presented at [Sinophone Borderlands: Global Views on China Conference, Palacky University](https://sinofon.cz/surveys/); International Studies Association General Conference, Montreal Canada 2023
@@ -44,20 +44,25 @@ My research interests span across topics such as civil society and NGO policy, a
 
 What explains the growth of the NGO sector in China during the recent decades? Departing from previous works that focus on the angecy of societal actors, I draw attention to state incentives in promoting the growth of the civic sector. The state initiatives that led to the increase emerge during the two periods: the early 2000s, when NGOs were used as vehicles of bureaucratic streamlining, and the post-2011 period, when NGOs are promoted as service deliverers at the grassroots level with the ultimate goal of minimizing social instability. Three questions addressed in my book-length dissertation are: (1) why has the party-state created institutional space for NGOs? (2) what explains the variation in the success of bureaucratic streamlining that involves the use of NGOs to downsize the bureaucracy in the early 2000s? (3) How is the party-state promoting the growth of service-oriented NGOs in the post-2011 period, and what are the effects of these services on citizens’ perception of the state? Drawing on theories of public sector reform, authoritarian politics, and non-state service provision, and evidence from fieldwork, text analyses, government statistical data and an original survey conducted in the field, my project comprehensively demonstrate how an authoritarian state such as China can counterintuitively utilize non-governmental organizations and civil society to serve its interests.
 
+*Book Chapters*
+
+* “Changes in State-Civil Society Relations in China during Hu and Xi.” With Runya Qiaoan. In Czeslaw Tubilewicz (Eds.), Critical Issues in Contemporary China. Routledge. submitted to the editor.
+
+*Working Papers*
+
 * Song, E. E. The Political Origins of NGO Sector Expansion Under Authoritarianism: Evidence from Case Comparison of Three Post-Communist Countries. revision in progress.
 
 * Song, E. E. Explaining the Expansion of the NGO Sector in China: Through the Lense of Adaptive Corporatist Governance. under review.
 
-*Book Chapters*
-
-* “Changes in State-Civil Society Relations in China during Hu and Xi.” With Runya Qiaoan. In Czeslaw Tubilewicz (Eds.), Critical Issues in Contemporary China. Routledge. submitted to the editor.   
+* Intellectual and Public Discourse on Civil Society in China Under Xi (2013-)    
+  * Data collection in progress.
 
 ## China and the International Order
 
 My second research agenda lies in understanding how China interacts with the liberal international order, in particular the human rights regime and the maritime regime.
 
 * Domestic and International Signaling during Foreign Policy Conflict: Maritime Disputes in China (with Sungeun Kim)
-  * American Political Science Association Annual Meeting, LA USA 2023; GIGA Workshop on Foreign Policy (TBD)
+  * American Political Science Association Annual Meeting, LA USA 2023; GIGA Workshop on Foreign Policy, Hamburg 2023 (scheduled)
     
 ## Personalization of Executive Power
 
