@@ -13,6 +13,8 @@ My research interests span across topics such as civil society and NGO policy, a
 
 1\. Song, E. E. and Ines Miral. 2023. Personalization after COVID-19 in South Korea. acccepted at *Korea Observer*.
 
+  * Funded by the project [“COVID-19 and Executive Personalization in Sub-Saharan Africa, Asia, Latin America and the MENA Region”](https://www.giga-hamburg.de/en/research-and-transfer/projects/covid-19-executive-personalization-sub-saharan-africa-asia-latin-america-mena-region) (German Research Foundation DFG)
+
 2\. Song, E. E. 2023. COVID-19, Anti-Chinese Sentiment, and Foreign Policy Attitudes in South Korea. *Asian Survey*.[[Link]](https://t.co/ulZlIiRwHZ)  
   * Previous version presented at [Sinophone Borderlands: Global Views on China Conference, Palacky University](https://sinofon.cz/surveys/); International Studies Association General Conference, Montreal Canada 2023
 
