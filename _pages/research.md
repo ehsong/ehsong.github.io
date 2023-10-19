@@ -39,6 +39,9 @@ My research interests span across topics such as civil society and NGO policy, a
 1\. Song. E. E. 2023. Rising Anti-China Sentiment Supports South Korea’s Alignment with the US. GIGA Focus Asia. [[Open Access Link]](https://www.giga-hamburg.de/en/publications/giga-focus/rising-anti-china-sentiment-supports-south-koreas-alignment-with-the-us)    
 
 # On-going Research
+
+<img src="https://github.com/ehsong/ehsong.github.io/blob/master/images/2021-11-27.jpg?raw=true" width="300" height="300">
+
 ## Civil Society & NGO Policy Under Authoritarianism
 
 *Book Project*     
