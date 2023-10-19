@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+<img src="https://github.com/ehsong/ehsong.github.io/blob/master/images/IMG_9745.jpg?raw=true" width="700" height="466">
+
 **Invited Talks, Workshops, Rountables & Conferences**
 
 **2024**
