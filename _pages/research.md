@@ -40,7 +40,7 @@ My research interests span across topics such as civil society and NGO policy, a
 
 # On-going Research
 ![](/images/crosswalk.jpg)
-*Beijing, December 2015*
+*Beijing December 2015*
 
 ## Civil Society & NGO Policy Under Authoritarianism
 
