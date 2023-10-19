@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-![](/images/IMG_9745.jpg){height=700px width=525px}
+![](/images/IMG_9745.jpg){height=700px width=525px}    
 *Prague Czechia October 2022*
 
 **Invited Talks, Workshops, Rountables & Conferences**
