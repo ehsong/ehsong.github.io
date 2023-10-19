@@ -40,7 +40,7 @@ My research interests span across topics such as civil society and NGO policy, a
 
 # On-going Research
 
-<img src="https://github.com/ehsong/ehsong.github.io/blob/master/images/IMG_9745.jpg?raw=true" width="700" height="525">
+<img src="https://github.com/ehsong/ehsong.github.io/blob/master/images/crosswalk.jpg?raw=true" width="700" height="525">
 
 *Beijing December 2015*
 ## Civil Society & NGO Policy Under Authoritarianism
