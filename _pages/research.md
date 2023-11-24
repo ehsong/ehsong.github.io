@@ -21,13 +21,13 @@ My research interests span across topics such as civil society and NGO policy, a
 
 4\. Song, E. E. 2023. Air Pollution Coverage, Anti-Chinese Sentiment, and Attitudes towards Foreign Policy in South Korea. *Journal of Chinese Political Science*. [[Open Access Link]](https://doi.org/10.1007/s11366-023-09849-z)  
    * Working versions presented at 2019 APSA, Washington D.C. [[iPoster]](https://apsa2019-apsa.ipostersessions.com/default.aspx?s=DF-1D-34-3D-64-33-21-12-B0-42-57-A1-87-AC-68-E1); GIGA Workshop on Foreign Policy 2022
-   * Funded by Institute for Asian Studies, German Institute for Global and Area Studies (GIGA)
+   * Partially funded by Institute for Asian Studies, German Institute for Global and Area Studies (GIGA)
 
 5\. Song, E. E. 2023. Long-Term Effects of Authoritarian Repression: Evidence from the Gwangju Massacre in South Korea, 1980. *Asian Journal of Comparative Politics*, 8(1), 364–380. [[Open Access Link]](https://journals.sagepub.com/doi/epub/10.1177/20578911221147994)
 
 6\. Song, E. E. 2022. How Outsourcing Social Services to NGOs Bolsters Political Trust in China: Evidence from Shanghai. *Chinese Political Science Review*. 1-27. [[Open Access Link]](https://link.springer.com/article/10.1007/s41111-021-00207-z)    
-   * Previous versions presented at 2019 MPSA, Chicago IL; 2019 Bay Area Comparative Urban Politics Workshop, UC Berkeley; 2019 China Social Science Workshop, Stanford University.
-   * Funded by Freeman Spogli Institute for International Studies (FSI), Stanford University; Center for Philanthrophy and Civil Society (PACS) at Stanford University.
+   * Previous versions presented at 2019 MPSA, Chicago IL; 2019 Bay Area Comparative Urban Politics Workshop, UC Berkeley; 2019 China Social Science Workshop, Stanford University
+   * Funded by Freeman Spogli Institute for International Studies (FSI), Stanford University; Center for Philanthrophy and Civil Society (PACS) at Stanford University
    
 # Media
 
@@ -62,7 +62,7 @@ What explains the growth of the NGO sector in China during the recent decades? D
 
 * Intellectual and Public Discourse on Civil Society in China Under Xi (2013-) (with Runya Qiaoan)     
   * Data collection in progress.
-  * Funded by Institute for Asian Studies, German Institute for Global and Area Studies
+  * Partially funded by Institute for Asian Studies, German Institute for Global and Area Studies (GIGA)
 
 ## China and the International Order
 
@@ -74,13 +74,13 @@ My second research agenda lies in understanding how China interacts with the lib
 ## Personalization of Executive Power
 
 * Personnel, institutions, and power: Revisiting the concept of political personalization (with Mariana Llanos, Thomas Richter, David Kuehn, Martin Acheampong, and Emilia Arellano)
-  * [Workshop on Personalization of Executive Power, GIGA Hamburg Germany](https://www.giga-hamburg.de/en/events/conferences-and-workshops/personalization-executive-power-conceptual-theoretical-empirical-perspectives); European Consortium for Political Research General Conference, Prague Czechia 2023; American Political Science Association Annual Meeting, LA USA 2023
-  * Funded by German Research Foundation (Deutsche Forschungsgemeinschaft, DFG)
+  * Previous versions presented at [Workshop on Personalization of Executive Power, GIGA Hamburg Germany](https://www.giga-hamburg.de/en/events/conferences-and-workshops/personalization-executive-power-conceptual-theoretical-empirical-perspectives); European Consortium for Political Research General Conference, Prague Czechia 2023; American Political Science Association Annual Meeting, LA USA 2023
+  * Funded by German Research Foundation, DFG [“COVID-19 and Executive Personalization in Sub-Saharan Africa, Asia, Latin America and the MENA Region”](https://www.giga-hamburg.de/en/research-and-transfer/projects/covid-19-executive-personalization-sub-saharan-africa-asia-latin-america-mena-region)
 
 * Career Transition Data on Elites in North Korea, 1994-2020 (with Jacob Reidhead and Jeongsue Park)
   * Previous version presented at MPSA, Chicago IL; Stanford Network Forum, Stanford University; European Consortium for Political Research General Conference 2023; All Souls College, Oxford University April 2024 (scheduled)
   * Curating a database on career transitions of approximately 444 elites from 1948-2020
-  * Funded by Institute for Asian Studies, German Institute for Global and Area Studies (GIGA)
+  * Partially funded by Institute for Asian Studies, German Institute for Global and Area Studies (GIGA)
 
 ## China and Democracy
 
