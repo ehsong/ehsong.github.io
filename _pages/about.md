@@ -9,7 +9,7 @@ redirect_from:
 ---
 <img src="https://github.com/ehsong/ehsong.github.io/blob/master/images/east_asia_resized.jpg?raw=true" width="700" height="466">
 
-Welcome! I am an Associate Professor in the [Department of Government](https://www.uib.no/en/gov) at [University of Bergen (UiB)](https://www.uib.no/en) and an associate at the [Institute for Asian Studies](https://www.giga-hamburg.de/en/institutes/giga-institute-for-asian-studies/) at [German Institute for Global and Area Studies (GIGA)](https://www.giga-hamburg.de/en/). 
+Welcome! I am an Associate Professor at the [Department of Government](https://www.uib.no/en/gov), [University of Bergen (UiB)](https://www.uib.no/en) and an associate at the [Institute for Asian Studies](https://www.giga-hamburg.de/en/institutes/giga-institute-for-asian-studies/) at [German Institute for Global and Area Studies (GIGA)](https://www.giga-hamburg.de/en/). 
 
 My research areas include civil society and NGO policy, authoritarianism, and international affairs in East Asia with a regional focus primarily on China and secondarily on the two Koreas. My works are forthcoming or published in *Journal of Chinese Political Science*, *Asian Journal of Comparative Politics*, *Asian Survey*, and *The Diplomat*, among others.
 
