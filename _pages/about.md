@@ -15,4 +15,4 @@ My works have been published or forthcoming in *Journal of Chinese Political Sci
 
 Before starting professorship I was a research fellow at [German Institute for Global and Area Studies (GIGA)](https://www.giga-hamburg.de/en/) and a pre-doctoral fellow at [School of Social Development and Public Policy, Fudan University](https://www.fudan.edu.cn/en/2019/0514/c295a96700/page.htm) in Shanghai, China. I hold MA and PhD in Political Science from [Stanford University](https://stanford.edu).  
 
-Please see my [google scholar](https://scholar.google.com/citations?user=0TXDcZUAAAAJ&hl=en), [research](https://ehsong.github.io/research/), [invited talks and conferences](https://ehsong.github.io/talks/), and [CV](https://ehsong.github.io/talks/) for more details.
+Please see my [google scholar](https://scholar.google.com/citations?user=0TXDcZUAAAAJ&hl=en), [research](https://ehsong.github.io/research/), [invited talks and conferences](https://ehsong.github.io/talks/), and [CV](https://ehsong.github.io/CV/) for more details.
