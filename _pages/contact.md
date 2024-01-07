@@ -8,4 +8,9 @@ redirect_from:
 ---
 {% include base_path %}
 
-You can reach me at esther.song@uib.no
+University of Bergen (UiB)  
+Department of Government  
+Christies Gate 17  
+5007 Bergen Norway  
+
+(email) esther.song(at)uib.no
