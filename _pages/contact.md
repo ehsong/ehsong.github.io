@@ -8,6 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
+
 University of Bergen (UiB)  
 Department of Government  
 Christies Gate 17  
