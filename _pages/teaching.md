@@ -4,7 +4,9 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-
+*Bergen University*
+- Global China (2024 Spring)
+  
 *Randolph-Macon College*
 - Chinese Politics (2021 January, J-term)
 
