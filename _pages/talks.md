@@ -14,7 +14,7 @@ author_profile: true
 **2024**
 
 - APSA, Philadelphia USA (scheduled)
-- April 11-12, "Symposium: Change, Adaptation, and Contention in Formal Institutions in Authoritarian Regimes." All Souls College, Oxford University, Oxford United Kingdom
+- April 11-12, "Symposium: Change, Adaptation, and Contention in Formal Institutions in Authoritarian Regimes." All Souls College, Oxford University, Oxford UK
 
 **2023**
 
