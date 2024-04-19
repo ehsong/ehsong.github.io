@@ -13,7 +13,7 @@ author_profile: true
 
 **2024**
 
-- 2024 APSA, Philadelphia USA (scheduled)
+- September APSA, Philadelphia USA (scheduled)
 - April 2024 Workshop: Change, Adaptation, and Contention in Formal Institutions in Authoritarian Regimes. All Souls College, Oxford University, Oxford United Kingdom
 
 **2023**
