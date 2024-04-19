@@ -61,7 +61,7 @@ What explains the growth of the NGO sector in China during the recent decades? D
 
 * Song, E. E. The Political Origins of NGO Sector Expansion Under Authoritarianism: Evidence from Case Comparison of Three Post-Communist Countries.  
 
-* Song, E. E. Explaining the Expansion of the NGO Sector in China: Through the Lense of Adaptive Corporatist Governance.  
+* Song, E. E. Explaining the Expansion of the NGO Sector in China: Through the Lense of Adaptive Corporatist Governance. under review.
 
 * Intellectual and Public Discourse on Civil Society in China Under Xi (2013-) (with Runya Qiaoan)     
   * Partially funded by Institute for Asian Studies, German Institute for Global and Area Studies (GIGA)
@@ -70,18 +70,18 @@ What explains the growth of the NGO sector in China during the recent decades? D
 
 My second research agenda lies in understanding how China interacts with the liberal international order, in particular the human rights regime and the maritime regime.
 
-* Domestic and International Signaling during Foreign Policy Conflict: Maritime Disputes in China (with Sung Eun Kim)
-  * APSA Los Angeles 2023; GIGA Workshop on Foreign Policy, November 2023; German Political Science Association Convention 2024 (DVPW) (TBD)
+* Domestic and International Signaling during Foreign Policy Conflict: Maritime Disputes in China (with Sung Eun Kim). under review.
+  * APSA Los Angeles 2023; GIGA Workshop on Foreign Policy, November 2023; GIGA Workshop on Foreign Policy, October 2023.
     
 ## Personalization of Executive Power
 
-* Personnel, institutions, and power: Revisiting the concept of political personalization (with Mariana Llanos, Thomas Richter, David Kuehn, Martin Acheampong, and Emilia Arellano)
+* Personnel, institutions, and power: Revisiting the concept of political personalization (with Mariana Llanos, Thomas Richter, David Kuehn, Martin Acheampong, and Emilia Arellano) [GIGA Working Papers](https://www.econstor.eu/bitstream/10419/281768/1/1878883526.pdf)
   * Previous versions presented at [Workshop on Personalization of Executive Power, GIGA Hamburg Germany](https://www.giga-hamburg.de/en/events/conferences-and-workshops/personalization-executive-power-conceptual-theoretical-empirical-perspectives); European Consortium for Political Research General Conference, Prague Czechia 2023; APSA Los Angeles 2023
   * Funded by German Research Foundation, DFG [“COVID-19 and Executive Personalization in Sub-Saharan Africa, Asia, Latin America and the MENA Region”](https://www.giga-hamburg.de/en/research-and-transfer/projects/covid-19-executive-personalization-sub-saharan-africa-asia-latin-america-mena-region)
 
-* Career Transition Data on Elites in North Korea, 1994-2020 (with Jacob Reidhead and Jeongsue Park)
-  * Previous version presented at MPSA, Chicago; Stanford Network Forum, Stanford University; ECPR Prague 2023; All Souls College, Oxford University April 2024 (scheduled)
-  * Curating a database on career transitions of approximately 444 elites from 1948-2020
+* Career Transition Data on Elites in North Korea (with Jacob Reidhead and Jeongsue Park). under review.
+  * Previous versions presented at MPSA, Chicago; Stanford Network Forum, Stanford University; ECPR Prague 2023; All Souls College, Oxford University April 2024.
+  * Curating a database on career transitions of approximately 500 elites from 1948-2020
   * Partially funded by Institute for Asian Studies, German Institute for Global and Area Studies (GIGA)
  
 ## Methods in Text-as-Data
