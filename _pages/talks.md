@@ -24,9 +24,9 @@ author_profile: true
 
 - Discussant, June 25-26, 2023 [Workshop: The Personalization of Executive Power - Conceptual, Theoretical and Empirical Perspectives. German Institute for Global and Area Studies](https://www.giga-hamburg.de/en/events/conferences-and-workshops/personalization-executive-power-conceptual-theoretical-empirical-perspectives), Hamburg Germany
 
-- August 31-Sept 3, 2023 American Political Science Association Annual Meeting, Los Angeles USA
+- August 31-Sept 3, 2023 APSA, Los Angeles USA
  
-- Presenter & Co-Chair, September 4-8, 2023 European Consortium for Political Research General Conference, Prague Czechia
+- Presenter & Co-Chair, September 4-8, 2023 ECPR, Prague Czechia
 
 - Speaker, October 2023 Computational Social Science Workshop, Graduate School of International Studies, [Ewha Womans University](https://www.ewha.ac.kr/ewhaen/index.do), Seoul South Korea   
 
