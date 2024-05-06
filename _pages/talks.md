@@ -13,7 +13,8 @@ author_profile: true
 
 **2024**
 
-- APSA, Philadelphia USA (scheduled)
+- September, APSA, Philadelphia USA (scheduled)
+- July, Max Planck Institute ["Digital Scholarship in East Asian Studies"](https://www.mpiwg-berlin.mpg.de/news/charting-european-d-sea-digital-scholarship-east-asian-studies), Berlin
 - April 11-12, "Symposium: Change, Adaptation, and Contention in Formal Institutions in Authoritarian Regimes." All Souls College, Oxford University, Oxford UK
 
 **2023**
