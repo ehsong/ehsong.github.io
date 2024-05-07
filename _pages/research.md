@@ -55,7 +55,7 @@ What explains the growth of the NGO sector in China during the recent decades? D
 
 *Book Chapters*
 
-* “Changes in State-Civil Society Relations in China during Hu and Xi.” With Runya Qiaoan. In Czeslaw Tubilewicz (Eds.), Critical Issues in Contemporary China. Routledge. submitted to the editor.
+* “Changes in State-Civil Society Relations in China during Hu and Xi.” With Runya Qiaoan. In Czeslaw Tubilewicz (Eds.), Critical Issues in Contemporary China. Routledge. in print.
 
 *Working Papers*
 
@@ -65,6 +65,7 @@ What explains the growth of the NGO sector in China during the recent decades? D
 
 * Intellectual and Public Discourse on Civil Society in China Under Xi (2013-) (with Runya Qiaoan)     
   * Partially funded by Institute for Asian Studies, German Institute for Global and Area Studies (GIGA)
+  * Part of research presented at Digital Scholarship in East Asian Studies Conference, Max Planck Institute (scheduled)
 
 ## China and the International Order
 
