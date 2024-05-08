@@ -72,7 +72,7 @@ What explains the growth of the NGO sector in China during the recent decades? D
 My second research agenda lies in understanding how China interacts with the liberal international order, in particular the human rights regime and the maritime regime.
 
 * Domestic and International Signaling during Foreign Policy Conflict: Maritime Disputes in China (with Sung Eun Kim). under review.
-  * APSA Los Angeles 2023; GIGA Workshop on Foreign Policy, November 2023; GIGA Workshop on Foreign Policy, October 2023.
+  * APSA Los Angeles 2023; GIGA Workshop on Foreign Policy, November 2023.  
     
 ## Personalization of Executive Power
 
