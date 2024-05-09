@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-*Bergen University*
+*University of Bergen*
 - Global China (2024 Spring)
   
 *Randolph-Macon College*
