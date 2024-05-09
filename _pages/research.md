@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-My research centers on civil society and NGO policies in China; and China's diplomacy and attitudes towards China in the Asia-Pacific. I have also interest in examining the concept of personalization of executive power in both democray and autocracy contexts. I have experience using a wide variety of methods including fieldwork, surveys, statistical analyses, and text analyses. More recently, I am using computational methods to collect data and applying text mining to uncover discourse and narratives, as well as quantitative analysis of survey data and survey experiments to gauage micro-level causal effects.
+My research centers on civil society and NGO policies in China; China's diplomacy in the Asia-Pacific; and attitudes towards China. I have also interest in examining the concept of personalization of executive power in both democray and autocracy contexts. I have experience using a wide variety of methods including fieldwork, surveys, statistical analyses, and text analyses. More recently, I am using computational methods to collect data and applying text mining to uncover discourse and narratives, as well as quantitative analysis of survey data and survey experiments to gauage micro-level causal effects.
 
 # Peer-reviewed Publications
 
