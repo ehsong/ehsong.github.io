@@ -27,7 +27,7 @@ My research centers on civil society and NGO policies in China; China's diplomac
 3\. Song, E. E. 2023. COVID-19, Anti-Chinese Sentiment, and Foreign Policy Attitudes in South Korea. *Asian Survey*.[[Link]](https://t.co/ulZlIiRwHZ) 
   * Previous version presented at [Sinophone Borderlands: Global Views on China Conference, Palacky University](https://sinofon.cz/surveys/); ISA Montreal 2023
 
- ### Personalization of Executive Power
+### Personalization of Executive Power
 
 4\. Song, E. E. and Ines Miral. 2023. Personalization of Executive Power after COVID-19 in South Korea. *Korea Observer*, 54(4), 641-670. [[Link]](https://scholar.kyobobook.co.kr/article/detail/4010068022214)
   * Funded by German Research Foundation, DFG [“COVID-19 and Executive Personalization in Sub-Saharan Africa, Asia, Latin America and the MENA Region”](https://www.giga-hamburg.de/en/research-and-transfer/projects/covid-19-executive-personalization-sub-saharan-africa-asia-latin-america-mena-region)
@@ -42,7 +42,7 @@ My research centers on civil society and NGO policies in China; China's diplomac
 
 # Media
 
-1\. Turcsanyi, R. and Esther E. Song. [South Koreans Have the World's Most Negative Views of China. Why?](https://thediplomat.com/2022/12/south-koreans-have-the-worlds-most-negative-views-of-china-why/). *The Diplomat*, December 2022.   
+1\. [South Koreans Have the World's Most Negative Views of China. Why?](https://thediplomat.com/2022/12/south-koreans-have-the-worlds-most-negative-views-of-china-why/). *The Diplomat*, December 2022 (with Richard Turcsanyi).
    * Covered by more than 20 media outlets in South Korea including [KBS](https://news.kbs.co.kr/news/view.do?ncd=6207159&ref=A), [SBS](https://news.sbs.co.kr/news/endPage.do?news_id=N1007024887&plink=ORI&cooper=NAVER), [MBC](https://imnews.imbc.com/replay/2022/nwtoday/article/6440097_35752.html), [Joongang Ilbo](https://www.joongang.co.kr/article/25129259), and [Chosun Ilbo](https://www.chosun.com/international/international_general/2022/12/28/NSJ6CQ37RNEM3JOVZWWAZDRAAI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news)
    * Cited by [The New York Times](https://www.nytimes.com/2023/04/10/opinion/south-korea-japan-china-relations.html) 
 
@@ -78,7 +78,7 @@ What explains the growth of the NGO sector in China during the recent decades? D
 ## China's Diplomacy in the Asia-Pacific
 
 * China's Dual Signaling in Maritime Disputes (with Sung Eun Kim). under review.
-  * APSA Los Angeles 2023; GIGA Workshop on Foreign Policy, November 2023.  
+  * APSA Los Angeles 2023; GIGA Workshop on Foreign Policy, 2023.  
     
 ## Personalization of Executive Power
 
