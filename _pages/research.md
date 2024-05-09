@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-My research interests span across topics such as civil society and NGO policy, authoritarianism, and international affairs in East Asia with a regional focus primarily on China and secondarily on the two Koreas. I have experience using a wide variety of methods including fieldwork, surveys, statistical analyses, and text analyses. More recently, I am using computational methods to collect data and applying text mining to uncover discourse and narratives, as well as quantitative analysis of survey data and survey experiments to gauage micro-level causal effects.
+My research centers on civil society and NGO policies in China; and China's diplomacy and perception of China in the Asia-Pacific. I have also interest in examining concepts of personalization of executive power in both democray and autocracy contexts. I have experience using a wide variety of methods including fieldwork, surveys, statistical analyses, and text analyses. More recently, I am using computational methods to collect data and applying text mining to uncover discourse and narratives, as well as quantitative analysis of survey data and survey experiments to gauage micro-level causal effects.
 
 # Publications
 
