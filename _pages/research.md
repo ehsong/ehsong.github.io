@@ -9,29 +9,37 @@ author_profile: true
 
 My research centers on civil society and NGO policies in China; and China's diplomacy and perception of China in the Asia-Pacific. I have also interest in examining the concept of personalization of executive power in both democray and autocracy contexts. I have experience using a wide variety of methods including fieldwork, surveys, statistical analyses, and text analyses. More recently, I am using computational methods to collect data and applying text mining to uncover discourse and narratives, as well as quantitative analysis of survey data and survey experiments to gauage micro-level causal effects.
 
-# Publications
+# Peer-reviewed Publications
 
-1\. Song, E. E. and Ines Miral. 2023. Personalization of Executive Power after COVID-19 in South Korea. *Korea Observer*, 54(4), 641-670. [[Link]](https://scholar.kyobobook.co.kr/article/detail/4010068022214)
-  * Funded by German Research Foundation, DFG [“COVID-19 and Executive Personalization in Sub-Saharan Africa, Asia, Latin America and the MENA Region”](https://www.giga-hamburg.de/en/research-and-transfer/projects/covid-19-executive-personalization-sub-saharan-africa-asia-latin-america-mena-region)
-  * Part of the research presented at Computational Social Science Workshop, Graduate School of International Studies, Ewha Womans University, Seoul South Korea October 2023
+*Civil Society and NGO Policy in China*
 
-2\. Song, E. E. 2023. COVID-19, Anti-Chinese Sentiment, and Foreign Policy Attitudes in South Korea. *Asian Survey*.[[Link]](https://t.co/ulZlIiRwHZ)  
-  * Previous version presented at [Sinophone Borderlands: Global Views on China Conference, Palacky University](https://sinofon.cz/surveys/); ISA Montreal 2023
+1\. Song, E. E. 2022. How Outsourcing Social Services to NGOs Bolsters Political Trust in China: Evidence from Shanghai. *Chinese Political Science Review*. 1-27. [[Open Access Link]](https://link.springer.com/article/10.1007/s41111-021-00207-z)    
+   * Previous versions presented at 2019 MPSA Chicago; 2019 Bay Area Comparative Urban Politics Workshop, UC Berkeley; 2019 China Social Science Workshop, Stanford University
+   * Funded by Freeman Spogli Institute for International Studies (FSI), Stanford University; Center for Philanthrophy and Civil Society (PACS) at Stanford University
 
-3\. Song, E. E. and Joanne Yang. 2023. China’s Adherence to International Human Rights Treaties: an Empirical Assessment. *International Area Studies Review*. [[Open Access Link]](https://journals.sagepub.com/doi/10.1177/22338659231175830)
-  * Cited by [The Conversation](https://theconversation.com/how-to-encourage-china-to-become-a-law-abiding-member-of-the-rules-based-international-order-218223)
+*Perception of China*
 
-4\. Song, E. E. 2023. Air Pollution Coverage, Anti-Chinese Sentiment, and Attitudes towards Foreign Policy in South Korea. *Journal of Chinese Political Science*. [[Open Access Link]](https://doi.org/10.1007/s11366-023-09849-z)  
+2\. Song, E. E. 2023. Air Pollution Coverage, Anti-Chinese Sentiment, and Attitudes towards Foreign Policy in South Korea. *Journal of Chinese Political Science*. [[Open Access Link]](https://doi.org/10.1007/s11366-023-09849-z)  
    * Working versions presented at 2019 APSA Washington D.C. [[iPoster]](https://apsa2019-apsa.ipostersessions.com/default.aspx?s=DF-1D-34-3D-64-33-21-12-B0-42-57-A1-87-AC-68-E1); GIGA Workshop on Foreign Policy 2022
    * Partially funded by Institute for Asian Studies, German Institute for Global and Area Studies (GIGA)
    * Part of the research presented at “Workshop of the World” to “Systemic Rival”? International China Narratives in Politics and Economics since 1945, Bundeskanzler-Helmut-Schmidt-Stiftung (BKHS), Hamburg Germany
 
-5\. Song, E. E. 2023. Long-Term Effects of Authoritarian Repression: Evidence from the Gwangju Massacre in South Korea, 1980. *Asian Journal of Comparative Politics*, 8(1), 364–380. [[Open Access Link]](https://journals.sagepub.com/doi/epub/10.1177/20578911221147994)
+3\. Song, E. E. 2023. COVID-19, Anti-Chinese Sentiment, and Foreign Policy Attitudes in South Korea. *Asian Survey*.[[Link]](https://t.co/ulZlIiRwHZ) 
+  * Previous version presented at [Sinophone Borderlands: Global Views on China Conference, Palacky University](https://sinofon.cz/surveys/); ISA Montreal 2023
 
-6\. Song, E. E. 2022. How Outsourcing Social Services to NGOs Bolsters Political Trust in China: Evidence from Shanghai. *Chinese Political Science Review*. 1-27. [[Open Access Link]](https://link.springer.com/article/10.1007/s41111-021-00207-z)    
-   * Previous versions presented at 2019 MPSA Chicago; 2019 Bay Area Comparative Urban Politics Workshop, UC Berkeley; 2019 China Social Science Workshop, Stanford University
-   * Funded by Freeman Spogli Institute for International Studies (FSI), Stanford University; Center for Philanthrophy and Civil Society (PACS) at Stanford University
-   
+ *Personalization of Executive Power*
+
+4\. Song, E. E. and Ines Miral. 2023. Personalization of Executive Power after COVID-19 in South Korea. *Korea Observer*, 54(4), 641-670. [[Link]](https://scholar.kyobobook.co.kr/article/detail/4010068022214)
+  * Funded by German Research Foundation, DFG [“COVID-19 and Executive Personalization in Sub-Saharan Africa, Asia, Latin America and the MENA Region”](https://www.giga-hamburg.de/en/research-and-transfer/projects/covid-19-executive-personalization-sub-saharan-africa-asia-latin-america-mena-region)
+  * Part of the research presented at Computational Social Science Workshop, Graduate School of International Studies, Ewha Womans University, Seoul South Korea October 2023
+
+*Others*
+
+5\. Song, E. E. and Joanne Yang. 2023. China’s Adherence to International Human Rights Treaties: an Empirical Assessment. *International Area Studies Review*. [[Open Access Link]](https://journals.sagepub.com/doi/10.1177/22338659231175830)
+  * Cited by [The Conversation](https://theconversation.com/how-to-encourage-china-to-become-a-law-abiding-member-of-the-rules-based-international-order-218223)
+
+6\. Song, E. E. 2023. Long-Term Effects of Authoritarian Repression: Evidence from the Gwangju Massacre in South Korea, 1980. *Asian Journal of Comparative Politics*, 8(1), 364–380. [[Open Access Link]](https://journals.sagepub.com/doi/epub/10.1177/20578911221147994)
+
 # Media
 
 1\. Turcsanyi, R. and Esther E. Song. [South Koreans Have the World's Most Negative Views of China. Why?](https://thediplomat.com/2022/12/south-koreans-have-the-worlds-most-negative-views-of-china-why/). *The Diplomat*, December 2022.   
