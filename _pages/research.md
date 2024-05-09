@@ -73,11 +73,11 @@ What explains the growth of the NGO sector in China during the recent decades? D
 
 * Intellectual and Public Discourse on Civil Society in China Under Xi (2013-) (with Runya Qiaoan)     
   * Partially funded by Institute for Asian Studies, German Institute for Global and Area Studies (GIGA)
-  * Part of the research presented at Digital Scholarship in East Asian Studies Conference, Max Planck Institute (scheduled)
+  * Part of the research presented at Digital Scholarship in East Asian Studies Conference, Max Planck Institute, Berlin June 2024 (scheduled)
 
 ## China's Diplomacy in the Asia-Pacific
 
-* Domestic and International Signaling during Foreign Policy Conflict: Maritime Disputes in China (with Sung Eun Kim). under review.
+* China's Dual Signaling in Maritime Disputes (with Sung Eun Kim). under review.
   * APSA Los Angeles 2023; GIGA Workshop on Foreign Policy, November 2023.  
     
 ## Personalization of Executive Power
