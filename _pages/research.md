@@ -17,7 +17,7 @@ My research centers on civil society and NGO policies in China; and China's dipl
    * Previous versions presented at 2019 MPSA Chicago; 2019 Bay Area Comparative Urban Politics Workshop, UC Berkeley; 2019 China Social Science Workshop, Stanford University
    * Funded by Freeman Spogli Institute for International Studies (FSI), Stanford University; Center for Philanthrophy and Civil Society (PACS) at Stanford University
 
-### Perception of China
+### Attitudes Towards China
 
 2\. Song, E. E. 2023. Air Pollution Coverage, Anti-Chinese Sentiment, and Attitudes towards Foreign Policy in South Korea. *Journal of Chinese Political Science*. [[Open Access Link]](https://doi.org/10.1007/s11366-023-09849-z)  
    * Working versions presented at 2019 APSA Washington D.C. [[iPoster]](https://apsa2019-apsa.ipostersessions.com/default.aspx?s=DF-1D-34-3D-64-33-21-12-B0-42-57-A1-87-AC-68-E1); GIGA Workshop on Foreign Policy 2022
