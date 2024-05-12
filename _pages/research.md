@@ -75,7 +75,7 @@ What explains the growth of the NGO sector in China during the recent decades? D
   * Partially funded by Institute for Asian Studies, German Institute for Global and Area Studies (GIGA)
   * Part of the research presented at Digital Scholarship in East Asian Studies Conference, Max Planck Institute, Berlin June 2024 (scheduled)
 
-## China's Diplomacy in the Asia-Pacific
+## China's Diplomacy
 
 * China's Dual Signaling in Maritime Disputes (with Sung Eun Kim). under review.
   * APSA Los Angeles 2023; GIGA Workshop on Foreign Policy, 2023.  
