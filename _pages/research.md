@@ -45,7 +45,7 @@ My research centers on civil society and NGO policies in China; China's diplomac
 
 # Book Chapters
 
-1\. * “Changes in State-Civil Society Relations in China during Hu and Xi.” With Runya Qiaoan. In Czeslaw Tubilewicz (Eds.), Critical Issues in Contemporary China. Routledge. in print.
+1\. “Changes in State-Civil Society Relations in China during Hu and Xi.” With Runya Qiaoan. In Czeslaw Tubilewicz (Eds.), *Critical Issues in Contemporary China*. Routledge. in print.
 
 # Media & Policy
 
