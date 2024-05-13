@@ -17,7 +17,7 @@ My research centers on civil society and NGO policies in China; China's diplomac
    * Previous versions presented at 2019 MPSA Chicago; 2019 Bay Area Comparative Urban Politics Workshop, UC Berkeley; 2019 China Social Science Workshop, Stanford University
    * Funded by Freeman Spogli Institute for International Studies (FSI), Stanford University; Center for Philanthrophy and Civil Society (PACS) at Stanford University
 
-6\. * Song, E. E. Explaining the Expansion of the NGO Sector in China: Through the Lense of Adaptive Corporatist Governance. forthcoming in *Asian Politics & Policy*.
+6\. Song, E. E. Explaining the Expansion of the NGO Sector in China: Through the Lense of Adaptive Corporatist Governance. forthcoming in *Asian Politics & Policy*.
    
 ### Attitudes Towards China
 
