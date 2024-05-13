@@ -25,7 +25,7 @@ My research centers on civil society and NGO policies in China; China's diplomac
 5\. Song, E. E. 2023. Air Pollution Coverage, Anti-Chinese Sentiment, and Attitudes towards Foreign Policy in South Korea. *Journal of Chinese Political Science*. [[Open Access Link]](https://doi.org/10.1007/s11366-023-09849-z)  
    * Working versions presented at 2019 APSA Washington D.C. [[iPoster]](https://apsa2019-apsa.ipostersessions.com/default.aspx?s=DF-1D-34-3D-64-33-21-12-B0-42-57-A1-87-AC-68-E1); GIGA Workshop on Foreign Policy 2022
    * Partially funded by Institute for Asian Studies, German Institute for Global and Area Studies (GIGA)
-   * Part of the research presented at Hemut Schmidt Stiftung Conference on International China Narratives in Politics and Economics Since 1945, Hamburg Germany 2023
+   * Part of the research presented at Helmut Schmidt Stiftung Conference on International China Narratives in Politics and Economics Since 1945, Hamburg Germany 2023
 
 4\. Song, E. E. 2023. COVID-19, Anti-Chinese Sentiment, and Foreign Policy Attitudes in South Korea. *Asian Survey*.[[Link]](https://t.co/ulZlIiRwHZ) 
   * Previous version presented at [Sinophone Borderlands: Global Views on China Conference, Palacky University](https://sinofon.cz/surveys/); ISA Montreal 2023
