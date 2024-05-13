@@ -18,7 +18,8 @@ My research centers on civil society and NGO policies in China; China's diplomac
    * Funded by Freeman Spogli Institute for International Studies (FSI), Stanford University; Center for Philanthrophy and Civil Society (PACS) at Stanford University
 
 6\. Song, E. E. Explaining the Expansion of the NGO Sector in China: Through the Lense of Adaptive Corporatist Governance. forthcoming in *Asian Politics & Policy*.
-   
+   * Funded by Freeman Spogli Institute for International Studies (FSI), Stanford University; Center for Philanthrophy and Civil Society (PACS) at Stanford University
+     
 ### Attitudes Towards China
 
 5\. Song, E. E. 2023. Air Pollution Coverage, Anti-Chinese Sentiment, and Attitudes towards Foreign Policy in South Korea. *Journal of Chinese Political Science*. [[Open Access Link]](https://doi.org/10.1007/s11366-023-09849-z)  
