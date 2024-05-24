@@ -26,6 +26,7 @@ My research centers on civil society and NGO policies in China; China's diplomac
    * Working versions presented at 2019 APSA Washington D.C. [[iPoster]](https://apsa2019-apsa.ipostersessions.com/default.aspx?s=DF-1D-34-3D-64-33-21-12-B0-42-57-A1-87-AC-68-E1); GIGA Workshop on Foreign Policy 2022
    * Partially funded by Institute for Asian Studies, German Institute for Global and Area Studies (GIGA)
    * Part of the research presented at Helmut Schmidt Stiftung Conference on International China Narratives in Politics and Economics Since 1945, Hamburg Germany 2023
+   * Cited by [East Asia Forum](https://eastasiaforum.org/2024/05/24/why-arent-south-koreans-studying-in-china-anymore/)
 
 4\. Song, E. E. 2023. COVID-19, Anti-Chinese Sentiment, and Foreign Policy Attitudes in South Korea. *Asian Survey*.[[Link]](https://t.co/ulZlIiRwHZ) 
   * Previous version presented at [Sinophone Borderlands: Global Views on China Conference, Palacky University](https://sinofon.cz/surveys/); ISA Montreal 2023
@@ -48,6 +49,8 @@ My research centers on civil society and NGO policies in China; China's diplomac
 1\. “Changes in State-Civil Society Relations in China during Hu and Xi.” With Runya Qiaoan. In Czeslaw Tubilewicz (Eds.), *Critical Issues in Contemporary China*. Routledge. in print.
 
 # Media & Policy
+
+3.\ [Why aren't South Koreans studying in China anymore?](https://eastasiaforum.org/2024/05/24/why-arent-south-koreans-studying-in-china-anymore/). *East Asia Forum*, May 2024.   
 
 2\. [South Koreans Have the World's Most Negative Views of China. Why?](https://thediplomat.com/2022/12/south-koreans-have-the-worlds-most-negative-views-of-china-why/). *The Diplomat*, December 2022 (with Richard Turcsanyi).
    * Covered by more than 20 media outlets in South Korea including [KBS](https://news.kbs.co.kr/news/view.do?ncd=6207159&ref=A), [SBS](https://news.sbs.co.kr/news/endPage.do?news_id=N1007024887&plink=ORI&cooper=NAVER), [MBC](https://imnews.imbc.com/replay/2022/nwtoday/article/6440097_35752.html), [Joongang Ilbo](https://www.joongang.co.kr/article/25129259), and [Chosun Ilbo](https://www.chosun.com/international/international_general/2022/12/28/NSJ6CQ37RNEM3JOVZWWAZDRAAI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news)
