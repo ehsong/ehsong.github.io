@@ -77,6 +77,11 @@ What explains the growth of the NGO sector in China during the recent decades? D
   * Partially funded by Institute for Asian Studies, German Institute for Global and Area Studies (GIGA)
   * Part of the research presented at Digital Scholarship in East Asian Studies Conference, Max Planck Institute, Berlin June 2024 (scheduled)
 
+## Narratives on China
+
+* South Korea’s Narratives on China: Evidence from Elites, Masses, and Scholars. revise and resubmit.
+  * Previous version presented at Helmut Schmidt Stiftung Conference on International China Narratives in Politics and Economics Since 1945, Hamburg Germany 2023.
+  
 ## China's Diplomacy
 
 * China's Dual Signaling in Maritime Disputes (with Sung Eun Kim). revise and resubmit.
@@ -88,7 +93,7 @@ What explains the growth of the NGO sector in China during the recent decades? D
   * Previous versions presented at [Workshop on Personalization of Executive Power, GIGA Hamburg Germany](https://www.giga-hamburg.de/en/events/conferences-and-workshops/personalization-executive-power-conceptual-theoretical-empirical-perspectives); European Consortium for Political Research General Conference, Prague Czechia 2023; APSA Los Angeles 2023
   * Funded by German Research Foundation, DFG [“COVID-19 and Executive Personalization in Sub-Saharan Africa, Asia, Latin America and the MENA Region”](https://www.giga-hamburg.de/en/research-and-transfer/projects/covid-19-executive-personalization-sub-saharan-africa-asia-latin-america-mena-region)
 
-* Career Transition Data on Elites in North Korea (with Jacob Reidhead and Jeongsue Park). under review.
+* Career Transition Data on Elites in North Korea (with Jacob Reidhead and Jeongsue Park). revise and resubmit.
   * Previous versions presented at MPSA, Chicago; Stanford Network Forum, Stanford University; ECPR Prague 2023; All Souls College, Oxford University April 2024.
   * Curating a database on career transitions of approximately 500 elites from 1948-2020
   * Partially funded by Institute for Asian Studies, German Institute for Global and Area Studies (GIGA)
