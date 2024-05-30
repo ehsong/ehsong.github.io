@@ -89,7 +89,7 @@ What explains the growth of the NGO sector in China during the recent decades? D
     
 ## Personalization of Executive Power
 
-* Personnel, institutions, and power: Revisiting the concept of political personalization (with Mariana Llanos, Thomas Richter, David Kuehn, Martin Acheampong, and Emilia Arellano) [GIGA Working Papers](https://www.econstor.eu/bitstream/10419/281768/1/1878883526.pdf)
+* Personnel, institutions, and power: Revisiting the concept of political personalization (with Mariana Llanos, Thomas Richter, David Kuehn, Martin Acheampong, and Emilia Arellano). under review. [GIGA Working Papers](https://www.econstor.eu/bitstream/10419/281768/1/1878883526.pdf)
   * Previous versions presented at [Workshop on Personalization of Executive Power, GIGA Hamburg Germany](https://www.giga-hamburg.de/en/events/conferences-and-workshops/personalization-executive-power-conceptual-theoretical-empirical-perspectives); European Consortium for Political Research General Conference, Prague Czechia 2023; APSA Los Angeles 2023
   * Funded by German Research Foundation, DFG [“COVID-19 and Executive Personalization in Sub-Saharan Africa, Asia, Latin America and the MENA Region”](https://www.giga-hamburg.de/en/research-and-transfer/projects/covid-19-executive-personalization-sub-saharan-africa-asia-latin-america-mena-region)
 
