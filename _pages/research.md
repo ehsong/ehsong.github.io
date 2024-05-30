@@ -33,7 +33,7 @@ My research centers on civil society and NGO policies in China; China's diplomac
 
 ### Personalization of Executive Power
 
-3\. Song, E. E. and Ines Miral. 2023. Personalization of Executive Power after COVID-19 in South Korea. *Korea Observer*, 54(4), 641-670. [[Link]](https://scholar.kyobobook.co.kr/article/detail/4010068022214)
+3\. Song, E. E. and Ines Miral. 2023. Personalization of Executive Power after COVID-19 in South Korea. *Korea Observer*, 54(4), 641-670. [[Link]](https://scholar.kyobobook.co.kr/article/detail/4010068022214). under review.
   * Funded by German Research Foundation, DFG [“COVID-19 and Executive Personalization in Sub-Saharan Africa, Asia, Latin America and the MENA Region”](https://www.giga-hamburg.de/en/research-and-transfer/projects/covid-19-executive-personalization-sub-saharan-africa-asia-latin-america-mena-region)
   * Part of the research presented at Computational Social Science Workshop, Graduate School of International Studies, Ewha Womans University, Seoul South Korea October 2023
 
