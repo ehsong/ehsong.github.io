@@ -97,8 +97,14 @@ What explains the growth of the NGO sector in China during the recent decades? D
   * Previous versions presented at MPSA, Chicago; Stanford Network Forum, Stanford University; ECPR Prague 2023; All Souls College, Oxford University April 2024.
   * Curating a database on career transitions of approximately 500 elites from 1948-2020
   * Partially funded by Institute for Asian Studies, German Institute for Global and Area Studies (GIGA)
- 
-## Methods in Text-as-Data
+
+## Others
+
+### South Korea's Foreign Policy
+
+* Public Opinion on Cross-Strait Tensions in South Korea    
+  
+### Methods in Text-as-Data
 
 * An Exploration of the Effect of Article Length on the Gender Citation Gap (with Ingo Rohlfing and Barbara Ellynes Zucchi Nobre Silva)
   * Previous versions presented at APSA, Los Angeles 2023
