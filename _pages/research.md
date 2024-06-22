@@ -15,7 +15,7 @@ My research centers on civil society and NGO policies in China; China's diplomac
 
 *Funded by Freeman Spogli Institute for International Studies (FSI), Stanford University; Center for Philanthrophy and Civil Society (PACS) at Stanford University*
 
-7\. Song, E. E. 2022. How Outsourcing Social Services to NGOs Bolsters Political Trust in China: Evidence from Shanghai. *Chinese Political Science Review*. 1-27. [[Open Access Link]](https://link.springer.com/article/10.1007/s41111-021-00207-z) <details open>
+7\. Song, E. E. 2022. How Outsourcing Social Services to NGOs Bolsters Political Trust in China: Evidence from Shanghai. *Chinese Political Science Review*. 1-27. [[Open Access Link]](https://link.springer.com/article/10.1007/s41111-021-00207-z) <details>
 <summary>abstract</summary>
 <br>
 Test
