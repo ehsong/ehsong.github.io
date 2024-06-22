@@ -37,7 +37,7 @@ My research centers on civil society and NGO policies in China; China's diplomac
 
 # Book Chapters
 
-“Changes in State-Civil Society Relations in China during Hu and Xi.” With Runya Qiaoan. In Czeslaw Tubilewicz (Eds.), *Critical Issues in Contemporary China*. Routledge. in print.
+<details style="display:inline"><summary>“Changes in State-Civil Society Relations in China during Hu and Xi.” (with Runya Qiaoan.) In Czeslaw Tubilewicz (Eds.), *Critical Issues in Contemporary China*. Routledge. in print.</summary><br><p>This chapter traces Chinese official discourse and regulatory frameworks concerning civil society, scrutinizing their impact on the evolution of the Chinese third sector and their broader implications for China’s governance. The analysis unfolds over two distinct eras – the Hu Era (2002–2012) and the Xi Era (2013–present) – delving into how the Party-state strategically shapes the narrative and policies of civil society. The chapter incorporates a qualitative narrative analysis of Party publications and state documents and an examination of empirical case studies. The chapter not only sheds light on the adaptation of the Party-state to maintain control over the growing third sector but also unveils the nuanced interplay between official discourse and political practice. It also offers insights into the potential trajectory of China’s future civil society governance.</p></details>
 
 # Media & Policy
 
@@ -62,8 +62,7 @@ What explains the growth of the NGO sector in China during the recent decades? D
 
 *Working Papers*
 
-* Song, E. E. The Political Origins of NGO Sector Expansion Under Authoritarianism: Evidence from Case Comparison of Three Post-Communist Countries.  
-
+* The Political Origins of NGO Sector Expansion Under Authoritarianism: Evidence from Case Comparison of Three Post-Communist Countries.  
 * Intellectual and Public Discourse on Civil Society in China Under Xi (2013-) (with Runya Qiaoan)     
   * Partially funded by Institute for Asian Studies, German Institute for Global and Area Studies (GIGA)
   * Part of the research presented at Digital Scholarship in East Asian Studies Conference, Max Planck Institute, Berlin July 2024 (scheduled)
