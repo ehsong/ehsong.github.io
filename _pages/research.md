@@ -93,7 +93,3 @@ What explains the growth of the NGO sector in China during the recent decades? D
 * An Exploration of the Effect of Article Length on the Gender Citation Gap (with Ingo Rohlfing and Barbara Ellynes Zucchi Nobre Silva)
   * Previous versions presented at APSA, Los Angeles 2023
   * Funded by German Federal Ministry of Education and Research (BMBF)
-
-## China and Democracy
-
-Albeit being a non-democratic country, the Communist Party of China has not neglected the idea of 'democracy' - the earliest discussion of democracy goes back to 2009 when Yu Keping, advisor to Hu Jintao released an essay "Democracy is a Good Thing". More recently, the idea of democracy has been again mentioned in the white paper released by the CCP before the Democracy Summit headed by President Biden in December 2021. This project aims to examine the history of how democracy has been interpreted in China and how it is being used as a legitmizing tool for the CCP. In addition, this project also aims to examine how "democracy with Chinese characteristics" affects international audience and their interpretation of China's soft power.
