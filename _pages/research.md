@@ -14,7 +14,7 @@ My research centers on civil society and NGO policies in China; China's diplomac
 ### Civil Society and NGO Policy in China
 
 *Funded by Freeman Spogli Institute for International Studies (FSI), Stanford University; Center for Philanthrophy and Civil Society (PACS) at Stanford University*
-<details style="display:inline"><summary> 7\. Song, E. E. 2022. How Outsourcing Social Services to NGOs Bolsters Political Trust in China: Evidence from Shanghai. *Chinese Political Science Review*. 1-27. [[Open Access Link]](https://link.springer.com/article/10.1007/s41111-021-00207-z)</summary>Test</details>
+<details style="display:inline"><summary> 7\. Song, E. E. 2022. How Outsourcing Social Services to NGOs Bolsters Political Trust in China: Evidence from Shanghai. *Chinese Political Science Review*. 1-27.</summary>[[Open Access Link]](https://link.springer.com/article/10.1007/s41111-021-00207-z)</details>
    * Previous versions presented at 2019 MPSA Chicago; 2019 Bay Area Comparative Urban Politics Workshop, UC Berkeley; 2019 China Social Science Workshop, Stanford University
 
 6\. Song, E. E. Explaining the Expansion of the NGO Sector in China: Through the Lense of Adaptive Corporatist Governance. forthcoming in *Asian Politics & Policy*.
