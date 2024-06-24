@@ -4,6 +4,8 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+At UiB I teach MA-level courses for the Master's Program Politics and Governance of Global Challenges. I enjoy supervising students from all over the world on answering research questions that address real world problems. 
+
 *University of Bergen (UiB)*
 - Global China (2024 Spring, an elective of Master's Program Politics and Governance of Global Challenges)
   
