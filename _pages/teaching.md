@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 *University of Bergen (UiB)*
-- Global China (2024 Spring)
+- Global China (2024 Spring, an elective of Master's Program Politics and Governance of Global Challenges)
   
 *Randolph-Macon College*
 - Chinese Politics (2021 January, J-term)
