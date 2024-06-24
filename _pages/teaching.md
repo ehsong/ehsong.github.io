@@ -8,7 +8,7 @@ author_profile: true
 - Global China (2024 Spring, an elective of Master's Program Politics and Governance of Global Challenges)
   
 *Randolph-Macon College*
-- Chinese Politics (2021 January, J-term)
+- Chinese Politics (2021 January, J-term undergraduate-level)
 
 *Stanford University*
 - Chinese Politics: Transformation and the Era of Reform (Jean Oi, 2015-6 Winter; 2018-9 Winter)
