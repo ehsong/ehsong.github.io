@@ -88,7 +88,7 @@ What explains the growth of the NGO sector in China during the recent decades? D
 
 * Public Opinion on Cross-Strait Tensions in South Korea    
   
-### Methods in Text-as-Data
+### Gender Citation Gap
 
 * An Exploration of the Effect of Article Length on the Gender Citation Gap (with Ingo Rohlfing and Barbara Ellynes Zucchi Nobre Silva)
   * Previous versions presented at APSA, Los Angeles 2023
