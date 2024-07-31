@@ -47,7 +47,7 @@ My research centers on civil society and NGO policies in China; China's diplomac
    * Covered by more than 20 media outlets in South Korea including [KBS](https://news.kbs.co.kr/news/view.do?ncd=6207159&ref=A), [SBS](https://news.sbs.co.kr/news/endPage.do?news_id=N1007024887&plink=ORI&cooper=NAVER), [MBC](https://imnews.imbc.com/replay/2022/nwtoday/article/6440097_35752.html), [Joongang Ilbo](https://www.joongang.co.kr/article/25129259), and [Chosun Ilbo](https://www.chosun.com/international/international_general/2022/12/28/NSJ6CQ37RNEM3JOVZWWAZDRAAI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news)
    * Cited by [The New York Times](https://www.nytimes.com/2023/04/10/opinion/south-korea-japan-china-relations.html)      
 
-Rising Anti-China Sentiment Supports South Korea’s Alignment with the US. GIGA Focus Asia. [[Open Access Link]](https://www.giga-hamburg.de/en/publications/giga-focus/rising-anti-china-sentiment-supports-south-koreas-alignment-with-the-us)    
+Rising Anti-China Sentiment Supports South Korea’s Alignment with the US. *GIGA Focus Asia*, 2023. [[Open Access Link]](https://www.giga-hamburg.de/en/publications/giga-focus/rising-anti-china-sentiment-supports-south-koreas-alignment-with-the-us)    
 
 # On-going Research
 ![](/images/crosswalk2.jpg)   
