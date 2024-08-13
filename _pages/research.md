@@ -80,11 +80,15 @@ What explains the growth of the NGO sector in China during the recent decades? D
 
 <details style="display:inline"><summary>Career Transition Data on Elites in North Korea (with Jacob Reidhead and Jeongsue Park). revise and resubmit.</summary><br><p>We introduce a novel dataset mapping career transitions of 505 elites in North Korea. Despite ample attention to granular data on elites, there's a lack of comprehensive information spanning state, party, military, and parastatal sectors. Granular rank and position data enable tracing intra- and inter-institutional elite mobility, opening new research avenues on North Korean elite studies and leader-elite dynamics in personalist autocracies. Exploiting within-regime threat level variation during successions, we test hypotheses on dictators' use of intra- versus inter-institutional elite management. We conclude with implications for new research directions in North Korean studies and authoritarianism literature.</p></details><ul><li><p>Previous versions presented at MPSA, Chicago; Stanford Network Forum, Stanford University; ECPR Prague 2023; All Souls College, Oxford University April 2024.</p></li></ul>
 
+## Leadership Transition in Autocracies
+
+* Personnel Management Before Succession: Evidence from North Korea (with Jacob Reidhead)
+
 ## Others
 
 ### South Korea's Foreign Policy
 
-* Public Opinion on Cross-Strait Tensions in South Korea    
+* Public Opinion on Cross-Strait Tensions in South Korea (with Doyoung Lee)    
   
 ### Gender Citation Gap
 
