@@ -14,7 +14,7 @@ During my doctoral studies, I investigated NGO-state relations in China, focusin
 
 In my post-doctoral work, I started a second strand of research on international affairs in East Asia, specifically analyzing the rise of anti-Chinese sentiment in South Korea and its impact on foreign policy attitudes. This research draws on theories of public opinion, foreign policy, and media influence. My findings have been published or are forthcoming in journals such as *Asian Survey*, *Asian Perspective*, and the *Journal of Chinese Political Science*. Additionally, I have explored China's foreign policy signaling in maritime disputes, analyzing over 31,000 state media reports to understand how China communicates differently to domestic and international audiences, balancing its image as a responsible power with the need to satisfy a hawkish domestic audience. This work will be published in the *Australian Journal of International Affairs*.
 
-Currently I am working on a few topics, including 1) how China is intellectualizing state-society relations, and 2) South Korea's public opinion on cross-strait tensions. I am open to collaborations so if you are interested please contact me at esther.song@uib.no.
+Currently I am working on a few topics, including 1) how China is intellectualizing state-society relations, and 2) South Korea's public opinion on cross-strait tensions. I am open to collaborations and starting new projects, so if you are interested please contact me at esther.song@uib.no.
 
 # Peer-reviewed Publications
 
