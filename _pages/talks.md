@@ -13,6 +13,7 @@ author_profile: true
 
 **2024**
 
+- October, Social Sciences Korean Studies in Europe Network Conference, Venice Italy (scheduled)
 - September, APSA, Philadelphia USA (scheduled)
 - July, ["Digital Scholarship in East Asian Studies"](https://www.mpiwg-berlin.mpg.de/news/charting-european-d-sea-digital-scholarship-east-asian-studies), Max Planck Institute for the History of Science & The Berlin State Library, Berlin
 - April, "Symposium: Change, Adaptation, and Contention in Formal Institutions in Authoritarian Regimes." All Souls College, Oxford University, Oxford UK
