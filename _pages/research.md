@@ -56,7 +56,7 @@ In my post-doctoral period at GIGA, I started a second strand of research on Chi
 
 Rising Anti-China Sentiment Supports South Korea’s Alignment with the US. *GIGA Focus Asia*, 2023. [[Open Access Link]](https://www.giga-hamburg.de/en/publications/giga-focus/rising-anti-china-sentiment-supports-south-koreas-alignment-with-the-us)    
 
-### *Works in Progress*
+# Works in Progress
 
 <details style="display:inline"><summary>Mapping the Concept of Civil Society in China (with Runya Qiaoan)</summary><br><p>Studies on civil society in China has suffered from a positivist bias where civil society is often conceptualized as the NGO sector. This conceptualization dismisses cultural and social contexts that distinguishes the how the concept of civil society is used and discussed in China. By leveraging a large corpus of text data and computational text analysis on scholarly articles on civil society in China from 2002 to 2021 and public discussions on the concept of civil society on online forums and social media, this article aims to uncover the major conceptual discussions on civil society in China and highlight how they differ from conceptualizations in western political thought.</p></details><ul><li><p>Part of the research presented at Digital Scholarship in East Asian Studies Conference, Max Planck Institute of History of Science & Berlin State Library, Berlin July 2024</p></li></ul>
      
