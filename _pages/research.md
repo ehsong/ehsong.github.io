@@ -62,5 +62,5 @@ Rising Anti-China Sentiment Supports South Korea’s Alignment with the US. *GIG
      
 <details style="display:inline"><summary>Public Opinion on Cross-Strait Tensions in South Korea (with Doyoung Lee)</summary><br><p>South Korea has established a security alliance with the United States, yet its principal trading partner is China. This three-way association poses challenging foreign policy decisions for South Korea, particularly amid the backdrop of the intense rivalry between the United States and China. One of the dilemmas involves aligning with the U.S. and Taiwan concerning military tensions in the Taiwan Strait. This decision is not only shaped by national interests but also by domestic factors such as public sentiment. This article explores South Korean public attitudes toward the escalating tensions between the U.S. and China over Taiwan, aiming to provide insight into the factors influencing their preferences. The analysis relies on data from social media, news sources, and surveys.</p></details><ul><li><p>Previous version presented at APSA 2024, Philadephia</p></li></ul>
 
-China Effect: Domestic Political Consequences of China's Economic Coercion
+<details style="display:inline"><summary>China Effect: Domestic Political Consequences of China's Economic Coercion</summary>
 
