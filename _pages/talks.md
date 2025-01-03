@@ -13,6 +13,7 @@ author_profile: true
 
 **2025**
 
+- July, IPSA Seoul (scheduled)
 - June, Fudan Development Institute, Shanghai China (scheduled)
   
 **2024**
