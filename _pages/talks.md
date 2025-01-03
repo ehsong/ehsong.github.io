@@ -11,10 +11,14 @@ author_profile: true
 
 **Invited Talks, Workshops, Rountables & Conferences**
 
+**2025**
+
+- June, Fudan Development Institute, Shanghai China (scheduled)
+  
 **2024**
 
-- October, Social Sciences Korean Studies in Europe Network Conference, Venice Italy (scheduled)
-- September, APSA, Philadelphia USA (scheduled)
+- October, Social Sciences Korean Studies in Europe Network Conference, Venice Italy
+- September, APSA, Philadelphia USA
 - July, ["Digital Scholarship in East Asian Studies"](https://www.mpiwg-berlin.mpg.de/news/charting-european-d-sea-digital-scholarship-east-asian-studies), Max Planck Institute for the History of Science & The Berlin State Library, Berlin
 - April, "Symposium: Change, Adaptation, and Contention in Formal Institutions in Authoritarian Regimes." All Souls College, Oxford University, Oxford UK
 
