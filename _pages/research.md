@@ -12,7 +12,7 @@ During my doctoral studies at Stanford, I investigated NGO-state relations in Ch
 
 In my post-doctoral period at GIGA, I started a second strand of research on global public opinion of China and China's foreign policy in the Asia-Pacific. This research draws from works that examine intersection between public opinion, media, and foreign policy. My findings have been published or are forthcoming in peer-reviewed journals such as *Asian Survey*, *Asian Perspective*, the *Journal of Chinese Political Science*, and *Australian Journal of International Affairs*.
 
-# Peer-reviewed Publications
+### Peer-reviewed Publications
 
 <details style="display:inline"><summary>Song, Esther E., Jacob Reidhead, and Jeongsue Park. "Introducing Career Transition Data on Elites in North Korea." Forthcoming in <em>Journal of East Asian Studies</em>.</summary><br><p>We introduce a novel dataset mapping career transitions of 505 elites in North Korea. Despite ample attention to granular data on elites, there's a lack of comprehensive information spanning state, party, military, and parastatal sectors. Granular rank and position data enable tracing intra- and inter-institutional elite mobility, opening new research avenues on North Korean elite studies and leader-elite dynamics in personalist autocracies. Exploiting within-regime threat level variation during successions, we test hypotheses on dictators' use of intra- versus inter-institutional elite management. We conclude with implications for new research directions in North Korean studies and authoritarianism literature.
 
@@ -59,11 +59,11 @@ In my post-doctoral period at GIGA, I started a second strand of research on glo
 - Previous versions presented at 2019 MPSA Chicago; 2019 Bay Area Comparative Urban Politics Workshop, UC Berkeley; 2019 China Social Science Workshop, Stanford University
 </p></details>
 
-# Book Chapters
+### Book Chapters
 
 <details style="display:inline"><summary>Qiaoan, Runya and Esther E. Song. 2024. <a href="https://www.taylorfrancis.com/chapters/edit/10.4324/9781003227014-4/state-civil-society-relations-china-hu-jintao-xi-jinping-runya-qiaoan-esther-song?context=ubx&refId=457ddd66-47a6-4d74-8d98-0df445118c89" target="blank_">“Changes in State-Civil Society Relations in China during Hu and Xi.” </a>In Czeslaw Tubilewicz (Eds.), <em>Critical Issues in Contemporary China</em>. Routledge.</summary><br><p>This chapter traces Chinese official discourse and regulatory frameworks concerning civil society, scrutinizing their impact on the evolution of the Chinese third sector and their broader implications for China’s governance. The analysis unfolds over two distinct eras – the Hu Era (2002–2012) and the Xi Era (2013–present) – delving into how the Party-state strategically shapes the narrative and policies of civil society. The chapter incorporates a qualitative narrative analysis of Party publications and state documents and an examination of empirical case studies. The chapter not only sheds light on the adaptation of the Party-state to maintain control over the growing third sector but also unveils the nuanced interplay between official discourse and political practice. It also offers insights into the potential trajectory of China’s future civil society governance.</p></details>
 
-# Media & Policy
+### Media & Policy
 
 [Why aren't South Koreans studying in China anymore?](https://eastasiaforum.org/2024/05/24/why-arent-south-koreans-studying-in-china-anymore/). *East Asia Forum*, May 2024.   
 
@@ -73,7 +73,7 @@ In my post-doctoral period at GIGA, I started a second strand of research on glo
 
 Rising Anti-China Sentiment Supports South Korea’s Alignment with the US. *GIGA Focus Asia*, 2023. [[Open Access Link]](https://www.giga-hamburg.de/en/publications/giga-focus/rising-anti-china-sentiment-supports-south-koreas-alignment-with-the-us)    
 
-# Works in Progress
+### Works in Progress
 
 <details style="display:inline"><summary>Mapping the Concept of Civil Society in China (with Runya Qiaoan)</summary><br><p>Studies on civil society in China has suffered from a positivist bias where civil society is often conceptualized as the NGO sector. This conceptualization dismisses cultural and social contexts that distinguishes the how the concept of civil society is used and discussed in China. By leveraging a large corpus of text data and computational text analysis on scholarly articles on civil society in China from 2002 to 2021 and public discussions on the concept of civil society on online forums and social media, this article aims to uncover the major conceptual discussions on civil society in China and highlight how they differ from conceptualizations in western political thought.</p></details><ul><li><p>Part of the research presented at Digital Scholarship in East Asian Studies Conference, Max Planck Institute of History of Science & Berlin State Library, Berlin July 2024</p></li></ul>    
 
