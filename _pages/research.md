@@ -15,21 +15,22 @@ In my post-doctoral period at GIGA, I started a second strand of research on glo
 ### Peer-reviewed Publications
 
 Song, Esther E., Jacob Reidhead, and Jeongsue Park. "Introducing Career Transition Data on Elites in North Korea." Forthcoming in *Journal of East Asian Studies*.     
-
+- Presented at MPSA, ECPR 2023; Workshop on Authoritarianism, Oxford University 2024
+  
 Song, Esther E. "South Korea’s Narratives on China: Evidence from Elites, Masses, and Scholars." Forthcoming in *Asian Perspective*.     
+- Previous version presented at Helmut Schmidt Stiftung Conference on International China Narratives in Politics and Economics Since 1945, Hamburg Germany 2023
 
-Song, Esther E. and Sung Eun Kim. 2024. ["China's Dual Signaling in Maritime Disputes."](https://www.tandfonline.com/doi/full/10.1080/10357718.2024.2394179) *Australian Journal of International Affairs*, 1-23.               
+Song, Esther E. and Sung Eun Kim. 2024. ["China's Dual Signaling in Maritime Disputes."](https://www.tandfonline.com/doi/full/10.1080/10357718.2024.2394179) *Australian Journal of International Affairs*, 1-23.   
+- Presented at APSA 2023
 
 Song, Esther E. 2024. ["Explaining the Expansion of the NGO Sector in China: Through the Lense of Adaptive Corporatist Governance."](https://onlinelibrary.wiley.com/doi/10.1111/aspp.12752) *Asian Politics & Policy*, 1-18.      
 
 Song, Esther E. 2023. ["Air Pollution Coverage, Anti-Chinese Sentiment, and Attitudes towards Foreign Policy in South Korea."](https://doi.org/10.1007/s11366-023-09849-z) *Journal of Chinese Political Science*, 28, 571–592.
-
-- Cited in [East Asia Forum](https://eastasiaforum.org/2024/05/24/why-arent-south-koreans-studying-in-china-anymore/)             
-
+- Presented at APSA 2019; cited in [East Asia Forum](https://eastasiaforum.org/2024/05/24/why-arent-south-koreans-studying-in-china-anymore/)             
 Song, Esther E. 2023. ["COVID-19, Anti-Chinese Sentiment, and Foreign Policy Attitudes in South Korea."](https://t.co/ulZlIiRwHZ) *Asian Survey*, 63(5), 823–850.
+- Presented at Sinophone Borderlands: Global Views on China Conference, Palacky University 2023
 
 Song, Esther E. and Joanne Yang. 2023. ["China’s Adherence to International Human Rights Treaties: an Empirical Assessment."](https://journals.sagepub.com/doi/10.1177/22338659231175830) *International Area Studies Review*, 26(3), 252-268.
-
 - Cited by [The Conversation](https://theconversation.com/how-to-encourage-china-to-become-a-law-abiding-member-of-the-rules-based-international-order-218223)        
 
 Song, Esther E. 2023. ["Long-Term Effects of Authoritarian Repression: Evidence from the Gwangju Massacre in South Korea, 1980."](https://journals.sagepub.com/doi/epub/10.1177/20578911221147994) *Asian Journal of Comparative Politics*, 8(1), 364–380.
@@ -37,6 +38,7 @@ Song, Esther E. 2023. ["Long-Term Effects of Authoritarian Repression: Evidence 
 Song, Esther E. and Ines Miral. 2023. ["Personalization of Executive Power after COVID-19 in South Korea."](https://scholar.kyobobook.co.kr/article/detail/4010068022214) *Korea Observer*, 54(4), 641-670.
 
 Song, Esther E. 2022. ["How Outsourcing Social Services to NGOs Bolsters Political Trust in China: Evidence from Shanghai."](https://link.springer.com/article/10.1007/s41111-021-00207-z) *Chinese Political Science Review*, 9, 36–62.
+- Presented at MPSA; Bay Area Comparative Urban Politics Workshop, UC Berkeley; China Social Science Workshop, Stanford University 2019 
 
 ### Book Chapters
 
