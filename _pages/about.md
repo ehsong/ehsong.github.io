@@ -9,7 +9,7 @@ redirect_from:
 ---
 <img src="https://github.com/ehsong/ehsong.github.io/blob/master/images/east_asia_resized.jpg?raw=true" width="700" height="466">
 
-Welcome! I am an Associate Professor at the [Department of Government](https://www.uib.no/en/gov), [University of Bergen (UiB)](https://www.uib.no/en) and an associate at the [Institute for Asian Studies](https://www.giga-hamburg.de/en/institutes/giga-institute-for-asian-studies/) at [German Institute for Global and Area Studies (GIGA)](https://www.giga-hamburg.de/en/). 
+Welcome! I am an Associate Professor at the [Department of Government](https://www.uib.no/en/gov), [University of Bergen (UiB)](https://www.uib.no/en) and an associate at the [Institute for Asian Studies](https://www.giga-hamburg.de/en/institutes/giga-institute-for-asian-studies/) at [German Institute for Global and Area Studies (GIGA)](https://www.giga-hamburg.de/en/). In spring term 2025, I am a Visiting Scholar at [Fudan Development Institute](https://fddi.fudan.edu.cn/fddien/main.htm).
 
 I conduct research on politics and international relations of China, international affairs in the Asia-Pacific, and authoritarianism. My works are forthcoming or published in *Journal of Chinese Political Science*, *Australian Journal of International Affairs*, *Asian Survey*, and *The Diplomat*, among others.
 
