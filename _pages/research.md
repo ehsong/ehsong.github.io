@@ -12,7 +12,7 @@ During my doctoral studies at Stanford, I investigated NGO-state relations in Ch
 
 In my post-doctoral period at GIGA, I started a second strand of research on international affairs in the Asia-Pacific, with special focus on China's foreign policy and US-allies' reaction to China's influence in the region. This research draws from works that examine intersection between public opinion, media, and foreign policy. My findings have been published or are forthcoming in peer-reviewed journals such as *Asian Survey*, *Asian Perspective*, the *Journal of Chinese Political Science*, and *Australian Journal of International Affairs*.
 
-My third strand of research is on personalism, namely, how executive personalize power; and politics in personalist autocracies. This research draws from comparative authoritarianism as well as insights from politics of countries in Northeast Asia, including China and the two Koreas. The findings have been published or forthcoming in *Korea Observer* and *Journal of East Asian Studies*, and as a working paper published by GIGA. 
+My third area of research investigates personalism—how executives personalize power—and politics within personalist autocracies. This research draws from comparative authoritarianism and insights from Northeast Asian countries like China and the two Koreas. The findings have been published or forthcoming in *Korea Observer* and *Journal of East Asian Studies*, and a working paper published by GIGA. 
 
 ### Peer-reviewed Publications
 
