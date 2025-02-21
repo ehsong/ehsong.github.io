@@ -65,4 +65,4 @@ Rising Anti-China Sentiment Supports South Korea’s Alignment with the US. *GIG
 
 <details style="display:inline"><summary><a href="https://pure.giga-hamburg.de/ws/files/49507624/WP-339.pdf" target="_blank">Personnel, institutions, and power: Revisiting the concept of political personalization </a>(with Mariana Llanos, Thomas Richter, David Kuehn, Martin Acheampong, and Emilia Arellano). revise and resubmit.</summary></details><ul><li><p> Previous versions presented at ECPR, APSA 2023</p></li></ul>
 
-<details style="display:inline"><summary><a href="https://pure.giga-hamburg.de/ws/files/49507624/WP-339.pdf" target="_blank">China’s Democracy Propaganda and Global Democratic Backsliding</summary></details><ul><li><p>In preparation for submission for external funding calls.</p></li></ul>
+<details style="display:inline"><summary>China’s Democracy Propaganda and Global Democratic Backsliding</summary></details><ul><li><p>In preparation for submission for external funding calls.</p></li></ul>
