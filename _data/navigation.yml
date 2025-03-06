@@ -2,6 +2,9 @@
 main:
   - title: "Research"
     url: /research/
+   
+  - title: "Book"
+    url: /book/
 
   - title: "Fieldwork"
     url: /fieldwork/
