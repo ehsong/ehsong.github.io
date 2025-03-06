@@ -7,8 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-![](/images/fw0.jpg)
-*A community-based group implementing a neighborhood-contracted elderly care program, Shanghai (December 16, 2016)*
+![](/images/IMG_4132.JPG)
+*NGO Expo, Shanghai (December 16, 2016)*
 
 **Beijing (Fall 2015)**
 - Conducted in-depth interviews with civilian-established NGOs across various domains regarding government contracting & registration (environment, women's rights, LGBT, HIV prevention, etc.)
