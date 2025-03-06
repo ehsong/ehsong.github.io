@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Dissertation"
-permalink: /dissertation/
+title: "Book Project"
+permalink: /book/
 author_profile: true
 ---
 
