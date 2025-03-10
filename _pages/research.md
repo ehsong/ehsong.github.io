@@ -16,7 +16,7 @@ My third area of research investigates personalism—how executives personalize 
 
 ### Peer-reviewed Publications
 
-Song, Esther E., Jacob Reidhead, and Jeongsue Park. "Introducing Career Transition Data on Elites in North Korea." Forthcoming in *Journal of East Asian Studies*.     
+Song, Esther E., Jacob Reidhead, and Jeongsue Park. 2025. ["Introducing Career Transition Data on Elites in North Korea."](https://www.cambridge.org/core/journals/journal-of-east-asian-studies/article/introducing-career-transition-data-on-elites-in-north-korea/D381AB27F1C503A7D8C4A9F8243C82A1) *Journal of East Asian Studies*.     
 - Presented at MPSA, ECPR 2023; Workshop on Authoritarianism, Oxford University 2024
   
 Song, Esther E. "South Korea’s Narratives on China: Evidence from Elites, Masses, and Scholars." Forthcoming in *Asian Perspective*.     
