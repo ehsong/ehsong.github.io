@@ -67,8 +67,7 @@ Public Opinion on Cross-Strait Tensions in South Korea (with Doyoung Lee)
 
 [Personnel, institutions, and power: Revisiting the concept of political personalization](https://www.giga-hamburg.de/en/publications/giga-working-papers/personnel-institutions-power-revisiting-concept-of-executive-personalisation) (with Mariana Llanos, Thomas Richter, David Kuehn, Martin Acheampong, and Emilia Arellano). 
 - Presented at GIGA Workshop on Personalization of Executive Power, 2023 Hamburg Germany; APSA 2023
-- Revise and resubmit at *Democratization*
-- Manuscript in preparation as part of special issue on personalization of executive power
+- Revise and resubmit at *Democratization*, in preparation as part of special issue on personalization of executive power
   
 Succession Politics in North Korea: The Strategic Role of Personnel Management (with Jacob Reidhead)
 - Previous version presented at Workshop on Authoritarian Institutions, Oxford University, All Souls College 2024
