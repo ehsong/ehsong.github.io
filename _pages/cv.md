@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}  
-[CV](https://drive.google.com/file/d/1H1lh3qry8g-y3qqqOWA2BVc8Ik6tSsxF/view?usp=sharing](https://drive.google.com/file/d/1r3UvlxHi52xfhJoRtAh0sWh7P9eTMOLH/view?usp=sharing)
+(CV)[https://drive.google.com/file/d/1H1lh3qry8g-y3qqqOWA2BVc8Ik6tSsxF/view?usp=sharing](https://drive.google.com/file/d/1r3UvlxHi52xfhJoRtAh0sWh7P9eTMOLH/view?usp=sharing]
 (Last updated April 2025)
