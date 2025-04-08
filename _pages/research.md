@@ -65,6 +65,6 @@ Mapping the Concept of Civil Society in China (with Runya Qiaoan)
 Public Opinion on Cross-Strait Tensions in South Korea (with Doyoung Lee)
 - Previous version presented at APSA 2024, Philadephia; Social Science Korea Studies Europe Network (SoKEN) Ca'Foscari Venice 2024
 
-Personnel, institutions, and power: Revisiting the concept of political personalization </a>(with Mariana Llanos, Thomas Richter, David Kuehn, Martin Acheampong, and Emilia Arellano). 
-- Presented at GIGA Workshop on Personalization of Power, 2023; APSA 2023
+[Personnel, institutions, and power: Revisiting the concept of political personalization](https://www.giga-hamburg.de/en/publications/giga-working-papers/personnel-institutions-power-revisiting-concept-of-executive-personalisation) (with Mariana Llanos, Thomas Richter, David Kuehn, Martin Acheampong, and Emilia Arellano). 
+- Presented at GIGA Workshop on Personalization of Executive Power, 2023 Hamburg Germany; APSA 2023
 - Revise and resubmit at *Democratization*
