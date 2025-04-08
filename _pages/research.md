@@ -70,7 +70,7 @@ Public Opinion on Cross-Strait Tensions in South Korea (with Doyoung Lee)
 - Revise and resubmit at *Democratization*, in preparation as part of special issue on personalization of executive power
   
 Succession Politics in North Korea: The Strategic Role of Personnel Management (with Jacob Reidhead)
-- Previous version presented at Workshop on Authoritarian Institutions, Oxford University, All Souls College 2024
+- Previous version presented at Workshop on Authoritarian Institutions, Oxford University 2024
 - Manuscript in preparation as part of special issue on authoritarian institutions
 
 
