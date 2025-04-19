@@ -13,6 +13,7 @@ author_profile: true
 
 **2025**
 
+- August, EISA Bologna Italy (scheduled)
 - July, IPSA Seoul South Korea (scheduled)
 - June, Fudan Development Institute, Shanghai China (scheduled)
   
