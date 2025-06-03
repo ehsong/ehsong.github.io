@@ -19,7 +19,7 @@ My third area of research investigates personalism—how executives personalize 
 Song, Esther E., Jacob Reidhead, and Jeongsue Park. 2025. ["Introducing Career Transition Data on Elites in North Korea."](https://www.cambridge.org/core/journals/journal-of-east-asian-studies/article/introducing-career-transition-data-on-elites-in-north-korea/D381AB27F1C503A7D8C4A9F8243C82A1) *Journal of East Asian Studies*.     
 - Presented at MPSA, ECPR 2023; Workshop on Authoritarianism, Oxford University 2024
   
-Song, Esther E. "South Korea’s Narratives on China: Evidence from Elites, Masses, and Scholars." Forthcoming in *Asian Perspective*.     
+Song, Esther E. ["South Korea’s Narratives on China: Evidence from Elites, Masses, and Scholars."](https://muse.jhu.edu/pub/1/article/960999) 2025. *Asian Perspective*, 49(2), 379-396.     
 - Previous version presented at Helmut Schmidt Stiftung Conference on International China Narratives in Politics and Economics Since 1945, Hamburg Germany 2023
 
 Song, Esther E. and Sung Eun Kim. 2024. ["China's Dual Signaling in Maritime Disputes."](https://www.tandfonline.com/doi/full/10.1080/10357718.2024.2394179) *Australian Journal of International Affairs*, 1-23.   
