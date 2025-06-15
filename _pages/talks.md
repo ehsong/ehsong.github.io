@@ -15,6 +15,7 @@ author_profile: true
 
 - August, EISA Bologna Italy (scheduled)
 - July, IPSA Seoul South Korea (scheduled)
+- June, Institute for International Studies (IIS) Fudan University, Shanghai China (invited)
 - June, Fudan Development Institute, Shanghai China (scheduled)
   
 **2024**
@@ -30,7 +31,7 @@ author_profile: true
 - September, APSA Los Angeles USA
 - September, ECPR Prague Czechia
 - June, [Workshop: The Personalization of Executive Power - Conceptual, Theoretical and Empirical Perspectives. German Institute for Global and Area Studies](https://www.giga-hamburg.de/en/events/conferences-and-workshops/personalization-executive-power-conceptual-theoretical-empirical-perspectives), Hamburg Germany
-- May, Roundtable: "US Allies and Taiwan", [European Council on Foreign Relations](https://ecfr.eu/), Berlin Germany
+- May, Roundtable "US Allies and Taiwan", [European Council on Foreign Relations](https://ecfr.eu/), Berlin Germany (invited)
 - March, [From the “Workshop of the World” to “Systemic Rival”? International China Narratives in Politics and Economics since 1945, Bundeskanzler-Helmut-Schmidt-Stiftung (BKHS)](https://www.helmut-schmidt.de/en/), Hamburg Germany     
 
 **2022**
@@ -38,4 +39,3 @@ author_profile: true
 - November, [Sinophone Borderlands - Global Views on China Conference, Palacky University](https://sinofon.cz/surveys/), Olomouc Czechia
 - September, [China in Europe Research Network Conference (CHERN) Joint Working Group Conference](https://china-in-europe.net/chern-joint-working-group-conference-in-september-2022-at-inalco-paris/), Paris France
 - April, GIGA Workshop on Foreign Policy, Hamburg Germany
-
