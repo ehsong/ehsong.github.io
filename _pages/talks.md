@@ -36,6 +36,6 @@ author_profile: true
 
 **2022**
 
-- November, [Sinophone Borderlands - Global Views on China Conference, Palacky University](https://sinofon.cz/surveys/), Olomouc Czechia
+- November, [Sinophone Borderlands - Global Views on China Conference, Palacky University](https://sinofon.cz/surveys/), Olomouc Czechia (invited)
 - September, [China in Europe Research Network Conference (CHERN) Joint Working Group Conference](https://china-in-europe.net/chern-joint-working-group-conference-in-september-2022-at-inalco-paris/), Paris France
 - April, GIGA Workshop on Foreign Policy, Hamburg Germany
