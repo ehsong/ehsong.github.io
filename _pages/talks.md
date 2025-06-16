@@ -16,7 +16,7 @@ author_profile: true
 - August, EISA Bologna Italy (scheduled)
 - July, IPSA Seoul South Korea (scheduled)
 - June, Institute for International Studies (IIS) Fudan University, Shanghai China (invited)
-- June, Fudan Development Institute, Shanghai China (scheduled)
+- June, Fudan Development Institute, Shanghai China (invited)
   
 **2024**
 
