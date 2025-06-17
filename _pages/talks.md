@@ -14,8 +14,8 @@ author_profile: true
 **2025**
 
 - August, EISA Bologna Italy (scheduled)
-- July, IPSA Seoul South Korea (scheduled)
-- June, Institute for International Studies (IIS) Fudan University, Shanghai China (invited)
+- July, IPSA Seoul South Korea (scheduled, chair)
+- June, Institute for International Studies (IIS) Fudan University, Shanghai China (invited, discussant)
 - June, Fudan Development Institute, Shanghai China
   
 **2024**
@@ -27,11 +27,11 @@ author_profile: true
 
 **2023**
 
-- October, Computational Social Science Workshop, Graduate School of International Studies, [Ewha Womans University](https://www.ewha.ac.kr/ewhaen/index.do), Seoul South Korea  
+- October, Computational Social Science Workshop, Graduate School of International Studies, [Ewha Womans University](https://www.ewha.ac.kr/ewhaen/index.do), Seoul South Korea (invited)
 - September, APSA Los Angeles USA
 - September, ECPR Prague Czechia
 - June, [Workshop: The Personalization of Executive Power - Conceptual, Theoretical and Empirical Perspectives. German Institute for Global and Area Studies](https://www.giga-hamburg.de/en/events/conferences-and-workshops/personalization-executive-power-conceptual-theoretical-empirical-perspectives), Hamburg Germany
-- May, Roundtable "US Allies and Taiwan", [European Council on Foreign Relations](https://ecfr.eu/), Berlin Germany (invited)
+- May, Roundtable "US Allies and Taiwan", [European Council on Foreign Relations](https://ecfr.eu/), Berlin Germany (invited, participant)
 - March, [From the “Workshop of the World” to “Systemic Rival”? International China Narratives in Politics and Economics since 1945, Bundeskanzler-Helmut-Schmidt-Stiftung (BKHS)](https://www.helmut-schmidt.de/en/), Hamburg Germany     
 
 **2022**
