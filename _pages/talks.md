@@ -16,7 +16,7 @@ author_profile: true
 - August, EISA Pan-European Conference on International Relations, Bologna Italy (scheduled)
 - July, IPSA Seoul South Korea (panel organizer/chair)
 - June, Institute for International Studies (IIS) Fudan University, Shanghai China (invited, discussant)
-- June, Fudan Development Institute, Shanghai China
+- June, Fudan Development Institute, Shanghai China (invited)
   
 **2024**
 
