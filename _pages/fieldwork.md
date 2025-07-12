@@ -22,4 +22,4 @@ author_profile: true
 - Compiled secondary literature written in Mandarin
 
 **Shanghai (May 2025 - June 2025)**
-- Exploratory discussions with scholars on social science research environment in China; preliminary exchange with a community NGO on outsourcing
+- Exploratory discussions with scholars on social science research environment in China; preliminary exchange with a community NGO on outsourcing and grid management
