@@ -59,11 +59,11 @@ Qiaoan, Runya and Esther E. Song. 2024. [“Changes in State-Civil Society Relat
 
 ### Works in Progress
 
-Mapping the Concept of Civil Society in China (with Runya Qiaoan)
+Mapping the Discourse on Civil Society in China
 - Part of the research presented at Digital Scholarship in East Asian Studies Conference, Max Planck Institute of History of Science & Berlin State Library, Berlin July 2024  
 
 Public Opinion on Cross-Strait Tensions in South Korea (with Doyoung Lee)
-- Previous version presented at APSA 2024, Philadephia; Social Science Korea Studies Europe Network (SoKEN) Ca'Foscari Venice 2024
+- Previous version presented at APSA 2024, Philadephia; Social Science Korea Studies Europe Network (SoKEN) Ca'Foscari Venice 2024; European International Studies Association (EISA) Pan-European Conference on International Studies Bologna 2025
 
 [Personnel, institutions, and power: Revisiting the concept of political personalization](https://www.giga-hamburg.de/en/publications/giga-working-papers/personnel-institutions-power-revisiting-concept-of-executive-personalisation) (with Mariana Llanos, Thomas Richter, David Kuehn, Martin Acheampong, and Emilia Arellano). 
 - Presented at GIGA Workshop on Personalization of Executive Power, 2023 Hamburg Germany; APSA 2023
