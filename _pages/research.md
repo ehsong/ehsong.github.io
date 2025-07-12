@@ -14,6 +14,8 @@ In my post-doctoral period at GIGA, I started a second strand of research on int
 
 My third area of research investigates personalism—how executives personalize power—and politics within personalist autocracies. This research draws from literature on comparative authoritarianism, autocratization, democratic backsliding, and insights from Northeast Asian countries like China and the two Koreas. The findings have been published or forthcoming in *Journal of East Asian Studies*, *Korea Observer*, and [GIGA Working Paper](https://www.giga-hamburg.de/en/publications/giga-working-papers/personnel-institutions-power-revisiting-concept-of-executive-personalisation).
 
+Aside from these topics, I am also interested in China's discursive framing of democracy, and social science knowledge production in China. If you work on these topics, let's connect!
+
 ### Peer-reviewed Publications
 
 Song, Esther E., Jacob Reidhead, and Jeongsue Park. 2025. ["Introducing Career Transition Data on Elites in North Korea."](https://www.cambridge.org/core/journals/journal-of-east-asian-studies/article/introducing-career-transition-data-on-elites-in-north-korea/D381AB27F1C503A7D8C4A9F8243C82A1) *Journal of East Asian Studies*.     
