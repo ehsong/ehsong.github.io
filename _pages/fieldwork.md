@@ -20,3 +20,6 @@ author_profile: true
 - Conducted interviews with neighborhood-based NGO incubators & mass organizations
 - Carried out an original survey across 42 communities across 7 neighborhoods in 4 districts in Shanghai
 - Compiled secondary literature written in Mandarin
+
+**Shanghai (May 2025 - June 2025)**
+- Discussions with scholars on social science research environment in China; preliminary discussion with a community NGO on outsourcing
