@@ -14,7 +14,7 @@ In my post-doctoral period at GIGA, I started a second strand of research on int
 
 My third area of research investigates personalism—how executives personalize power—and politics within personalist autocracies. This research draws from literature on comparative authoritarianism, autocratization, democratic backsliding, and insights from Northeast Asian countries like China and the two Koreas. The findings have been published or forthcoming in *Journal of East Asian Studies*, *Korea Observer*, and [GIGA Working Paper](https://www.giga-hamburg.de/en/publications/giga-working-papers/personnel-institutions-power-revisiting-concept-of-executive-personalisation).
 
-Aside from these topics, I am also interested in China's discursive framing of democracy and overseas propaganda, and social science knowledge production in China, and far-right activism and anti-Chinese sentiment in South Korea.
+Aside from these topics, I am also interested in China's discursive framing of democracy and overseas propaganda, social science knowledge production in China, and far-right activism and anti-Chinese sentiment in South Korea.
 
 ### Peer-reviewed Publications
 
