@@ -9,7 +9,7 @@ author_profile: true
 <img src="https://github.com/ehsong/ehsong.github.io/blob/master/images/IMG_9745.jpg?raw=true" width="700" height="525">        
 *Prague Czechia October 2022*
 
-**Invited Talks, Workshops, Rountables & Conferences**
+*Invited Talks, Panels, Roundtables & Conferences**
 
 **2025**
 
