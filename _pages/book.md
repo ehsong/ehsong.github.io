@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-*under contract*
+*Under Contract*
 
 ## **The NGO Paradox: Outsourcing and Legitimacy in China**
 
