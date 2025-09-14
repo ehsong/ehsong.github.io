@@ -74,3 +74,6 @@ Public Opinion on Cross-Strait Tensions in South Korea (with Doyoung Lee)
 Succession Politics in North Korea: The Strategic Role of Personnel Management (with Jacob Reidhead)
 - Previous version presented at Workshop on Authoritarian Institutions, Oxford University 2024
 - Manuscript in preparation as part of special issue on authoritarian institutions
+
+Trends in International Political Science Research: Elite Behavior in Authoritarian Regimes
+
