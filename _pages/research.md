@@ -76,4 +76,5 @@ Succession Politics in North Korea: The Strategic Role of Personnel Management (
 - Manuscript in preparation as part of special issue on authoritarian institutions
 
 Trends in International Political Science Research: Elite Behavior in Authoritarian Regimes
+- In preparation as part of Trends issue in [International Political Science Abstracts](https://journals.sagepub.com/home/IAB)
 
