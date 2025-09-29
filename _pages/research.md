@@ -72,16 +72,16 @@ Aside from these topics, I am also interested in China's discursive framing of d
 
 ### Works in Progress
 
-Mapping the Discourse on Civil Society in China
-- Part of the research presented at Digital Scholarship in East Asian Studies Conference, Max Planck Institute of History of Science & Berlin State Library, Berlin July 2024  
+1. Civil Society Research in China
+- Part of the research presented at Digital Scholarship in East Asian Studies Conference, Max Planck Institute of History of Science & Berlin State Library, Berlin July 2024
 
-Public Opinion on Cross-Strait Tensions in South Korea (with Doyoung Lee)
+2. Public Opinion on Cross-Strait Tensions in South Korea (with Doyoung Lee)
 - Previous version presented at APSA 2024, Philadephia; Social Science Korea Studies Europe Network (SoKEN) Ca'Foscari Venice 2024; European International Studies Association (EISA) Pan-European Conference on International Studies Bologna 2025
   
-Succession Politics in North Korea: The Strategic Role of Personnel Management (with Jacob Reidhead)
+3. Succession Politics in North Korea: The Strategic Role of Personnel Management (with Jacob Reidhead)
 - Previous version presented at Workshop on Authoritarian Institutions, Oxford University 2024
 - Manuscript in consideration as part of special issue on authoritarian institutions
 
-Trends in International Political Science Research: Elite Behavior in Authoritarian Regimes
+6. Trends in International Political Science Research: Elite Behavior in Authoritarian Regimes
 - In preparation as part of Trends issue in [International Political Science Abstracts](https://journals.sagepub.com/home/IAB)
 
