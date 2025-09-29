@@ -20,40 +20,40 @@ Aside from these topics, I am also interested in China's discursive framing of d
 
 <ins>*Civil Society and NGO Policy in China*</ins>
 
-11. Song, Esther E. 2024. ["Explaining the Expansion of the NGO Sector in China: Through the Lense of Adaptive Corporatist Governance."](https://onlinelibrary.wiley.com/doi/10.1111/aspp.12752) *Asian Politics & Policy*, 1-18.
+1. Song, Esther E. 2024. ["Explaining the Expansion of the NGO Sector in China: Through the Lense of Adaptive Corporatist Governance."](https://onlinelibrary.wiley.com/doi/10.1111/aspp.12752) *Asian Politics & Policy*, 1-18.
 
-10. Song, Esther E. 2022. ["How Outsourcing Social Services to NGOs Bolsters Political Trust in China: Evidence from Shanghai."](https://link.springer.com/article/10.1007/s41111-021-00207-z) *Chinese Political Science Review*, 9, 36–62.
+2. Song, Esther E. 2022. ["How Outsourcing Social Services to NGOs Bolsters Political Trust in China: Evidence from Shanghai."](https://link.springer.com/article/10.1007/s41111-021-00207-z) *Chinese Political Science Review*, 9, 36–62.
 - Presented at MPSA 2019; Bay Area Comparative Urban Politics Workshop, UC Berkeley 2019; China Social Science Workshop, Stanford University 2019 
 
 <ins>*China's Foreign Policy*</ins>
 
-9. Song, Esther E. and Sung Eun Kim. 2024. ["China's Dual Signaling in Maritime Disputes."](https://www.tandfonline.com/doi/full/10.1080/10357718.2024.2394179) *Australian Journal of International Affairs*, 1-23.   
+3. Song, Esther E. and Sung Eun Kim. 2024. ["China's Dual Signaling in Maritime Disputes."](https://www.tandfonline.com/doi/full/10.1080/10357718.2024.2394179) *Australian Journal of International Affairs*, 1-23.   
 - Presented at APSA 2023; GIGA Workshop on Foreign Policy 2023
 
-8. Song, Esther E. and Joanne Yang. 2023. ["China’s Adherence to International Human Rights Treaties: an Empirical Assessment."](https://journals.sagepub.com/doi/10.1177/22338659231175830) *International Area Studies Review*, 26(3), 252-268.
+4. Song, Esther E. and Joanne Yang. 2023. ["China’s Adherence to International Human Rights Treaties: an Empirical Assessment."](https://journals.sagepub.com/doi/10.1177/22338659231175830) *International Area Studies Review*, 26(3), 252-268.
 - Cited by [The Conversation](https://theconversation.com/how-to-encourage-china-to-become-a-law-abiding-member-of-the-rules-based-international-order-218223)  
   
 <ins>*Authoritarianism in East Asia*</ins>
 
-7. Song, Esther E., Jacob Reidhead, and Jeongsue Park. 2025. ["Introducing Career Transition Data on Elites in North Korea."](https://www.cambridge.org/core/journals/journal-of-east-asian-studies/article/introducing-career-transition-data-on-elites-in-north-korea/D381AB27F1C503A7D8C4A9F8243C82A1) *Journal of East Asian Studies*.
+5. Song, Esther E., Jacob Reidhead, and Jeongsue Park. 2025. ["Introducing Career Transition Data on Elites in North Korea."](https://www.cambridge.org/core/journals/journal-of-east-asian-studies/article/introducing-career-transition-data-on-elites-in-north-korea/D381AB27F1C503A7D8C4A9F8243C82A1) *Journal of East Asian Studies*.
 - Presented at MPSA, ECPR 2023; Workshop on Authoritarianism, Oxford University 2024
 
 6. Richter, T., Llanos, M., Kuehn, D., Acheampong, M., Arellano, E., and **Esther Song**. 2025. ["Personnel management, institutional engineering, and coercion: mechanisms of the personalization of executive power."]((https://doi.org/10.1080/13510347.2025.2551068)). *Democratization*.
 - Presented at GIGA Workshop on Personalization of Executive Power 2023; APSA 2023
 
-5. Song, Esther E. 2023. ["Long-Term Effects of Authoritarian Repression: Evidence from the Gwangju Massacre in South Korea, 1980."](https://journals.sagepub.com/doi/epub/10.1177/20578911221147994) *Asian Journal of Comparative Politics*, 8(1), 364–380. 
+7. Song, Esther E. 2023. ["Long-Term Effects of Authoritarian Repression: Evidence from the Gwangju Massacre in South Korea, 1980."](https://journals.sagepub.com/doi/epub/10.1177/20578911221147994) *Asian Journal of Comparative Politics*, 8(1), 364–380. 
 
-4. Song, Esther E. and Ines Miral. 2023. ["Personalization of Executive Power after COVID-19 in South Korea."](https://scholar.kyobobook.co.kr/article/detail/4010068022214) *Korea Observer*, 54(4), 641-670.
+8. Song, Esther E. and Ines Miral. 2023. ["Personalization of Executive Power after COVID-19 in South Korea."](https://scholar.kyobobook.co.kr/article/detail/4010068022214) *Korea Observer*, 54(4), 641-670.
 
 <ins>*International Affairs in East Asia (Korea - China Relations)*</ins>
 
-3. Song, Esther E. ["South Korea’s Narratives on China: Evidence from Elites, Masses, and Scholars."](https://muse.jhu.edu/pub/1/article/960999) 2025. *Asian Perspective*, 49(2), 379-396.
+9. Song, Esther E. ["South Korea’s Narratives on China: Evidence from Elites, Masses, and Scholars."](https://muse.jhu.edu/pub/1/article/960999) 2025. *Asian Perspective*, 49(2), 379-396.
 - Previous version presented at Helmut Schmidt Stiftung Conference on International China Narratives in Politics and Economics Since 1945, Hamburg Germany 2023; part of the research presented at Fudan Development Institute 2025
 
-2. Song, Esther E. 2023. ["Air Pollution Coverage, Anti-Chinese Sentiment, and Attitudes towards Foreign Policy in South Korea."](https://doi.org/10.1007/s11366-023-09849-z) *Journal of Chinese Political Science*, 28, 571–592. 
+10. Song, Esther E. 2023. ["Air Pollution Coverage, Anti-Chinese Sentiment, and Attitudes towards Foreign Policy in South Korea."](https://doi.org/10.1007/s11366-023-09849-z) *Journal of Chinese Political Science*, 28, 571–592. 
 - Presented at APSA 2019; cited in [East Asia Forum](https://eastasiaforum.org/2024/05/24/why-arent-south-koreans-studying-in-china-anymore/)
 
-1. Song, Esther E. 2023. ["COVID-19, Anti-Chinese Sentiment, and Foreign Policy Attitudes in South Korea."](https://t.co/ulZlIiRwHZ) *Asian Survey*, 63(5), 823–850.
+11. Song, Esther E. 2023. ["COVID-19, Anti-Chinese Sentiment, and Foreign Policy Attitudes in South Korea."](https://t.co/ulZlIiRwHZ) *Asian Survey*, 63(5), 823–850.
 - Presented at Sinophone Borderlands: Global Views on China Conference, Palacky University 2023
 
 ### Book Chapters
@@ -62,13 +62,13 @@ Aside from these topics, I am also interested in China's discursive framing of d
 
 ### Media & Policy
 
-3. [Why aren't South Koreans studying in China anymore?](https://eastasiaforum.org/2024/05/24/why-arent-south-koreans-studying-in-china-anymore/). *East Asia Forum*, May 2024.   
+1. [Why aren't South Koreans studying in China anymore?](https://eastasiaforum.org/2024/05/24/why-arent-south-koreans-studying-in-china-anymore/). *East Asia Forum*, May 2024.   
 
 2. [South Koreans Have the World's Most Negative Views of China. Why?](https://thediplomat.com/2022/12/south-koreans-have-the-worlds-most-negative-views-of-china-why/). *The Diplomat*, December 2022 (with Richard Turcsanyi).
    * Covered by major media outlets in South Korea including [KBS](https://news.kbs.co.kr/news/view.do?ncd=6207159&ref=A), [SBS](https://news.sbs.co.kr/news/endPage.do?news_id=N1007024887&plink=ORI&cooper=NAVER), [MBC](https://imnews.imbc.com/replay/2022/nwtoday/article/6440097_35752.html), [Joongang Ilbo](https://www.joongang.co.kr/article/25129259), and [Chosun Ilbo](https://www.chosun.com/international/international_general/2022/12/28/NSJ6CQ37RNEM3JOVZWWAZDRAAI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news)
    * Cited by [The New York Times](https://www.nytimes.com/2023/04/10/opinion/south-korea-japan-china-relations.html); [World Politics Review](https://www.worldpoliticsreview.com/china-south-korea-yoon/)     
 
-1. [Rising Anti-China Sentiment Supports South Korea’s Alignment with the US.](https://www.giga-hamburg.de/en/publications/giga-focus/rising-anti-china-sentiment-supports-south-koreas-alignment-with-the-us) *GIGA Focus Asia*, 2023.
+3. [Rising Anti-China Sentiment Supports South Korea’s Alignment with the US.](https://www.giga-hamburg.de/en/publications/giga-focus/rising-anti-china-sentiment-supports-south-koreas-alignment-with-the-us) *GIGA Focus Asia*, 2023.
 
 ### Works in Progress
 
