@@ -51,10 +51,10 @@ Aside from these topics, I am also interested in China's discursive framing of d
    * Previous version presented at Helmut Schmidt Stiftung Conference on International China Narratives in Politics and Economics Since 1945, Hamburg Germany 2023; part of the research presented at Fudan Development Institute 2025
 
 10. Song, Esther E. 2023. ["Air Pollution Coverage, Anti-Chinese Sentiment, and Attitudes towards Foreign Policy in South Korea."](https://doi.org/10.1007/s11366-023-09849-z) *Journal of Chinese Political Science*, 28, 571–592.
-   * Presented at APSA 2019; cited in [East Asia Forum](https://eastasiaforum.org/2024/05/24/why-arent-south-koreans-studying-in-china-anymore/)
+    * Presented at APSA 2019; cited in [East Asia Forum](https://eastasiaforum.org/2024/05/24/why-arent-south-koreans-studying-in-china-anymore/)
 
-11. Song, Esther E. 2023. ["COVID-19, Anti-Chinese Sentiment, and Foreign Policy Attitudes in South Korea."](https://t.co/ulZlIiRwHZ) *Asian Survey*, 63(5), 823–850.
-   * Presented at Sinophone Borderlands: Global Views on China Conference, Palacky University 2023
+12. Song, Esther E. 2023. ["COVID-19, Anti-Chinese Sentiment, and Foreign Policy Attitudes in South Korea."](https://t.co/ulZlIiRwHZ) *Asian Survey*, 63(5), 823–850.
+    * Presented at Sinophone Borderlands: Global Views on China Conference, Palacky University 2023
 
 ### Book Chapters
 
