@@ -39,7 +39,7 @@ Aside from these topics, I am also interested in China's discursive framing of d
 - Presented at MPSA, ECPR 2023; Workshop on Authoritarianism, Oxford University 2024
 
 6. Richter, T., Llanos, M., Kuehn, D., Acheampong, M., Arellano, E., and **Esther Song**. 2025. ["Personnel management, institutional engineering, and coercion: mechanisms of the personalization of executive power."]((https://doi.org/10.1080/13510347.2025.2551068)). *Democratization*.
-- Presented at GIGA Workshop on Personalization of Executive Power 2023
+- Presented at GIGA Workshop on Personalization of Executive Power 2023; APSA 2023
 
 5. Song, Esther E. 2023. ["Long-Term Effects of Authoritarian Repression: Evidence from the Gwangju Massacre in South Korea, 1980."](https://journals.sagepub.com/doi/epub/10.1177/20578911221147994) *Asian Journal of Comparative Politics*, 8(1), 364–380. 
 
@@ -77,14 +77,10 @@ Mapping the Discourse on Civil Society in China
 
 Public Opinion on Cross-Strait Tensions in South Korea (with Doyoung Lee)
 - Previous version presented at APSA 2024, Philadephia; Social Science Korea Studies Europe Network (SoKEN) Ca'Foscari Venice 2024; European International Studies Association (EISA) Pan-European Conference on International Studies Bologna 2025
-
-[Personnel, institutions, and power: Revisiting the concept of political personalization](https://www.giga-hamburg.de/en/publications/giga-working-papers/personnel-institutions-power-revisiting-concept-of-executive-personalisation) (with Mariana Llanos, Thomas Richter, David Kuehn, Martin Acheampong, and Emilia Arellano). 
-- Presented at GIGA Workshop on Personalization of Executive Power, 2023 Hamburg Germany; APSA 2023
-- Revise and resubmit at *Democratization*, in preparation as part of special issue on personalization of executive power
   
 Succession Politics in North Korea: The Strategic Role of Personnel Management (with Jacob Reidhead)
 - Previous version presented at Workshop on Authoritarian Institutions, Oxford University 2024
-- Manuscript in preparation as part of special issue on authoritarian institutions
+- Manuscript in consideration as part of special issue on authoritarian institutions
 
 Trends in International Political Science Research: Elite Behavior in Authoritarian Regimes
 - In preparation as part of Trends issue in [International Political Science Abstracts](https://journals.sagepub.com/home/IAB)
