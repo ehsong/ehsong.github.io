@@ -58,17 +58,17 @@ Aside from these topics, I am also interested in China's discursive framing of d
 
 ### Book Chapters
 
-Qiaoan, Runya and Esther E. Song. 2024. [“Changes in State-Civil Society Relations in China during Hu and Xi.”](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003227014-4/state-civil-society-relations-china-hu-jintao-xi-jinping-runya-qiaoan-esther-song?context=ubx&refId=457ddd66-47a6-4d74-8d98-0df445118c89) In Czeslaw Tubilewicz (Eds.), *Critical Issues in Contemporary China.* Routledge.
+1. Qiaoan, Runya and Esther E. Song. 2024. [“Changes in State-Civil Society Relations in China during Hu and Xi.”](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003227014-4/state-civil-society-relations-china-hu-jintao-xi-jinping-runya-qiaoan-esther-song?context=ubx&refId=457ddd66-47a6-4d74-8d98-0df445118c89) In Czeslaw Tubilewicz (Eds.), *Critical Issues in Contemporary China.* Routledge.
 
 ### Media & Policy
 
-[Why aren't South Koreans studying in China anymore?](https://eastasiaforum.org/2024/05/24/why-arent-south-koreans-studying-in-china-anymore/). *East Asia Forum*, May 2024.   
+3. [Why aren't South Koreans studying in China anymore?](https://eastasiaforum.org/2024/05/24/why-arent-south-koreans-studying-in-china-anymore/). *East Asia Forum*, May 2024.   
 
-[South Koreans Have the World's Most Negative Views of China. Why?](https://thediplomat.com/2022/12/south-koreans-have-the-worlds-most-negative-views-of-china-why/). *The Diplomat*, December 2022 (with Richard Turcsanyi).
+2. [South Koreans Have the World's Most Negative Views of China. Why?](https://thediplomat.com/2022/12/south-koreans-have-the-worlds-most-negative-views-of-china-why/). *The Diplomat*, December 2022 (with Richard Turcsanyi).
    * Covered by major media outlets in South Korea including [KBS](https://news.kbs.co.kr/news/view.do?ncd=6207159&ref=A), [SBS](https://news.sbs.co.kr/news/endPage.do?news_id=N1007024887&plink=ORI&cooper=NAVER), [MBC](https://imnews.imbc.com/replay/2022/nwtoday/article/6440097_35752.html), [Joongang Ilbo](https://www.joongang.co.kr/article/25129259), and [Chosun Ilbo](https://www.chosun.com/international/international_general/2022/12/28/NSJ6CQ37RNEM3JOVZWWAZDRAAI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news)
    * Cited by [The New York Times](https://www.nytimes.com/2023/04/10/opinion/south-korea-japan-china-relations.html); [World Politics Review](https://www.worldpoliticsreview.com/china-south-korea-yoon/)     
 
-[Rising Anti-China Sentiment Supports South Korea’s Alignment with the US.](https://www.giga-hamburg.de/en/publications/giga-focus/rising-anti-china-sentiment-supports-south-koreas-alignment-with-the-us) *GIGA Focus Asia*, 2023.
+1. [Rising Anti-China Sentiment Supports South Korea’s Alignment with the US.](https://www.giga-hamburg.de/en/publications/giga-focus/rising-anti-china-sentiment-supports-south-koreas-alignment-with-the-us) *GIGA Focus Asia*, 2023.
 
 ### Works in Progress
 
