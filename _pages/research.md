@@ -23,7 +23,7 @@ Aside from these topics, I am also interested in China's discursive framing of d
 - ["Explaining the Expansion of the NGO Sector in China: Through the Lense of Adaptive Corporatist Governance."](https://onlinelibrary.wiley.com/doi/10.1111/aspp.12752) *Asian Politics & Policy*, 2024, 1-18.
 
 - ["How Outsourcing Social Services to NGOs Bolsters Political Trust in China: Evidence from Shanghai."](https://link.springer.com/article/10.1007/s41111-021-00207-z) *Chinese Political Science Review*, 2022, 9, 36–62.
-      * Presented at MPSA 2019; Bay Area Comparative Urban Politics Workshop, UC Berkeley 2019; China Social Science Workshop, Stanford University 2019 
+    * Presented at MPSA 2019; Bay Area Comparative Urban Politics Workshop, UC Berkeley 2019; China Social Science Workshop, Stanford University 2019 
 
 <ins>*China's Foreign Policy*</ins>
 
