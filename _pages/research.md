@@ -23,12 +23,12 @@ Aside from these topics, I am also interested in China's discursive framing of d
 11. Song, Esther E. 2024. ["Explaining the Expansion of the NGO Sector in China: Through the Lense of Adaptive Corporatist Governance."](https://onlinelibrary.wiley.com/doi/10.1111/aspp.12752) *Asian Politics & Policy*, 1-18.
 
 10. Song, Esther E. 2022. ["How Outsourcing Social Services to NGOs Bolsters Political Trust in China: Evidence from Shanghai."](https://link.springer.com/article/10.1007/s41111-021-00207-z) *Chinese Political Science Review*, 9, 36–62.
-   * Presented at MPSA 2019; Bay Area Comparative Urban Politics Workshop, UC Berkeley 2019; China Social Science Workshop, Stanford University 2019 
+    * Presented at MPSA 2019; Bay Area Comparative Urban Politics Workshop, UC Berkeley 2019; China Social Science Workshop, Stanford University 2019 
 
 <ins>*China's Foreign Policy*</ins>
 
-9. Song, Esther E. and Sung Eun Kim. 2024. ["China's Dual Signaling in Maritime Disputes."](https://www.tandfonline.com/doi/full/10.1080/10357718.2024.2394179) *Australian Journal of International Affairs*, 1-23.   
-   * Presented at APSA 2023; GIGA Workshop on Foreign Policy 2023
+9. Song, Esther E. and Sung Eun Kim. 2024. ["China's Dual Signaling in Maritime Disputes."](https://www.tandfonline.com/doi/full/10.1080/10357718.2024.2394179) *Australian Journal of International Affairs*, 1-23.
+    * Presented at APSA 2023; GIGA Workshop on Foreign Policy 2023
 
 8. Song, Esther E. and Joanne Yang. 2023. ["China’s Adherence to International Human Rights Treaties: an Empirical Assessment."](https://journals.sagepub.com/doi/10.1177/22338659231175830) *International Area Studies Review*, 26(3), 252-268
    * Cited by [The Conversation](https://theconversation.com/how-to-encourage-china-to-become-a-law-abiding-member-of-the-rules-based-international-order-218223)  
