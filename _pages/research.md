@@ -28,7 +28,7 @@ Aside from these topics, I am also interested in China's discursive framing of d
 <ins>*China's Foreign Policy*</ins>
 
 - Song, Esther E. and Sung Eun Kim. 2024. ["China's Dual Signaling in Maritime Disputes."](https://www.tandfonline.com/doi/full/10.1080/10357718.2024.2394179) *Australian Journal of International Affairs*, 1-23.
-      * Presented at APSA 2023; GIGA Workshop on Foreign Policy 2023
+     * Presented at APSA 2023; GIGA Workshop on Foreign Policy 2023
 
 - Song, Esther E. and Joanne Yang. 2023. ["China’s Adherence to International Human Rights Treaties: an Empirical Assessment."](https://journals.sagepub.com/doi/10.1177/22338659231175830) *International Area Studies Review*, 26(3), 252-268
      * Cited by [The Conversation](https://theconversation.com/how-to-encourage-china-to-become-a-law-abiding-member-of-the-rules-based-international-order-218223)  
