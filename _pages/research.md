@@ -38,7 +38,7 @@ Aside from these topics, I am also interested in China's discursive framing of d
 - ["Introducing Career Transition Data on Elites in North Korea."](https://www.cambridge.org/core/journals/journal-of-east-asian-studies/article/introducing-career-transition-data-on-elites-in-north-korea/D381AB27F1C503A7D8C4A9F8243C82A1) *Journal of East Asian Studies*, 2025. (with Jacob Reidhead and Jeongsue Park)
      * Presented at MPSA, ECPR 2023; Workshop on Authoritarianism, Oxford University 2024
 
-- ["Personnel management, institutional engineering, and coercion: mechanisms of the personalization of executive power."]((https://doi.org/10.1080/13510347.2025.2551068)). *Democratization*, 2025. (with Thomas Richter, Mariana Llanos, David Kuehn, Martin Acheampong, and Emilia Arellano)
+- ["Personnel management, institutional engineering, and coercion: mechanisms of the personalization of executive power."](https://doi.org/10.1080/13510347.2025.2551068). *Democratization*, 2025. (with Thomas Richter, Mariana Llanos, David Kuehn, Martin Acheampong, and Emilia Arellano)
      * Presented at GIGA Workshop on Personalization of Executive Power 2023; APSA 2023
 
 - ["Long-Term Effects of Authoritarian Repression: Evidence from the Gwangju Massacre in South Korea, 1980."](https://journals.sagepub.com/doi/epub/10.1177/20578911221147994) *Asian Journal of Comparative Politics*, 2023, 8(1), 364–380. 
